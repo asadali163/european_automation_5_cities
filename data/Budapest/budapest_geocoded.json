@@ -1,0 +1,6167 @@
+[
+  {
+    "name": "\"MA-MA-LA\" Bt.",
+    "license_number": "DKE1700000071",
+    "address": "1031 Budapest, Nánási út 24/A.",
+    "start_of_validity": "2024.05.24",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5715233,
+    "lon": 19.0617988
+  },
+  {
+    "name": "\"PAUL\" Kiskereskedelmi Bt.",
+    "license_number": "DKE1600000043",
+    "address": "1071 Budapest 07. ker. Rottenbiller utca 49.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5067038,
+    "lon": 19.0727291
+  },
+  {
+    "name": "\"REMYVERA\" kereskedelmi és Szolgáltató Bt.",
+    "license_number": "DKE1600000034",
+    "address": "1157 Budapest 15. ker. Zsókavár utca 43-47 fszt",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5401922,
+    "lon": 19.1435985
+  },
+  {
+    "name": "1x1x1 Bt.",
+    "license_number": "DKE1010000313",
+    "address": "1113 Budapest 11. ker. Villányi út 6.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4777105,
+    "lon": 19.045125
+  },
+  {
+    "name": "2Bacco Bt.",
+    "license_number": "DKE1700000172",
+    "address": "1028 Budapest, Hidegkúti út 76/A.",
+    "start_of_validity": "2023.04.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5520978,
+    "lon": 18.9643138
+  },
+  {
+    "name": "Abullding Pipa Bt",
+    "license_number": "Dke1010000207",
+    "address": "1211 Budapest 21. ker. Karácsony Sándor utca 10/A.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4272208,
+    "lon": 19.0688639
+  },
+  {
+    "name": "Abullding Pipa Bt",
+    "license_number": "DKE1010000269",
+    "address": "1214 Budapest 21. ker. II. Rákóczi Ferenc utca 142.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4603647,
+    "lon": 19.2325286
+  },
+  {
+    "name": "Abullding Pipa Bt",
+    "license_number": "DKE1010000297",
+    "address": "1213 Budapest 21. ker. Szent László utca 115.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4071628,
+    "lon": 19.0795081
+  },
+  {
+    "name": "Abullding Pipa Bt.",
+    "license_number": "DKE1010000210",
+    "address": "1212 Budapest, Szent István út 73.",
+    "start_of_validity": "2023.05.12",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.416282,
+    "lon": 19.0781904
+  },
+  {
+    "name": "Abundantia Damavand Cigars Dohánytermékek Kereskedelmi Bt.",
+    "license_number": "DKE1700000206",
+    "address": "1025 Budapest 02. ker. Törökvész út 87-91.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5290176,
+    "lon": 19.005443
+  },
+  {
+    "name": "AC TRAFIK Bt.",
+    "license_number": "DKE1010000053",
+    "address": "1094 Budapest, Tűzoltó utca 78-80.",
+    "start_of_validity": "2025.01.09",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4795967,
+    "lon": 19.0816106
+  },
+  {
+    "name": "AC TRAFIK Bt.",
+    "license_number": "DKE1600000090",
+    "address": "1074 Budapest, Dohány utca 47.",
+    "start_of_validity": "2025.01.09",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4980154,
+    "lon": 19.0693919
+  },
+  {
+    "name": "AC TRAFIK Bt.",
+    "license_number": "DKE1600000124",
+    "address": "1061 Budapest, Jókai tér 8.",
+    "start_of_validity": "2025.01.09",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5054724,
+    "lon": 19.0614947
+  },
+  {
+    "name": "AC TRAFIK Bt.",
+    "license_number": "DKE1700000045",
+    "address": "1032 Budapest, Bécsi út 88-90.",
+    "start_of_validity": "2025.01.09",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5326132,
+    "lon": 19.0359307
+  },
+  {
+    "name": "AC TRAFIK Bt.",
+    "license_number": "DKE1700000046",
+    "address": "1137 Budapest, Radnóti Miklós utca 38.",
+    "start_of_validity": "2025.01.09",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5161735,
+    "lon": 19.0497079
+  },
+  {
+    "name": "AG TRAFIK Bt.",
+    "license_number": "DKE1600000047",
+    "address": "1065 Budapest, Podmaniczky utca 2.",
+    "start_of_validity": "2022.01.24",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5073144,
+    "lon": 19.05548
+  },
+  {
+    "name": "AG TRAFIK Bt.",
+    "license_number": "DKE1600000054",
+    "address": "1156 Budapest, Páskomliget utca 49.",
+    "start_of_validity": "2022.01.24",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5474377,
+    "lon": 19.1354275
+  },
+  {
+    "name": "AG TRAFIK Bt.",
+    "license_number": "DKE1600000087",
+    "address": "1086 Budapest, Diószeghy Sámuel utca 15.",
+    "start_of_validity": "2022.01.24",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4875463,
+    "lon": 19.0884333
+  },
+  {
+    "name": "AG TRAFIK Bt.",
+    "license_number": "DKE1700000041",
+    "address": "1044 Budapest, Megyeri út 12. fszt. 9.",
+    "start_of_validity": "2022.01.24",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5797587,
+    "lon": 19.0879709
+  },
+  {
+    "name": "AG TRAFIK Bt.",
+    "license_number": "DKE1700000044",
+    "address": "1133 Budapest, Gogol utca 23.",
+    "start_of_validity": "2022.01.24",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.519899,
+    "lon": 19.0594288
+  },
+  {
+    "name": "Albert Kinga",
+    "license_number": "DKE1010000178",
+    "address": "1119 Budapest,\n Etele 65. fszt. 4.",
+    "start_of_validity": "2019.01.25",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4638836,
+    "lon": 19.0309425
+  },
+  {
+    "name": "Alfa Trafik Bt.",
+    "license_number": "DKE1600000155",
+    "address": "1101 Budapest, Hungária körút 5-7.",
+    "start_of_validity": "2023.02.17",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4909071,
+    "lon": 19.1095101
+  },
+  {
+    "name": "Alfa Trafik Bt.",
+    "license_number": "DKE1700000127",
+    "address": "1042 Budapest, Rózsa utca 12.",
+    "start_of_validity": "2023.02.17",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5566193,
+    "lon": 19.1001477
+  },
+  {
+    "name": "Alfa Trafik Bt.",
+    "license_number": "DKE1700000167",
+    "address": "1134 Budapest, Róbert Károly körút 38.",
+    "start_of_validity": "2023.02.17",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5311573,
+    "lon": 19.0695525
+  },
+  {
+    "name": "Almásháza ABC Kereskedelmi és Szolgáltató Bt.",
+    "license_number": "DKE1600000024",
+    "address": "1172 Budapest 17. ker. Almásháza utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4990909,
+    "lon": 19.2696063
+  },
+  {
+    "name": "Ambrus Ágnes Réka",
+    "license_number": "DKE1600000009",
+    "address": "1173 Budapest 17. ker. Borsó utca 64/B.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4797,
+    "lon": 19.2328
+  },
+  {
+    "name": "Andaro Bt",
+    "license_number": "DKE1010000169",
+    "address": "1118 Budapest 11. ker. Torbágy utca 7/A.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4707218,
+    "lon": 18.9983385
+  },
+  {
+    "name": "Annamari Trafik Bt.",
+    "license_number": "DKE1010000217",
+    "address": "1196 Budapest, Nádasdy utca 115.",
+    "start_of_validity": "2026.01.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4432391,
+    "lon": 19.1394613
+  },
+  {
+    "name": "Annamari Trafik Bt.",
+    "license_number": "DKE1010000223",
+    "address": "1195 Budapest, Batthyány utca 3.",
+    "start_of_validity": "2026.01.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4555859,
+    "lon": 19.1470656
+  },
+  {
+    "name": "Arany Pipafüst Bt.",
+    "license_number": "DKE1010000143",
+    "address": "1113 Budapest, Karolina út 17.",
+    "start_of_validity": "2026.04.02",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4819006,
+    "lon": 19.0299045
+  },
+  {
+    "name": "Arany Pipafüst Bt.",
+    "license_number": "DKE1010000321",
+    "address": "1111 Budapest, Budafoki út 57/b.",
+    "start_of_validity": "2026.04.02",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.476467,
+    "lon": 19.0531238
+  },
+  {
+    "name": "Arany Pipafüst Bt.",
+    "license_number": "DKE1700000061",
+    "address": "1033 Budapest, Köles utca 1.",
+    "start_of_validity": "2026.04.02",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5570786,
+    "lon": 19.0445036
+  },
+  {
+    "name": "ASR Bt.",
+    "license_number": "DKE1010000144",
+    "address": "1214 Budapest 21. ker. Szent László utca 3.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5483692,
+    "lon": 18.9403122
+  },
+  {
+    "name": "Baár György",
+    "license_number": "DKE1600000031",
+    "address": "1161 Budapest, Pálya utca 129.",
+    "start_of_validity": "2022.10.13",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5224119,
+    "lon": 19.1520058
+  },
+  {
+    "name": "Badacsonyi Zoltán",
+    "license_number": "DKE1600000030",
+    "address": "1158 Budapest 15. ker. Sztárai Mihály tér 4.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5393191,
+    "lon": 19.1289568
+  },
+  {
+    "name": "Bagó Centrum Bt",
+    "license_number": "DKE1700000099",
+    "address": "1035 Budapest 03. ker. Vörösvári út 43.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5459397,
+    "lon": 19.0338304
+  },
+  {
+    "name": "Bagó Trafik Bt.",
+    "license_number": "DKE1600000126",
+    "address": "1076 Budapest 07. ker. Thököly út 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5011277,
+    "lon": 19.0824969
+  },
+  {
+    "name": "Bagó Trafik Bt.",
+    "license_number": "DKE1600000145",
+    "address": "1144 Budapest 14. ker. Csertő utca 5-7.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5132355,
+    "lon": 19.1464618
+  },
+  {
+    "name": "Bagó Trafik Bt.",
+    "license_number": "DKE1700000133",
+    "address": "1042 Budapest 04. ker. Király utca 27/2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5610041,
+    "lon": 19.0984368
+  },
+  {
+    "name": "Bagó-Ért Bt",
+    "license_number": "DKE1600000234",
+    "address": "1061 Budapest 06. ker. Teréz körút 56.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5090025,
+    "lon": 19.0576524
+  },
+  {
+    "name": "Bagóra Bt.",
+    "license_number": "DKE1600000279",
+    "address": "1101 Budapest, Üllői út 112.",
+    "start_of_validity": "2024.02.19",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4728212,
+    "lon": 19.1105413
+  },
+  {
+    "name": "Bán Trafik Bt.",
+    "license_number": "DKE1700000138",
+    "address": "1047 Budapest 04. ker. Baross utca 88.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4895207,
+    "lon": 19.0788966
+  },
+  {
+    "name": "Bármikor 71 Bt",
+    "license_number": "DKE1700000123",
+    "address": "1032 Budapest 03. ker. Szőlő utca 94.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5428488,
+    "lon": 19.0369693
+  },
+  {
+    "name": "Bármikor 71 Bt.",
+    "license_number": "DKE1700000223",
+    "address": "1036 Budapest, Fényes Adolf utca 21-23.",
+    "start_of_validity": "2025.11.27",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5343485,
+    "lon": 19.0414899
+  },
+  {
+    "name": "Barna István",
+    "license_number": "DKE1600000040",
+    "address": "1163 Budapest, Veres Péter út 43.",
+    "start_of_validity": "2025.11.06",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5091345,
+    "lon": 19.1804522
+  },
+  {
+    "name": "Bedko Ker. és Szolg. Bt",
+    "license_number": "DKE1600000014",
+    "address": "1172 Budapest 17. ker. Ferihegyi út 39",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4875021,
+    "lon": 19.2589167
+  },
+  {
+    "name": "Béke-Trafik Bt.",
+    "license_number": "DKE1700000052",
+    "address": "1131 Budapest 13. ker. Béke út 69/F20",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4289141,
+    "lon": 19.2188614
+  },
+  {
+    "name": "Bényi Trafik Bt.",
+    "license_number": "DKE1010000242",
+    "address": "1091 Budapest, Üllői út 143.",
+    "start_of_validity": "2023.11.07",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.471381,
+    "lon": 19.1074553
+  },
+  {
+    "name": "BERNUS Bt.",
+    "license_number": "DKE1010000009",
+    "address": "1203 Budapest, Kossuth Lajos utca 91.",
+    "start_of_validity": "2022.10.10",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4261408,
+    "lon": 19.0696678
+  },
+  {
+    "name": "Better Life Bt.",
+    "license_number": "DKE1600000026",
+    "address": "1161 Budapest, Rákosi út 103.",
+    "start_of_validity": "2025.03.11",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5201425,
+    "lon": 19.1654288
+  },
+  {
+    "name": "Bident Dohány Bt",
+    "license_number": "DKE1010000198",
+    "address": "1182 Budapest, Gyékény tér 1.",
+    "start_of_validity": "2024.11.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4313254,
+    "lon": 19.1963066
+  },
+  {
+    "name": "Bident Dohány Bt",
+    "license_number": "DKE1010000267",
+    "address": "1181 Budapest, Gilice tér 49.",
+    "start_of_validity": "2024.11.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4327874,
+    "lon": 19.1819207
+  },
+  {
+    "name": "Bident Dohány Bt.",
+    "license_number": "DKE1010000196",
+    "address": "1182 Budapest, Üllői út 379-381.",
+    "start_of_validity": "2026.08.06",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4460101,
+    "lon": 19.1705907
+  },
+  {
+    "name": "Bimba Tabak Bt.",
+    "license_number": "DKE1700000168",
+    "address": "1135 Budapest 13. ker. Béke út 13-19.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4289141,
+    "lon": 19.2188614
+  },
+  {
+    "name": "Bimba Tabak Bt.",
+    "license_number": "DKE1700000211",
+    "address": "1139 Budapest 13. ker. Balzac utca 8-10",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5148938,
+    "lon": 19.057568
+  },
+  {
+    "name": "Bimba Tabak Bt.",
+    "license_number": "DKE1700000212",
+    "address": "1132 Budapest, Nyugati tér 4.",
+    "start_of_validity": "2013.10.31",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5110792,
+    "lon": 19.0558212
+  },
+  {
+    "name": "Bodegita Tobacco Bt",
+    "license_number": "DKE1700000075",
+    "address": "1132 Budapest 13. ker. Országbíró utca 38-40.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5329369,
+    "lon": 19.0731419
+  },
+  {
+    "name": "Bodegita Tobacco Bt",
+    "license_number": "DKE1700000085",
+    "address": "1135 Budapest 13. ker. Kisgömb utca 14-16.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5243294,
+    "lon": 19.0851452
+  },
+  {
+    "name": "Bodicoop Bt.",
+    "license_number": "DKE1010000013",
+    "address": "1203 Budapest 20. ker. Téglagyár tér 7-9.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.434918,
+    "lon": 19.0922613
+  },
+  {
+    "name": "Bodicoop Bt.",
+    "license_number": "DKE1700000020",
+    "address": "1132 Budapest 13. ker. Visegrádi utca 4.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5120822,
+    "lon": 19.0535489
+  },
+  {
+    "name": "Bodó Brigitta",
+    "license_number": "DKE1010000019",
+    "address": "1193 Budapest 19. ker. Üllői út 248/4",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4528313,
+    "lon": 19.155764
+  },
+  {
+    "name": "Bodó Brigitta",
+    "license_number": "DKE1010000025",
+    "address": "1181 Budapest 18. ker. Havanna utca 13.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4424853,
+    "lon": 19.1672428
+  },
+  {
+    "name": "Bodó Gyula",
+    "license_number": "DKE1010000021",
+    "address": "1191 Budapest, Kossuth tér piac 2. sz. üzlet",
+    "start_of_validity": "2021.11.22",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4586155,
+    "lon": 19.145076
+  },
+  {
+    "name": "Bopet Trafik Bt",
+    "license_number": "DKE1010000206",
+    "address": "1214 Budapest, II. Rákóczi Ferenc út 277.",
+    "start_of_validity": "2025.03.07",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4009401,
+    "lon": 19.0510391
+  },
+  {
+    "name": "Bopet Trafik Bt",
+    "license_number": "DKE1010000288",
+    "address": "1214 Budapest, Zrínyi utca 1/a",
+    "start_of_validity": "2025.03.07",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4177472,
+    "lon": 19.0653739
+  },
+  {
+    "name": "Bopet Trafik Bt",
+    "license_number": "DKE1700000185",
+    "address": "1041 Budapest, Virág utca 7. fszt. Ü-7.",
+    "start_of_validity": "2025.03.07",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.561166,
+    "lon": 19.0974334
+  },
+  {
+    "name": "Bopet Trafik Bt.",
+    "license_number": "DKE1700000186",
+    "address": "1044 Budapest, Kemény Zsigmond utca 75836. hrsz.",
+    "start_of_validity": "2025.03.07",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.576567,
+    "lon": 19.0808115
+  },
+  {
+    "name": "Borosi Tabak-Shop Bt",
+    "license_number": "DKE1700000144",
+    "address": "1028 Budapest 02. ker. Máriaremetei út 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5453281,
+    "lon": 18.9633231
+  },
+  {
+    "name": "Borosi Tabak-Shop Bt",
+    "license_number": "DKE1700000145",
+    "address": "1051 Budapest 05. ker. Váci utca 54",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4902155,
+    "lon": 19.0555231
+  },
+  {
+    "name": "BRUCKER PLUSZ Bt.",
+    "license_number": "DKE1010000027",
+    "address": "1223 Budapest, Jókai Mór utca 38.",
+    "start_of_validity": "2026.02.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4132706,
+    "lon": 19.016982
+  },
+  {
+    "name": "Buda Dohány Bt",
+    "license_number": "DKE1010000145",
+    "address": "1221 Budapest 22. ker. Ady Endre út 99.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4409278,
+    "lon": 19.0223912
+  },
+  {
+    "name": "Buda Dohány Bt",
+    "license_number": "DKE1010000147",
+    "address": "1225 Budapest 22. ker. Nagytétényi út 242.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.3955426,
+    "lon": 18.9935488
+  },
+  {
+    "name": "Centrál Tabak Bt.",
+    "license_number": "DKE1600000304",
+    "address": "1082 Budapest 08. ker. Corvin köz 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4861623,
+    "lon": 19.0713676
+  },
+  {
+    "name": "Cigibolt Bt.",
+    "license_number": "DKE1600000018",
+    "address": "1102 Budapest 10. ker. Kőrösi Csoma Sándor út 6/E",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4865004,
+    "lon": 19.1327222
+  },
+  {
+    "name": "CigiMarket Bt.",
+    "license_number": "DKE1600000175",
+    "address": "1146 Budapest, Thököly út 150.",
+    "start_of_validity": "2025.06.04",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5172135,
+    "lon": 19.1082726
+  },
+  {
+    "name": "CigiMarket Bt.",
+    "license_number": "DKE1700000018",
+    "address": "1037 Budapest, Bécsi út 265.",
+    "start_of_validity": "2025.06.04",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5817211,
+    "lon": 19.0018361
+  },
+  {
+    "name": "Cipido Trafik Bt.",
+    "license_number": "DKE1700000103",
+    "address": "1133 Budapest 13. ker. Véső utca 11.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5291495,
+    "lon": 19.0622055
+  },
+  {
+    "name": "Cipido Trafik Bt.",
+    "license_number": "DKE1700000104",
+    "address": "1035 Budapest 03. ker. Szentendrei út 34.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5486745,
+    "lon": 19.0428852
+  },
+  {
+    "name": "Csajszik Vend.Ker. és Szolg. Bt",
+    "license_number": "DKE1700000047",
+    "address": "1046 Budapest 04. ker. Erdősor utca 3-5",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4163267,
+    "lon": 19.0614419
+  },
+  {
+    "name": "Csaszi Trafik Bt",
+    "license_number": "DKE1700000193",
+    "address": "1041 Budapest 04. ker. Templom utca 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5634698,
+    "lon": 19.0873865
+  },
+  {
+    "name": "CSERR-TRAFIK Bt.",
+    "license_number": "DKE1600000079",
+    "address": "1173 Budapest, Újlak utca 9.",
+    "start_of_validity": "2023.03.14",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4808924,
+    "lon": 19.2398863
+  },
+  {
+    "name": "Cseszter- Dohány Bt",
+    "license_number": "DKE1700000093",
+    "address": "1027 Budapest 02. ker. Varsányi Irén utca 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5096143,
+    "lon": 19.0334503
+  },
+  {
+    "name": "CSÍKOSA TRAFIK Bt.",
+    "license_number": "DKE1600000267",
+    "address": "1142 Budapest, Erzsébet királyné útja 125.",
+    "start_of_validity": "2023.08.11",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5345733,
+    "lon": 19.1132684
+  },
+  {
+    "name": "CSÍKOSA TRAFIK Bt.",
+    "license_number": "DKE1700000131",
+    "address": "1033 Budapest, Miklós utca 5.",
+    "start_of_validity": "2023.08.11",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5430252,
+    "lon": 19.0427093
+  },
+  {
+    "name": "Csiszitipp Bt.",
+    "license_number": "DKE1600000137",
+    "address": "1163 Budapest 16. ker. Sashalmi tér 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5095091,
+    "lon": 19.1713614
+  },
+  {
+    "name": "CSITABAK Bt.",
+    "license_number": "DKE1600000241",
+    "address": "1086 Budapest, Baross\n utca 129. földszint",
+    "start_of_validity": "2024.07.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4892113,
+    "lon": 19.0898498
+  },
+  {
+    "name": "CSITABAK Bt.",
+    "license_number": "DKE1600000242",
+    "address": "1077 Budapest, Wesselényi utca 19.",
+    "start_of_validity": "2023.08.04",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4976471,
+    "lon": 19.0639595
+  },
+  {
+    "name": "CSITABAK Bt.",
+    "license_number": "DKE1700000132",
+    "address": "1035 Budapest, Bécsi út 325-337.",
+    "start_of_validity": "2023.08.04",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5604405,
+    "lon": 19.0252138
+  },
+  {
+    "name": "Cukicigi Bt",
+    "license_number": "DKE1010000060",
+    "address": "1201 Budapest 20. ker. Vörösmarty utca 178",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4274582,
+    "lon": 19.1125796
+  },
+  {
+    "name": "Cziegelmayer Anita",
+    "license_number": "DKE1600000260",
+    "address": "1107 Budapest, Szállás utca 11/A.",
+    "start_of_validity": "2024.11.20",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4792036,
+    "lon": 19.1238492
+  },
+  {
+    "name": "Cziegelmayer Anita",
+    "license_number": "DKE1600000280",
+    "address": "1107 Budapest 10. ker. Bihari utca 7/A.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4738803,
+    "lon": 19.1162303
+  },
+  {
+    "name": "Dallos Klára Ágnes",
+    "license_number": "DKE1600000049",
+    "address": "1141 Budapest, Vezér utca 74.",
+    "start_of_validity": "2023.07.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5133715,
+    "lon": 19.1366527
+  },
+  {
+    "name": "Dallos Klára Ágnes",
+    "license_number": "DKE1600000051",
+    "address": "1144 Budapest, Rákosfalva park 3.",
+    "start_of_validity": "2023.07.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5068921,
+    "lon": 19.1454745
+  },
+  {
+    "name": "Darabos Levente",
+    "license_number": "DKE1600000095",
+    "address": "1171 Budapest 17. ker. Nyomdász utca 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4615347,
+    "lon": 19.2988701
+  },
+  {
+    "name": "Dé-Es Tabak Bt",
+    "license_number": "DKE1600000103",
+    "address": "1173 Budapest 17. ker. Kis utca 3.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4824098,
+    "lon": 19.2388958
+  },
+  {
+    "name": "Deme-Kisker 2013 Bt",
+    "license_number": "DKE1600000156",
+    "address": "1108 Budapest 10. ker. Újhegyi sétány 12.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.469415,
+    "lon": 19.1608772
+  },
+  {
+    "name": "Dident Tobacco Bt",
+    "license_number": "DKE1010000213",
+    "address": "1215 Budapest 21. ker. Ady Endre út 65",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4348759,
+    "lon": 19.0791954
+  },
+  {
+    "name": "Dident Tobacco Bt",
+    "license_number": "DKE1010000260",
+    "address": "1214 Budapest 21. ker. II. Rákóczi Ferenc út 366.",
+    "start_of_validity": "2013.07.05",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.3913741,
+    "lon": 19.0355084
+  },
+  {
+    "name": "Dident Tobacco Bt",
+    "license_number": "DKE1010000272",
+    "address": "1214 Budapest 21. ker. Nap utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4875908,
+    "lon": 19.0708697
+  },
+  {
+    "name": "Dident Tobacco Bt",
+    "license_number": "DKE1010000273",
+    "address": "1214 Budapest 21. ker. Vénusz utca 33.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4102595,
+    "lon": 19.0602443
+  },
+  {
+    "name": "Dident Tobacco Bt",
+    "license_number": "DKE1010000276",
+    "address": "1211 Budapest 21. ker. Mansfeld Péter utca 92.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4249249,
+    "lon": 19.0626917
+  },
+  {
+    "name": "Diego Trade Bt.",
+    "license_number": "DKE1010000123",
+    "address": "1114 Budapest, Bartók Béla út 49.",
+    "start_of_validity": "2022.12.21",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4783542,
+    "lon": 19.048213
+  },
+  {
+    "name": "Diego Trade Bt.",
+    "license_number": "DKE1600000105",
+    "address": "1146 Budapest, Thököly út 117.",
+    "start_of_validity": "2022.12.21",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5134323,
+    "lon": 19.1027141
+  },
+  {
+    "name": "Dió Dohány Bt",
+    "license_number": "DKE1600000179",
+    "address": "1102 Budapest 10. ker. Kőrösi Csoma Sándor út 40.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4908162,
+    "lon": 19.1366942
+  },
+  {
+    "name": "DO & MA '96 Bt.",
+    "license_number": "DKE1010000191",
+    "address": "1183 Budapest, Gyömrői út 174.",
+    "start_of_validity": "2024.07.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4529956,
+    "lon": 19.1953659
+  },
+  {
+    "name": "Dohány és Ital Shop Bt",
+    "license_number": "DKE1700000080",
+    "address": "1038 Budapest 03. ker. Hollós Korvin Lajos utca 6.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.594613,
+    "lon": 19.0499451
+  },
+  {
+    "name": "DOHÁNY-ÁSZ Bt.",
+    "license_number": "DKE1600000189",
+    "address": "1082 Budapest, Üllői út 54. földszint 4. ajtó",
+    "start_of_validity": "2025.01.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4838086,
+    "lon": 19.0757436
+  },
+  {
+    "name": "Dohány-Palota Bt",
+    "license_number": "DKE1600000039",
+    "address": "1152 Budapest 15. ker. Öregfalusi utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5642192,
+    "lon": 19.1209095
+  },
+  {
+    "name": "DOHÁNYÁRUDA Bt.",
+    "license_number": "DKE1010000318",
+    "address": "1117 Budapest, Fehérvári út 24.",
+    "start_of_validity": "2024.08.05",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4737385,
+    "lon": 19.0465698
+  },
+  {
+    "name": "Domino Tabak Bt",
+    "license_number": "DKE1600000092",
+    "address": "1173 Budapest 17. ker. Pesti út 237/H.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4726751,
+    "lon": 19.2745993
+  },
+  {
+    "name": "Domino Tabak Bt",
+    "license_number": "DKE1600000211",
+    "address": "1161 Budapest 16. ker. János utca 196.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5340738,
+    "lon": 19.1599909
+  },
+  {
+    "name": "Domonkos Eszter Judit",
+    "license_number": "DKE1600000110",
+    "address": "1105 Budapest 10. ker. Gergely utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4803774,
+    "lon": 19.1342996
+  },
+  {
+    "name": "Domonkos László István",
+    "license_number": "DKE1700000174",
+    "address": "1027 Budapest, Csalogány utca 55.",
+    "start_of_validity": "2024.10.18",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5083678,
+    "lon": 19.0282555
+  },
+  {
+    "name": "Domonkos Péter Pál",
+    "license_number": "DKE1600000056",
+    "address": "1104 Budapest 10. ker. Mádi utca 84.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4824431,
+    "lon": 19.1509589
+  },
+  {
+    "name": "Donászy Péter",
+    "license_number": "DKE1600000148",
+    "address": "1065 Budapest 06. ker. Nagymező utca 21.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5043038,
+    "lon": 19.0593386
+  },
+  {
+    "name": "Dopi Cigi Bt",
+    "license_number": "DKE1700000164",
+    "address": "1138 Budapest 13. ker. Váci út 187.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.555377,
+    "lon": 19.0762014
+  },
+  {
+    "name": "Dopi Cigi Bt",
+    "license_number": "DKE1700000165",
+    "address": "1138 Budapest 13. ker. Népfürdő utca 15/A",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.529804,
+    "lon": 19.0588243
+  },
+  {
+    "name": "Dorkó Zsolt",
+    "license_number": "DKE1600000322",
+    "address": "1165 Budapest 16. ker. Veres Péter út 114.",
+    "start_of_validity": "2015.02.03",
+    "end_of_validity": "2034.10.30",
+    "lat": 47.5118517,
+    "lon": 19.1934083
+  },
+  {
+    "name": "Dostal Józsefné",
+    "license_number": "DKE8110000147",
+    "address": "2040 Budaörs, Budapesti út 124.",
+    "start_of_validity": "2024.06.27",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.462781,
+    "lon": 18.9798954
+  },
+  {
+    "name": "Dr. Guzmics Tibor",
+    "license_number": "DKE1600000060",
+    "address": "1171 Budapest 17. ker. Péceli út 207-209.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4878607,
+    "lon": 19.2876588
+  },
+  {
+    "name": "Drexler Tobacco Bt",
+    "license_number": "DKE1010000103",
+    "address": "1203 Budapest 20. ker. Ady Endre utca 68-70.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4400428,
+    "lon": 19.1023793
+  },
+  {
+    "name": "Dudus Trafik Bt.",
+    "license_number": "DKE1010000066",
+    "address": "1112 Budapest, Vőfély utca 1.",
+    "start_of_validity": "2015.09.16",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4615001,
+    "lon": 19.0150503
+  },
+  {
+    "name": "Dudus Trafik Bt.",
+    "license_number": "DKE1010000069",
+    "address": "1113 Budapest 11. ker. Bocskai   44.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4759614,
+    "lon": 19.0369197
+  },
+  {
+    "name": "Dukhan Team Bt.",
+    "license_number": "DKE1600000272",
+    "address": "1071 Budapest, Damjanich utca 58.",
+    "start_of_validity": "2022.09.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5096493,
+    "lon": 19.0819096
+  },
+  {
+    "name": "Dukhan Team Bt.",
+    "license_number": "DKE1600000273",
+    "address": "1077 Budapest, Dózsa György utca 54.",
+    "start_of_validity": "2022.09.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5888656,
+    "lon": 19.0440345
+  },
+  {
+    "name": "Éliás Gábor",
+    "license_number": "DKE1010000023",
+    "address": "1119 Budapest 11. ker. Fehérvári út 88/A.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4628354,
+    "lon": 19.0428768
+  },
+  {
+    "name": "Éliás Gábor",
+    "license_number": "DKE8110000248",
+    "address": "2040 Budaörs, Budapesti út 61-63.",
+    "start_of_validity": "2022.10.03",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4621867,
+    "lon": 18.9710981
+  },
+  {
+    "name": "Elszívlak Bt.",
+    "license_number": "DKE1010000330",
+    "address": "1184 Budapest, Kézműves utca 6.",
+    "start_of_validity": "2025.08.18",
+    "end_of_validity": "2034.10.28",
+    "lat": 47.4518,
+    "lon": 19.1685
+  },
+  {
+    "name": "Epres Gábor László",
+    "license_number": "DKE1600000172",
+    "address": "1171 Budapest 17. ker. Péceli út 126.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.483953,
+    "lon": 19.2769877
+  },
+  {
+    "name": "Erdei János László",
+    "license_number": "DKE1010000010",
+    "address": "1204 Budapest 20. ker. Török Flóris   187/A.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4314733,
+    "lon": 19.1161685
+  },
+  {
+    "name": "Erdei János László",
+    "license_number": "DKE1010000011",
+    "address": "1204 Budapest 20. ker. Lázár utca 94.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4327293,
+    "lon": 19.1279227
+  },
+  {
+    "name": "Erős Dohány Bt",
+    "license_number": "DKE1010000076",
+    "address": "1221 Budapest 22. ker. Játék utca 2-12.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4280034,
+    "lon": 19.0400753
+  },
+  {
+    "name": "Ertinger Tiborné",
+    "license_number": "DKE1010000075",
+    "address": "1183 Budapest 18. ker. Széchenyi István utca 6.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4455801,
+    "lon": 19.1746661
+  },
+  {
+    "name": "Esze-Láng Bettina Anett",
+    "license_number": "DKE1010000016",
+    "address": "1188 Budapest 18. ker. Kisfaludy utca 112.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4041924,
+    "lon": 19.1987703
+  },
+  {
+    "name": "ETA és KRISZTINA\n Kereskedelmi\n Betéti Társaság",
+    "license_number": "DKE1700000049",
+    "address": "1022 Budapest, Bimbó\n út 45.",
+    "start_of_validity": "2024.11.21",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5166953,
+    "lon": 19.0248465
+  },
+  {
+    "name": "Faragó Trafik Bt",
+    "license_number": "DKE1600000088",
+    "address": "1105 Budapest 10. ker. Kápolna utca 15.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4817474,
+    "lon": 19.1310409
+  },
+  {
+    "name": "Faragó Trafik Bt",
+    "license_number": "DKE1600000144",
+    "address": "1173 Budapest 17. ker. Pesti út 159.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4796723,
+    "lon": 19.2516541
+  },
+  {
+    "name": "Faragóné Mandrik Andrea",
+    "license_number": "DKE1600000316",
+    "address": "1173 Budapest 17. ker. Jósika utca 42.",
+    "start_of_validity": "2014.10.07",
+    "end_of_validity": "2034.08.24",
+    "lat": 47.4571854,
+    "lon": 19.2326976
+  },
+  {
+    "name": "Fehér-Ifju Ivett",
+    "license_number": "DKE1700000009",
+    "address": "1042 Budapest, Király utca 9.",
+    "start_of_validity": "2026.03.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5624578,
+    "lon": 19.0918893
+  },
+  {
+    "name": "Fehérfüst Bt",
+    "license_number": "DKE1600000012",
+    "address": "1157 Budapest 15. ker. Erdőkerülő utca 36.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5414584,
+    "lon": 19.1501685
+  },
+  {
+    "name": "Fekecs Róbert Imréné",
+    "license_number": "DKE1600000037",
+    "address": "1108 Budapest 10. ker. Újhegyi sétány 18.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4716073,
+    "lon": 19.1643636
+  },
+  {
+    "name": "Fekete 86 Dohány Bt.",
+    "license_number": "DKE1600000135",
+    "address": "1163 Budapest 16. ker. Thököly út 10.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5326523,
+    "lon": 19.1271539
+  },
+  {
+    "name": "Feld Tabak Bt",
+    "license_number": "DKE1700000038",
+    "address": "1025 Budapest 02. ker. Törökvész út 76.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5280668,
+    "lon": 19.0060817
+  },
+  {
+    "name": "Ferenczi Gyöngyi",
+    "license_number": "DKE1600000055",
+    "address": "1173 Budapest 17. ker. Flamingó utca 19.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4755062,
+    "lon": 19.2387402
+  },
+  {
+    "name": "Fibaroson Bt",
+    "license_number": "DKE1700000227",
+    "address": "1034 Budapest 03. ker. Kolosy tér 5-6",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.527824,
+    "lon": 19.0377723
+  },
+  {
+    "name": "Filtol Trafik Bt",
+    "license_number": "DKE1010000106",
+    "address": "1112 Budapest, Balatoni út 1.",
+    "start_of_validity": "2025.01.23",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4533241,
+    "lon": 19.0073159
+  },
+  {
+    "name": "Filtol Trafik Bt",
+    "license_number": "DKE1010000151",
+    "address": "1111 Budapest, Karinthy Frigyes út 12.",
+    "start_of_validity": "2025.01.23",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4772095,
+    "lon": 19.0502161
+  },
+  {
+    "name": "Fitti Tobacco Bt.",
+    "license_number": "DKE1700000195",
+    "address": "1026 Budapest, Házmán utca 2.",
+    "start_of_validity": "2023.11.13",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5167026,
+    "lon": 18.9993492
+  },
+  {
+    "name": "Fitti Tobacco Bt.",
+    "license_number": "DKE1700000196",
+    "address": "1036 Budapest, Bécsi út 37.",
+    "start_of_validity": "2023.11.13",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5276682,
+    "lon": 19.0376606
+  },
+  {
+    "name": "Flórián Tabak Bt.",
+    "license_number": "DKE1700000055",
+    "address": "1033 Budapest, Miklós tér 4.",
+    "start_of_validity": "2023.04.28",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5454262,
+    "lon": 19.0451659
+  },
+  {
+    "name": "Flórián Tabak Bt.",
+    "license_number": "DKE1700000056",
+    "address": "1033 Budapest, Flórián tér 6-9.",
+    "start_of_validity": "2023.04.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5424892,
+    "lon": 19.0405331
+  },
+  {
+    "name": "FM Tabak Bt",
+    "license_number": "DKE1010000154",
+    "address": "1221 Budapest 22. ker. Kossuth Lajos utca 25-29.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4265825,
+    "lon": 19.0385198
+  },
+  {
+    "name": "Fortuna Dohánybolt Bt",
+    "license_number": "DKE1600000232",
+    "address": "1164 Budapest 16. ker. Szabadföld út 19/B.",
+    "start_of_validity": "2022.11.17",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5189624,
+    "lon": 19.2166398
+  },
+  {
+    "name": "Fortuna Dohánybolt Bt",
+    "license_number": "DKE1700000126",
+    "address": "1032 Budapest 03. ker. Ágoston utca 1",
+    "start_of_validity": "2022.11.17",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5462719,
+    "lon": 19.0322125
+  },
+  {
+    "name": "FREEMIND TOBACCO Bt.",
+    "license_number": "DKE1700000050",
+    "address": "1039 Budapest, Pünkösdfürdő utca 52.",
+    "start_of_validity": "2026.02.12",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5949367,
+    "lon": 19.0543316
+  },
+  {
+    "name": "Fumatore Bt",
+    "license_number": "DKE1700000200",
+    "address": "1133 Budapest 13. ker. Dráva utca 22.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5256912,
+    "lon": 19.0576618
+  },
+  {
+    "name": "Fumatore Bt",
+    "license_number": "DKE1700000201",
+    "address": "1134 Budapest 13. ker. Váci út 9-15.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.517882,
+    "lon": 19.0607373
+  },
+  {
+    "name": "Fumatore Bt",
+    "license_number": "DKE1700000202",
+    "address": "1138 Budapest 13. ker. Dunavirág utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5353468,
+    "lon": 19.0604101
+  },
+  {
+    "name": "Fumo Gold Bt.",
+    "license_number": "DKE1700000081",
+    "address": "1131 Budapest, Rokolya utca 1-13.",
+    "start_of_validity": "2022.11.25",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5420323,
+    "lon": 19.0879603
+  },
+  {
+    "name": "Füstölgő-trafik Bt",
+    "license_number": "DKE1700000088",
+    "address": "1044 Budapest 04. ker. Megyeri út 53.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5877017,
+    "lon": 19.0991988
+  },
+  {
+    "name": "Gallwitz-Pipa Ker. és Szolg. Bt",
+    "license_number": "DKE1700000006",
+    "address": "1053 Budapest 05. ker. Kecskeméti utca 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4905855,
+    "lon": 19.059212
+  },
+  {
+    "name": "Garinex-Trade Bt.",
+    "license_number": "DKE1700000137",
+    "address": "1042 Budapest 04. ker. Csányi László utca 9-11.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5588335,
+    "lon": 19.0840551
+  },
+  {
+    "name": "Gedi Trafik Bt",
+    "license_number": "DKE1010000088",
+    "address": "1239 Budapest, Grassalkovich út 256.",
+    "start_of_validity": "2023.11.13",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.3900194,
+    "lon": 19.1192228
+  },
+  {
+    "name": "Gedi Trafik Bt",
+    "license_number": "DKE1010000114",
+    "address": "1182 Budapest, Királyhágó utca 64.",
+    "start_of_validity": "2023.04.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4243451,
+    "lon": 19.1218501
+  },
+  {
+    "name": "Gedi Trafik Bt.",
+    "license_number": "DKE1010000095",
+    "address": "1188 Budapest, Nemes utca 51-53. B lház. földszint 1. ajtó",
+    "start_of_validity": "2023.12.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4111534,
+    "lon": 19.1973303
+  },
+  {
+    "name": "GEGO Cigarette Bt.",
+    "license_number": "DKE1010000333",
+    "address": "1094 Budapest 09. ker. Üllői út 89/a",
+    "start_of_validity": "2019.01.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4825529,
+    "lon": 19.07866
+  },
+  {
+    "name": "GEGO Cigarette Bt.",
+    "license_number": "DKE1600000328",
+    "address": "1084 Budapest 08. ker. Déri Miksa utca 1",
+    "start_of_validity": "2018.12.27",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4924638,
+    "lon": 19.0732929
+  },
+  {
+    "name": "GEGO Cigarette Bt.",
+    "license_number": "DKE1700000181",
+    "address": "1015 Budapest 01. ker. Fő utca 37/C.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5051805,
+    "lon": 19.0384162
+  },
+  {
+    "name": "Gellért-Dohány Bt",
+    "license_number": "DKE1010000130",
+    "address": "1117 Budapest 11. ker. Kőrösy József utca 7-9.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4746656,
+    "lon": 19.0474113
+  },
+  {
+    "name": "Gfamily Tabak Bt.",
+    "license_number": "DKE1010000298",
+    "address": "1098 Budapest, Dési Huber utca 20. fsz. 14.",
+    "start_of_validity": "2024.08.27",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.468923,
+    "lon": 19.1108944
+  },
+  {
+    "name": "GFAMILY TABAK Bt.",
+    "license_number": "DKE1600000285",
+    "address": "1083 Budapest 08. ker. Práter utca 59.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4866847,
+    "lon": 19.0803044
+  },
+  {
+    "name": "GFAMILY TABAK Bt.",
+    "license_number": "DKE1600000290",
+    "address": "1087 Budapest 08. ker. Kerepesi út 1-5.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4986114,
+    "lon": 19.08391
+  },
+  {
+    "name": "GL Building Trafik Bt",
+    "license_number": "DKE1700000225",
+    "address": "1048 Budapest 04. ker. Csíkszentiván utca 6.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5969965,
+    "lon": 19.1209722
+  },
+  {
+    "name": "GL Building Trafik Bt",
+    "license_number": "DKE1700000226",
+    "address": "1041 Budapest 04. ker. Berzeviczy Gergely utca 17. A. ép.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5642636,
+    "lon": 19.0840235
+  },
+  {
+    "name": "Golido Bt.",
+    "license_number": "DKE1010000098",
+    "address": "1194 Budapest 19. ker. Szegfű utca 21",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5475722,
+    "lon": 18.96854
+  },
+  {
+    "name": "Gyenes Tabak Bt.",
+    "license_number": "DKE1700000033",
+    "address": "1032 Budapest, Gyenes utca 2.",
+    "start_of_validity": "2023.04.14",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5430121,
+    "lon": 19.0354204
+  },
+  {
+    "name": "Gyöngy&Gyöngy Bt",
+    "license_number": "DKE1700000079",
+    "address": "1046 Budapest 04. ker. Óceánárok utca 29",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5789188,
+    "lon": 19.1096444
+  },
+  {
+    "name": "HADRON-LILO Bt.",
+    "license_number": "DKE1010000334",
+    "address": "1113 Budapest, Villányi út 74. földszint 2. ajtó",
+    "start_of_validity": "2025.06.17",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4815567,
+    "lon": 19.0330592
+  },
+  {
+    "name": "Happy Trafik Bt.",
+    "license_number": "DKE1700000065",
+    "address": "1039 Budapest 03. ker. Jendrassik utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5993364,
+    "lon": 19.0483421
+  },
+  {
+    "name": "Három BM Market Bt.",
+    "license_number": "DKE1700000003",
+    "address": "1041 Budapest, Bárdos\n Artúr utca 71422/9. hrsz.",
+    "start_of_validity": "2024.09.19",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5622592,
+    "lon": 19.1009287
+  },
+  {
+    "name": "Három BM Market ker Bt.",
+    "license_number": "DKE1700000004",
+    "address": "1042 Budapest, Árpád út 56.",
+    "start_of_validity": "2024.09.19",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5608719,
+    "lon": 19.0861059
+  },
+  {
+    "name": "Háromtrafik Bt.",
+    "license_number": "DKE1010000064",
+    "address": "1224 Budapest 22. ker. Barackos út 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4043267,
+    "lon": 18.9910707
+  },
+  {
+    "name": "Háromtrafik Bt.",
+    "license_number": "DKE1010000068",
+    "address": "1225 Budapest 22. ker. Nagytétényi út 216.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.3996829,
+    "lon": 19.0032993
+  },
+  {
+    "name": "Háromtrafik Bt.",
+    "license_number": "DKE1010000070",
+    "address": "1223 Budapest, Rákóczi út 20/A.",
+    "start_of_validity": "2024.07.08",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4070466,
+    "lon": 19.0067084
+  },
+  {
+    "name": "Hauck Tobacco Bt.",
+    "license_number": "DKE1010000182",
+    "address": "1212 Budapest 21. ker. Görgey Artúr tér 1/A.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4227503,
+    "lon": 19.0696382
+  },
+  {
+    "name": "Hauck Tobacco Bt.",
+    "license_number": "DKE1600000192",
+    "address": "1072 Budapest 07. ker. Dob utca 28-30.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4992103,
+    "lon": 19.0623194
+  },
+  {
+    "name": "Hauck Tobacco Bt.",
+    "license_number": "DKE1700000130",
+    "address": "1137 Budapest 13. ker. Katona József utca 3. fszt.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5123597,
+    "lon": 19.0563856
+  },
+  {
+    "name": "Hegedüs Dóra Edit",
+    "license_number": "DKE1600000163",
+    "address": "1152 Budapest 15. ker. Szentmihályi utca 137.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.510893,
+    "lon": 19.1473505
+  },
+  {
+    "name": "Hegyvidék Tabak Bt",
+    "license_number": "DKE1010000033",
+    "address": "1123 Budapest 12. ker. Csörsz utca 23-25.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4900555,
+    "lon": 19.0261459
+  },
+  {
+    "name": "Hegyvidék Tabak Bt",
+    "license_number": "DKE1010000050",
+    "address": "1125 Budapest 12. ker. Nógrádi utca 39.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5028523,
+    "lon": 19.0025859
+  },
+  {
+    "name": "Hegyvidék Tabak Bt",
+    "license_number": "DKE1010000067",
+    "address": "1121 Budapest 12. ker. Eötvös út 38/B",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4994561,
+    "lon": 18.9719118
+  },
+  {
+    "name": "Herbi Tabak Bt",
+    "license_number": "DKE1010000155",
+    "address": "1202 Budapest, Mártírok útja 205.",
+    "start_of_validity": "2024.07.03",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4359055,
+    "lon": 19.1323755
+  },
+  {
+    "name": "Héthéthét Dohány Bt.",
+    "license_number": "DKE1010000132",
+    "address": "1111 Budapest 11. ker. Szent Gellért tér 3.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4832037,
+    "lon": 19.0535088
+  },
+  {
+    "name": "Héthéthét Dohány Bt.",
+    "license_number": "DKE1010000134",
+    "address": "1191 Budapest 19. ker. Eötvös utca 1-3.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4599207,
+    "lon": 19.1432819
+  },
+  {
+    "name": "Hídfő Tabak Bt",
+    "license_number": "DKE1700000035",
+    "address": "1027 Budapest 02. ker. Margit körút 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.514766,
+    "lon": 19.0378824
+  },
+  {
+    "name": "Holló Tabak Bt",
+    "license_number": "DKE1010000047",
+    "address": "1112 Budapest 11. ker. Péterhegyi lejtő 71.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4493651,
+    "lon": 19.0070159
+  },
+  {
+    "name": "Holló Tabak Bt",
+    "license_number": "DKE1010000061",
+    "address": "1093 Budapest 09. ker. Balázs Béla utca 34/6",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4791651,
+    "lon": 19.0782647
+  },
+  {
+    "name": "Holló Tabak Bt.",
+    "license_number": "DKE1600000011",
+    "address": "1147 Budapest, Zsolnay Vilmos utca 1. C lh. földszint 1-2. ajtó",
+    "start_of_validity": "2026.07.03",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5313197,
+    "lon": 19.1231944
+  },
+  {
+    "name": "Hor-Macz Bt",
+    "license_number": "DKE1600000139",
+    "address": "1156 Budapest 15. ker. Páskomliget utca 6.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5447408,
+    "lon": 19.1383038
+  },
+  {
+    "name": "HOTYADOHÁNY Bt.",
+    "license_number": "DKE1010000090",
+    "address": "1237 Budapest, Ciklámen utca 3.",
+    "start_of_validity": "2025.10.02",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4162646,
+    "lon": 19.1302166
+  },
+  {
+    "name": "Hunters Tobacco Bt",
+    "license_number": "DKE1600000220",
+    "address": "1149 Budapest, Nagy Lajos király útja 189.",
+    "start_of_validity": "2025.01.06",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5225588,
+    "lon": 19.1025001
+  },
+  {
+    "name": "Hunters Tobacco Bt",
+    "license_number": "DKE1600000221",
+    "address": "1173 Budapest, Kaszáló utca 47.",
+    "start_of_validity": "2025.01.06",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.481151,
+    "lon": 19.255627
+  },
+  {
+    "name": "Hunters Tobacco Bt",
+    "license_number": "DKE1600000222",
+    "address": "1145 Budapest, Csömöri út 9-11.",
+    "start_of_validity": "2025.01.06",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5206429,
+    "lon": 19.1144849
+  },
+  {
+    "name": "Huntrafik Bt",
+    "license_number": "DKE1700000023",
+    "address": "1039 Budapest 03. ker. Mátyás király út 82",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5848025,
+    "lon": 19.0605096
+  },
+  {
+    "name": "Indigó Trafik Bt.",
+    "license_number": "DKE1600000174",
+    "address": "1146 Budapest, Thököly út 63.",
+    "start_of_validity": "2022.07.11",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5077371,
+    "lon": 19.0943639
+  },
+  {
+    "name": "Indigó Trafik Bt.",
+    "license_number": "DKE1600000176",
+    "address": "1151 Budapest, Külső Fóti út 1.",
+    "start_of_validity": "2024.12.20",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5685386,
+    "lon": 19.1348325
+  },
+  {
+    "name": "Indigó Trafik Bt.",
+    "license_number": "DKE1600000177",
+    "address": "1077 Budapest, Wesselényi utca 33.",
+    "start_of_validity": "2022.07.11",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4989856,
+    "lon": 19.0665116
+  },
+  {
+    "name": "Indigó Trafik Bt.",
+    "license_number": "DKE1700000034",
+    "address": "1133 Budapest, Árbóc utca 6.",
+    "start_of_validity": "2022.07.11",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5316996,
+    "lon": 19.0647074
+  },
+  {
+    "name": "Ion Tibor Atila",
+    "license_number": "DKE1600000239",
+    "address": "1149 Budapest 14. ker. Mogyoródi utca 23-39.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5137369,
+    "lon": 19.1239873
+  },
+  {
+    "name": "Ion Tibor Atila",
+    "license_number": "DKE1700000073",
+    "address": "1039 Budapest, Mátyás király út 1.",
+    "start_of_validity": "2024.07.29",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5859765,
+    "lon": 19.0452652
+  },
+  {
+    "name": "ITB Bravo Bt",
+    "license_number": "DKE1600000112",
+    "address": "1103 Budapest 10. ker. Óhegy utca 41.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4768435,
+    "lon": 19.1456522
+  },
+  {
+    "name": "Jáger trafik Bt",
+    "license_number": "DKE1600000227",
+    "address": "1143 Budapest 14. ker. Pillangó utca 22",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5044123,
+    "lon": 19.1162373
+  },
+  {
+    "name": "Janitz Csabáné",
+    "license_number": "DKE1010000005",
+    "address": "1222 Budapest 22. ker. Verseci utca 4.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4161939,
+    "lon": 19.0269981
+  },
+  {
+    "name": "Jánosi Péter",
+    "license_number": "DKE1010000071",
+    "address": "1098 Budapest 09. ker. Pöttyös   6.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.466874,
+    "lon": 19.1164353
+  },
+  {
+    "name": "Jászter Trafik Bt",
+    "license_number": "DKE1600000247",
+    "address": "1102 Budapest 10. ker. Kőrösi Csoma sétány 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4838298,
+    "lon": 19.1293222
+  },
+  {
+    "name": "Joker G&N Bt.",
+    "license_number": "DKE1010000322",
+    "address": "1092 Budapest 09. ker. Ráday utca 33/a.",
+    "start_of_validity": "2013.10.16",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4851755,
+    "lon": 19.0645611
+  },
+  {
+    "name": "Joker G&N Bt.",
+    "license_number": "DKE1700000240",
+    "address": "1024 Budapest 02. ker. Margit körút 95.",
+    "start_of_validity": "2013.07.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5078528,
+    "lon": 19.0256616
+  },
+  {
+    "name": "Józsa Csaba Trafik Bt.",
+    "license_number": "DKE1700000142",
+    "address": "1013 Budapest, Alagút utca 5.",
+    "start_of_validity": "2021.12.20",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.497006,
+    "lon": 19.0328585
+  },
+  {
+    "name": "Józsa Csaba Trafik Bt.",
+    "license_number": "DKE1700000148",
+    "address": "1014 Budapest, Tárnok utca 26.",
+    "start_of_validity": "2021.12.20",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5012083,
+    "lon": 19.0337252
+  },
+  {
+    "name": "Józsa Csaba Trafik Bt.",
+    "license_number": "DKE1700000149",
+    "address": "1053 Budapest, Ferenciek tere 7-8.",
+    "start_of_validity": "2021.12.20",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4927994,
+    "lon": 19.0563834
+  },
+  {
+    "name": "Kabát Henriett",
+    "license_number": "DKE1010000127",
+    "address": "1239 Budapest 23. ker. Grassalkovich út 176",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.3922938,
+    "lon": 19.1177761
+  },
+  {
+    "name": "Káldex Hungary Bt.",
+    "license_number": "DKE1700000002",
+    "address": "1035 Budapest 03. ker. Szentendrei út 12",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5450196,
+    "lon": 19.0419726
+  },
+  {
+    "name": "Kátai Tibor Jánosné",
+    "license_number": "DKE1600000029",
+    "address": "1106 Budapest, Maglódi út 53. 2. épület 3. ajtó",
+    "start_of_validity": "2024.04.16",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4892867,
+    "lon": 19.1497592
+  },
+  {
+    "name": "Katra-Sala Kkt",
+    "license_number": "DKE1700000090",
+    "address": "1039 Budapest 03. ker. Pablo Neruda utca 1-2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5967333,
+    "lon": 19.0496496
+  },
+  {
+    "name": "Kattra András",
+    "license_number": "DKE1700000029",
+    "address": "1044 Budapest 04. ker. Megyeri út 86-88.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5859634,
+    "lon": 19.0941844
+  },
+  {
+    "name": "Kazánkovács Bt.",
+    "license_number": "DKE1700000139",
+    "address": "1039 Budapest 03. ker. Hímző utca 12.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5968631,
+    "lon": 19.0591994
+  },
+  {
+    "name": "Kele Árpád",
+    "license_number": "DKE1010000175",
+    "address": "1203 Budapest 20. ker. Kossuth Lajos utca 99/B.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4389982,
+    "lon": 19.1050888
+  },
+  {
+    "name": "Kentaurus Gold Bt.",
+    "license_number": "DKE1600000182",
+    "address": "1065 Budapest, Nagymező utca 14.",
+    "start_of_validity": "2023.09.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5028454,
+    "lon": 19.0608072
+  },
+  {
+    "name": "Keresztur Tabac Shop Bt",
+    "license_number": "DKE1600000154",
+    "address": "1172 Budapest 17. ker. Naplás út 11.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4926941,
+    "lon": 19.280262
+  },
+  {
+    "name": "KESZI TABAK-SHOP Bt.",
+    "license_number": "DKE1010000085",
+    "address": "1119 Budapest, Tétényi út 63.",
+    "start_of_validity": "2024.12.09",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4642459,
+    "lon": 19.032762
+  },
+  {
+    "name": "KICSI-RÁCZ KERESKEDELMI BT.",
+    "license_number": "DKE1600000017",
+    "address": "1106 Budapest 10. ker. Gyakorló utca 36.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.502288,
+    "lon": 19.1467572
+  },
+  {
+    "name": "Kimo Tabak Bt.",
+    "license_number": "DKE1600000324",
+    "address": "1085 Budapest, József körút 66.",
+    "start_of_validity": "2022.07.14",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4879081,
+    "lon": 19.0707803
+  },
+  {
+    "name": "Kincsem Tabak-Shop Bt.",
+    "license_number": "DKE1600000235",
+    "address": "1146 Budapest, Hungária körút 140-144.",
+    "start_of_validity": "2024.10.25",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5118459,
+    "lon": 19.0977494
+  },
+  {
+    "name": "Kincsem Tabak-Shop Bt.",
+    "license_number": "DKE1600000236",
+    "address": "1161 Budapest, Rákosi út 116.",
+    "start_of_validity": "2024.10.25",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5216601,
+    "lon": 19.1680343
+  },
+  {
+    "name": "Kiscigaretta Bt.",
+    "license_number": "DKE1700000140",
+    "address": "1027 Budapest, Bem József utca 9.",
+    "start_of_validity": "2023.10.17",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5119048,
+    "lon": 19.0347184
+  },
+  {
+    "name": "Kishunor Bt.",
+    "license_number": "DKE1600000311",
+    "address": "1148 Budapest 14. ker. Nagy Lajos király útja 100.",
+    "start_of_validity": "2013.12.02",
+    "end_of_validity": "2033.11.24",
+    "lat": 47.5141985,
+    "lon": 19.1200315
+  },
+  {
+    "name": "Kobabe Szivar Bt",
+    "license_number": "DKE1600000206",
+    "address": "1073 Budapest 07. ker. Wesselényi utca 45",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5006416,
+    "lon": 19.0692562
+  },
+  {
+    "name": "Kobabe Szivar Bt",
+    "license_number": "DKE1600000217",
+    "address": "1151 Budapest, 88195. hrsz.",
+    "start_of_validity": "2024.12.19",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4978789,
+    "lon": 19.0402383
+  },
+  {
+    "name": "Kobabe Szivar Bt",
+    "license_number": "DKE1600000266",
+    "address": "1067 Budapest 06. ker. Teréz körút 21.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5059925,
+    "lon": 19.0626501
+  },
+  {
+    "name": "Kobabe Szivar Bt",
+    "license_number": "DKE1600000270",
+    "address": "1071 Budapest 07. ker. Damjanich utca 11-15.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5062084,
+    "lon": 19.0759651
+  },
+  {
+    "name": "Koki Trafik Bt.",
+    "license_number": "DKE1010000156",
+    "address": "1191 Budapest, Ady Endre út 42-44.",
+    "start_of_validity": "2022.11.25",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4604041,
+    "lon": 19.1327607
+  },
+  {
+    "name": "Koki Trafik Bt.",
+    "license_number": "DKE1010000160",
+    "address": "1097 Budapest, Könyves Kálmán körút 12-14.",
+    "start_of_validity": "2022.11.25",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4708783,
+    "lon": 19.0841386
+  },
+  {
+    "name": "Koki Trafik Bt.",
+    "license_number": "DKE1600000081",
+    "address": "1145 Budapest, Nagy Lajos király útja 210.",
+    "start_of_validity": "2022.11.25",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5220951,
+    "lon": 19.1027216
+  },
+  {
+    "name": "Kondás Orsolya",
+    "license_number": "DKE1010000148",
+    "address": "1116 Budapest 11. ker. Fehérvári út 45-47.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.469461,
+    "lon": 19.044411
+  },
+  {
+    "name": "Kondás Orsolya",
+    "license_number": "DKE1010000149",
+    "address": "1119 Budapest 11. ker. Andor utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.45574,
+    "lon": 19.03881
+  },
+  {
+    "name": "Kondás Zsolt Attila",
+    "license_number": "DKE1600000102",
+    "address": "1162 Budapest 16. ker. Rákosi út 265/B",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.522874,
+    "lon": 19.1709777
+  },
+  {
+    "name": "Korona Trafik Bt.",
+    "license_number": "DKE1010000177",
+    "address": "1114 Budapest, Fehérvári út 13.",
+    "start_of_validity": "2023.08.30",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4757162,
+    "lon": 19.0467094
+  },
+  {
+    "name": "Korona Trafik Bt.",
+    "license_number": "DKE1600000186",
+    "address": "1103 Budapest, Gyömrői út 76-80.",
+    "start_of_validity": "2023.08.30",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4660177,
+    "lon": 19.1482446
+  },
+  {
+    "name": "Korozmán Anikó",
+    "license_number": "DKE1010000002",
+    "address": "1225 Budapest 22. ker. Nagytétényi út 293.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.3917626,
+    "lon": 18.9829234
+  },
+  {
+    "name": "Kovács Nikolett",
+    "license_number": "DKE1600000002",
+    "address": "1152 Budapest 15. ker. Fő út 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5682298,
+    "lon": 19.1256891
+  },
+  {
+    "name": "Kovi Tabak Bt.",
+    "license_number": "DKE1010000104",
+    "address": "1204 Budapest 20. ker. Radnó utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4413053,
+    "lon": 19.1333371
+  },
+  {
+    "name": "Kovi Tabak Bt.",
+    "license_number": "DKE1010000112",
+    "address": "1182 Budapest, Cziffra György utca 15/B.",
+    "start_of_validity": "2022.07.07",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4325899,
+    "lon": 19.1783785
+  },
+  {
+    "name": "Kozmix Trafik Bt.",
+    "license_number": "DKE1010000128",
+    "address": "1182 Budapest, Üllői út 745.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4294403,
+    "lon": 19.2165112
+  },
+  {
+    "name": "Krattinger András Attiláné",
+    "license_number": "DKE1700000037",
+    "address": "1139 Budapest, Béke tér 10-11. földszint 6. ajtó",
+    "start_of_validity": "2024.07.11",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5311222,
+    "lon": 19.080786
+  },
+  {
+    "name": "Kremmer Sztár Bt.",
+    "license_number": "DKE1600000019",
+    "address": "1171 Budapest, Zrínyi utca 86.",
+    "start_of_validity": "2025.07.18",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4482751,
+    "lon": 19.145685
+  },
+  {
+    "name": "Kremmer Sztár Bt.",
+    "license_number": "DKE1600000023",
+    "address": "1105 Budapest, Körösi Csoma Sándor út 43.",
+    "start_of_validity": "2025.07.18",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4903057,
+    "lon": 19.137786
+  },
+  {
+    "name": "Kremmer Tabak Bt.",
+    "license_number": "DKE1600000070",
+    "address": "1152 Budapest 15. ker. Rákos út 84.",
+    "start_of_validity": "2013.07.04",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.549914,
+    "lon": 19.1171355
+  },
+  {
+    "name": "Kremmer Tabak Bt.",
+    "license_number": "DKE1600000075",
+    "address": "1152 Budapest 15. ker. Rákos út 48.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5556593,
+    "lon": 19.1197676
+  },
+  {
+    "name": "Kremmer Tabak Bt.",
+    "license_number": "DKE1600000078",
+    "address": "1081 Budapest, II. János Pál pápa tér 13.",
+    "start_of_validity": "2023.04.14",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4951669,
+    "lon": 19.0786954
+  },
+  {
+    "name": "Kremmer Tabak Bt.",
+    "license_number": "DKE1600000080",
+    "address": "1152 Budapest 15. ker. Töltés utca 4.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5736974,
+    "lon": 19.1209281
+  },
+  {
+    "name": "Kribaco Shop Bt",
+    "license_number": "DKE1010000062",
+    "address": "1204 Budapest 20. ker. Ady Endre utca 90/92.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4380558,
+    "lon": 19.1049051
+  },
+  {
+    "name": "Krila Trafik Bt",
+    "license_number": "DKE1010000046",
+    "address": "1222 Budapest 22. ker. Tóth József utca 49.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4221944,
+    "lon": 19.0363889
+  },
+  {
+    "name": "Krila Trafik Bt",
+    "license_number": "DKE1010000058",
+    "address": "1222 Budapest 22. ker. Gádor utca 128.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.425383,
+    "lon": 19.0150821
+  },
+  {
+    "name": "Kriprint Bt",
+    "license_number": "DKE1010000049",
+    "address": "1224 Budapest 22. ker. Dózsa György út 29",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5066582,
+    "lon": 19.0860698
+  },
+  {
+    "name": "KRISZTINA TABAK-SHOP Bt.",
+    "license_number": "DKE1010000080",
+    "address": "1116 Budapest, Fehérvári út 192.",
+    "start_of_validity": "2023.05.18",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4436017,
+    "lon": 19.0373284
+  },
+  {
+    "name": "KRISZTINA TABAK-SHOP Bt.",
+    "license_number": "DKE1700000074",
+    "address": "1013 Budapest, Krisztina körút 37.",
+    "start_of_validity": "2023.05.18",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4988446,
+    "lon": 19.0259049
+  },
+  {
+    "name": "Ksmith Cigarette Bt.",
+    "license_number": "DKE1700000187",
+    "address": "1015 Budapest, Batthyány utca 1.",
+    "start_of_validity": "2024.01.05",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5069935,
+    "lon": 19.0378435
+  },
+  {
+    "name": "Ksmith Cigarette Bt.",
+    "license_number": "DKE1700000198",
+    "address": "1011 Budapest, Fő utca 4. földszint",
+    "start_of_validity": "2024.10.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4989185,
+    "lon": 19.0400458
+  },
+  {
+    "name": "Kultúr Dohány Bt.",
+    "license_number": "DKE1010000054",
+    "address": "1181 Budapest 18. ker. Est utca 50.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4348016,
+    "lon": 19.17024
+  },
+  {
+    "name": "Kürcha Tobacco Bt",
+    "license_number": "DKE1010000197",
+    "address": "1237 Budapest 23. ker. Haraszti út 34-36",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.3934815,
+    "lon": 19.1157955
+  },
+  {
+    "name": "Kürcha Tobacco Bt",
+    "license_number": "DKE1010000290",
+    "address": "1237 Budapest 23. ker. Köves út 40.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4172056,
+    "lon": 19.1405493
+  },
+  {
+    "name": "Kürcha Tobacco Bt",
+    "license_number": "DKE1600000185",
+    "address": "1155 Budapest 15. ker. Kolozsvár utca 48-50.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5399026,
+    "lon": 19.1192238
+  },
+  {
+    "name": "Kürcha Tobacco Bt",
+    "license_number": "DKE1600000200",
+    "address": "1156 Budapest 15. ker. Nyírpalota utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.539171,
+    "lon": 19.137763
+  },
+  {
+    "name": "Kürcha Tobacco Bt",
+    "license_number": "DKE1600000205",
+    "address": "1157 Budapest 15. ker. Páskomliget utca 26",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5459702,
+    "lon": 19.1366544
+  },
+  {
+    "name": "Kut Tabak Bt",
+    "license_number": "DKE1010000261",
+    "address": "1121 Budapest 12. ker. Zugligeti út 58",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5178584,
+    "lon": 18.9836098
+  },
+  {
+    "name": "Kut Tabak Bt",
+    "license_number": "DKE1010000262",
+    "address": "1125 Budapest 12. ker. Kútvölgyi út 12",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5123729,
+    "lon": 19.0003334
+  },
+  {
+    "name": "Kut Tabak Bt",
+    "license_number": "DKE1700000224",
+    "address": "1025 Budapest 02. ker. Csatárka út 58.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5299602,
+    "lon": 19.0098972
+  },
+  {
+    "name": "Kuuba Trafik Bt.",
+    "license_number": "DKE1010000234",
+    "address": "1118 Budapest, Rétköz utca 3.",
+    "start_of_validity": "2024.08.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.47413,
+    "lon": 18.9962467
+  },
+  {
+    "name": "Kuuba Trafik Bt.",
+    "license_number": "DKE1010000235",
+    "address": "1116 Budapest, Olajbogyó utca 3.",
+    "start_of_validity": "2024.08.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.456627,
+    "lon": 19.0228244
+  },
+  {
+    "name": "Kuuba Trafik Bt.",
+    "license_number": "DKE1600000248",
+    "address": "1146 Budapest, Dózsa György út 13.",
+    "start_of_validity": "2024.08.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5051185,
+    "lon": 19.0881425
+  },
+  {
+    "name": "Kuuba Trafik Bt.",
+    "license_number": "DKE1600000249",
+    "address": "1148 Budapest, Vezér utca 129.",
+    "start_of_validity": "2024.08.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5183337,
+    "lon": 19.1296677
+  },
+  {
+    "name": "Kvintker Bt.",
+    "license_number": "DKE1010000228",
+    "address": "1117 Budapest 11. ker. Móricz Zsigmond körtér 9.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4767758,
+    "lon": 19.0462707
+  },
+  {
+    "name": "Kvintker Bt.",
+    "license_number": "DKE1010000232",
+    "address": "1117 Budapest 11. ker. Bercsényi utca 21/a",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4759098,
+    "lon": 19.0502369
+  },
+  {
+    "name": "Kvintker Bt.",
+    "license_number": "DKE1600000233",
+    "address": "1143 Budapest, Szobránc 20.",
+    "start_of_validity": "2021.04.12",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5058211,
+    "lon": 19.1033804
+  },
+  {
+    "name": "Kvintker Bt.",
+    "license_number": "DKE1600000237",
+    "address": "1149 Budapest 14. ker. Egressy   9/A",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5066558,
+    "lon": 19.1053408
+  },
+  {
+    "name": "Kvintker Bt.",
+    "license_number": "DKE1700000166",
+    "address": "1031 Budapest, Vízimolnár utca 8.",
+    "start_of_validity": "2022.08.17",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5688191,
+    "lon": 19.052863
+  },
+  {
+    "name": "Latif Trafik Bt",
+    "license_number": "DKE1010000204",
+    "address": "1111 Budapest 11. ker. Lágymányosi utca 16.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4775638,
+    "lon": 19.0532928
+  },
+  {
+    "name": "Latif Trafik Bt",
+    "license_number": "DKE1010000331",
+    "address": "1116 Budapest 11. ker. Fehérvári út 211.",
+    "start_of_validity": "2016.03.23",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4470136,
+    "lon": 19.0365659
+  },
+  {
+    "name": "Lavanderia Bt.",
+    "license_number": "DKE1600000315",
+    "address": "1173 Budapest 17. ker. Ferihegyi út 132.",
+    "start_of_validity": "2014.10.03",
+    "end_of_validity": "2034.09.04",
+    "lat": 47.4758244,
+    "lon": 19.2549415
+  },
+  {
+    "name": "Lendeczkiné Kővári Katalin Piroska",
+    "license_number": "DKE1600000003",
+    "address": "1155 Budapest, Vasutastelep utca 5.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5418312,
+    "lon": 19.1203366
+  },
+  {
+    "name": "Lettrich Terézia Mária",
+    "license_number": "DKE1700000007",
+    "address": "1031 Budapest 03. ker. Keve utca 45/b",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5760564,
+    "lon": 19.0582694
+  },
+  {
+    "name": "LG 23 Bt.",
+    "license_number": "DKE1700000197",
+    "address": "1026 Budapest, Gábor Áron utca 74-78.",
+    "start_of_validity": "2026.08.03",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5225098,
+    "lon": 19.014741
+  },
+  {
+    "name": "LG 23 Bt.",
+    "license_number": "DKE1700000199",
+    "address": "1031 Budapest, Mészkő utca 2-4.",
+    "start_of_validity": "2025.11.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5797528,
+    "lon": 19.0328633
+  },
+  {
+    "name": "LI-ZO-Tabak Bt",
+    "license_number": "DKE1700000017",
+    "address": "1132 Budapest 13. ker. Csanády utca 4/B",
+    "start_of_validity": "2013.07.07",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5160879,
+    "lon": 19.0581315
+  },
+  {
+    "name": "Liget Tabak-Shop Bt",
+    "license_number": "DKE1010000222",
+    "address": "1116 Budapest 11. ker. Kondorosi út 7.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4513971,
+    "lon": 19.03756
+  },
+  {
+    "name": "Liget Tabak-Shop Bt",
+    "license_number": "DKE1010000225",
+    "address": "1201 Budapest 20. ker. Vágóhíd utca 44.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4241337,
+    "lon": 19.1106953
+  },
+  {
+    "name": "Liget Trafik Bt.",
+    "license_number": "DKE1600000027",
+    "address": "1101 Budapest 10. ker. Pongrác utca 9.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.3995499,
+    "lon": 19.2126103
+  },
+  {
+    "name": "Lipót Trafik Bt.",
+    "license_number": "DKE1700000238",
+    "address": "1133 Budapest 13. ker. Pannónia utca 68.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5198243,
+    "lon": 19.0557198
+  },
+  {
+    "name": "Liso Trafik Bt.",
+    "license_number": "DKE1600000136",
+    "address": "1148 Budapest 14. ker. Kerepesi út 34.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5007184,
+    "lon": 19.1105525
+  },
+  {
+    "name": "Liso Trafik Bt.",
+    "license_number": "DKE1600000193",
+    "address": "1146 Budapest 14. ker. Dózsa György utca 29.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5641357,
+    "lon": 18.9661591
+  },
+  {
+    "name": "Lohár  Péter",
+    "license_number": "DKE1010000193",
+    "address": "1191 Budapest 19. ker. Üllői út 210.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4595389,
+    "lon": 19.1406411
+  },
+  {
+    "name": "Lokomotiv Bt",
+    "license_number": "DKE1600000212",
+    "address": "1104 Budapest 10. ker. Mádi utca 98.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4772467,
+    "lon": 19.1583549
+  },
+  {
+    "name": "LOLA Tabak Bt",
+    "license_number": "DKE1700000207",
+    "address": "1139 Budapest 13. ker. Fiastyúk utca 23-25",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5430773,
+    "lon": 19.0809143
+  },
+  {
+    "name": "LOLA Tabak Bt",
+    "license_number": "DKE1700000208",
+    "address": "1135 Budapest 13. ker. Jász utca 105.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5369323,
+    "lon": 19.0873467
+  },
+  {
+    "name": "LOTTOBACCO 7 Bt.",
+    "license_number": "DKE1600000022",
+    "address": "1074 Budapest, Dob utca 52.",
+    "start_of_validity": "2022.01.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5014381,
+    "lon": 19.0653598
+  },
+  {
+    "name": "Lucky Trafik Bt.",
+    "license_number": "DKE1010000179",
+    "address": "1111 Budapest, Bartók Béla út 25.",
+    "start_of_validity": "2022.11.16",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4802693,
+    "lon": 19.0513012
+  },
+  {
+    "name": "Lucky Trafik Bt.",
+    "license_number": "DKE1700000110",
+    "address": "1042 Budapest, Árpád út 183.",
+    "start_of_validity": "2022.11.16",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5607771,
+    "lon": 19.1066302
+  },
+  {
+    "name": "Luna Trafik Bt.",
+    "license_number": "DKE1600000147",
+    "address": "1085 Budapest, József körút 31/A.",
+    "start_of_validity": "2022.12.21",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4931141,
+    "lon": 19.0708167
+  },
+  {
+    "name": "Luna Trafik Bt.",
+    "license_number": "DKE1700000086",
+    "address": "1037 Budapest, Bécsi út 300.",
+    "start_of_validity": "2022.12.21",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.553687,
+    "lon": 19.0281633
+  },
+  {
+    "name": "M-Braun Bt",
+    "license_number": "DKE1600000045",
+    "address": "1173 Budapest 17. ker. Pesti út 70.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4830788,
+    "lon": 19.2416775
+  },
+  {
+    "name": "Mádá Team Plus Bt",
+    "license_number": "DKE1010000164",
+    "address": "1215 Budapest 21. ker. Csete Balázs utca 6.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4342107,
+    "lon": 19.0761344
+  },
+  {
+    "name": "Mádá Team Plus Bt",
+    "license_number": "DKE1010000309",
+    "address": "1213 Budapest 21. ker. Görgey Artúr tér 20.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.423052,
+    "lon": 19.07161
+  },
+  {
+    "name": "Magát Mónika Rózsa",
+    "license_number": "DKE1600000125",
+    "address": "1102 Budapest 10. ker. Állomás utca 7.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4846747,
+    "lon": 19.128289
+  },
+  {
+    "name": "MagikTrafik Bt.",
+    "license_number": "DKE1700000216",
+    "address": "1135 Budapest, Lehel utca 64-68.",
+    "start_of_validity": "2025.10.22",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5284853,
+    "lon": 19.0793559
+  },
+  {
+    "name": "MagikTrafik Bt.",
+    "license_number": "DKE1700000217",
+    "address": "1139 Budapest, Pap Károly utca 22/B. Ü-2.",
+    "start_of_validity": "2025.11.28",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5319583,
+    "lon": 19.0715655
+  },
+  {
+    "name": "Maglódi Ágnes Dohánytrafik Bt",
+    "license_number": "DKE8110000251",
+    "address": "2112 Veresegyház Budapesti út 108.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.6554994,
+    "lon": 19.263282
+  },
+  {
+    "name": "Magyar Ákos",
+    "license_number": "DKE1010000173",
+    "address": "1185 Budapest 18. ker. Üllői út 696 .",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4290413,
+    "lon": 19.2183603
+  },
+  {
+    "name": "Major-Lottó Bt.",
+    "license_number": "DKE1010000004",
+    "address": "1212 Budapest, Széchenyi István utca 86.",
+    "start_of_validity": "2022.12.16",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4225054,
+    "lon": 19.0863898
+  },
+  {
+    "name": "Máté János",
+    "license_number": "DKE1600000035",
+    "address": "1173 Budapest, Pesti út 39. 11. ü.",
+    "start_of_validity": "2022.09.22",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4724543,
+    "lon": 19.277837
+  },
+  {
+    "name": "Mátrai Péter Róbert",
+    "license_number": "DKE1010000077",
+    "address": "1183 Budapest 18. ker. Ráday Gedeon utca 93.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4495469,
+    "lon": 19.1931859
+  },
+  {
+    "name": "Matusek Mónika Gyöngyi",
+    "license_number": "DKE1010000020",
+    "address": "1117 Budapest, Dombóvári út 27.",
+    "start_of_validity": "2023.08.30",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4680174,
+    "lon": 19.0585153
+  },
+  {
+    "name": "Matusek Mónika Gyöngyi",
+    "license_number": "DKE1600000032",
+    "address": "1087 Budapest, Kerepesi út 5.",
+    "start_of_validity": "2023.08.30",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4986114,
+    "lon": 19.08391
+  },
+  {
+    "name": "Matusek Mónika Gyöngyi",
+    "license_number": "DKE1600000033",
+    "address": "1066 Budapest, Zichy Jenő utca 1.",
+    "start_of_validity": "2023.08.30",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5029844,
+    "lon": 19.0554128
+  },
+  {
+    "name": "Mátyás Dohány Ker. Bt",
+    "license_number": "DKE1600000069",
+    "address": "1165 Budapest 16. ker. Újszász utca 87.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5095056,
+    "lon": 19.2112081
+  },
+  {
+    "name": "Mázsa Tabak Bt",
+    "license_number": "DKE1010000327",
+    "address": "1126 Budapest, Királyhágó utca 2.",
+    "start_of_validity": "2023.10.24",
+    "end_of_validity": "2034.09.29",
+    "lat": 47.4953531,
+    "lon": 19.0230072
+  },
+  {
+    "name": "Merci Tabak Bt",
+    "license_number": "DKE1600000089",
+    "address": "1087 Budapest 08. ker. Hős utca 9.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4959358,
+    "lon": 19.1075312
+  },
+  {
+    "name": "Merci Tabak Bt",
+    "license_number": "DKE1600000108",
+    "address": "1062 Budapest 06. ker. Teréz körút 55.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5106103,
+    "lon": 19.0566883
+  },
+  {
+    "name": "Merin Tabak Bt",
+    "license_number": "DKE1010000220",
+    "address": "1117 Budapest 11. ker. Alíz   6 A",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4591973,
+    "lon": 19.0489225
+  },
+  {
+    "name": "Merin Tabak Bt",
+    "license_number": "DKE1010000221",
+    "address": "1119 Budapest 11. ker. Bártfai   1-3.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4674729,
+    "lon": 19.0432564
+  },
+  {
+    "name": "Mészáros János",
+    "license_number": "DKE1010000030",
+    "address": "1117 Budapest 11. ker. Hunyadi János út 19.",
+    "start_of_validity": "2023.05.10",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4351556,
+    "lon": 19.0413414
+  },
+  {
+    "name": "Mészáros Jánosné",
+    "license_number": "DKE1010000024",
+    "address": "1193 Budapest 19. ker. Ötvenhatosok tere 17.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4498454,
+    "lon": 19.1473821
+  },
+  {
+    "name": "Metro Trafik Bt",
+    "license_number": "DKE1010000301",
+    "address": "1091 Budapest 09. ker. Kálvin tér 9.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4886874,
+    "lon": 19.0620026
+  },
+  {
+    "name": "Metro Trafik Bt",
+    "license_number": "DKE1010000303",
+    "address": "1091 Budapest 09. ker. Kálvin tér 7.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4886113,
+    "lon": 19.0609722
+  },
+  {
+    "name": "Metro Trafik Bt",
+    "license_number": "DKE1010000304",
+    "address": "1097 Budapest 09. ker. Gubacsi út 34.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.445341,
+    "lon": 19.0970816
+  },
+  {
+    "name": "Metro Trafik Bt.",
+    "license_number": "DKE1010000302",
+    "address": "1093 Budapest, Gönczy Pál utca 2. földszint IV. ajtó",
+    "start_of_validity": "2025.09.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.487221,
+    "lon": 19.060145
+  },
+  {
+    "name": "METRO-MOBIL Bt",
+    "license_number": "DKE1600000085",
+    "address": "1161 Budapest, Csömöri út 109.",
+    "start_of_validity": "2024.04.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5244882,
+    "lon": 19.1589675
+  },
+  {
+    "name": "Mihók Anita Andrea",
+    "license_number": "DKE1600000209",
+    "address": "1165 Budapest, Margit utca 102.",
+    "start_of_validity": "2026.02.11",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5165983,
+    "lon": 19.1887097
+  },
+  {
+    "name": "Mirabend Bt.",
+    "license_number": "DKE1010000121",
+    "address": "1126 Budapest 12. ker. Dolgos utca 2. fsz. 171. üzlet",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4915641,
+    "lon": 19.0207011
+  },
+  {
+    "name": "Mizacor-trade 2002 Bt.",
+    "license_number": "DKE1700000232",
+    "address": "1037 Budapest, Bécsi út 43.",
+    "start_of_validity": "2019.11.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5280719,
+    "lon": 19.0377122
+  },
+  {
+    "name": "Mizacor-trade 2002 Bt.",
+    "license_number": "DKE1700000234",
+    "address": "1032 Budapest 03. ker. Bécsi út 136.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5439072,
+    "lon": 19.0284465
+  },
+  {
+    "name": "MJ-King Trafik Bt.",
+    "license_number": "DKE1700000171",
+    "address": "1046 Budapest 04. ker. Eperjesi utca 1/A:",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.573755,
+    "lon": 19.10389
+  },
+  {
+    "name": "Moldovainé Kavasinszky Ilona",
+    "license_number": "DKE1010000059",
+    "address": "1203 Budapest 20. ker. Baross utca 5/A",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4407712,
+    "lon": 19.0960277
+  },
+  {
+    "name": "Mucsányi Károly Ferencné",
+    "license_number": "DKE1600000313",
+    "address": "1173 Budapest 17. ker. Bakancsos utca 5.",
+    "start_of_validity": "2013.12.18",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4801095,
+    "lon": 19.2437964
+  },
+  {
+    "name": "MULTI TRAFIK Bt.",
+    "license_number": "DKE1600000194",
+    "address": "1065 Budapest, Hajós utca 23.",
+    "start_of_validity": "2024.04.08",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5037517,
+    "lon": 19.0578237
+  },
+  {
+    "name": "MULTI TRAFIK Bt.",
+    "license_number": "DKE1600000197",
+    "address": "1142 Budapest, Ungvár utca 50.",
+    "start_of_validity": "2024.04.08",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5338953,
+    "lon": 19.1057885
+  },
+  {
+    "name": "N&J Family Dohány BT",
+    "license_number": "DKE1600000140",
+    "address": "1162 Budapest 16. ker. Mátyás király út 58.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5855572,
+    "lon": 19.0523969
+  },
+  {
+    "name": "Nacsavin Tabak Bt.",
+    "license_number": "DKE1600000262",
+    "address": "1165 Budapest, Arany János utca 102.",
+    "start_of_validity": "2014.12.13",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5209115,
+    "lon": 19.1864524
+  },
+  {
+    "name": "Nacsavin Tabak Bt.",
+    "license_number": "DKE1600000269",
+    "address": "1165 Budapest, Bökényföldi út 117547. hrsz.",
+    "start_of_validity": "2024.12.18",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.509975,
+    "lon": 19.2069849
+  },
+  {
+    "name": "Nagy A Dohány Bt.",
+    "license_number": "DKE1010000031",
+    "address": "1239 Budapest 23. ker. Grassalkovich út 171",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.3905659,
+    "lon": 19.1189114
+  },
+  {
+    "name": "Nagy A Dohány Bt.",
+    "license_number": "DKE1010000032",
+    "address": "1205 Budapest 20. ker. Határ út 95",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4543994,
+    "lon": 19.1132889
+  },
+  {
+    "name": "Nagy A Dohány Bt.",
+    "license_number": "DKE1010000038",
+    "address": "1211 Budapest 21. ker. Szent Imre tér 19.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4316954,
+    "lon": 19.0706925
+  },
+  {
+    "name": "Nagy A Dohány Bt.",
+    "license_number": "DKE1700000057",
+    "address": "1036 Budapest 03. ker. Pacsirtamező utca 22/B.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5344843,
+    "lon": 19.0396591
+  },
+  {
+    "name": "Nagy Erika",
+    "license_number": "DKE1600000001",
+    "address": "1162 Budapest 16. ker. György utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5308063,
+    "lon": 19.1714934
+  },
+  {
+    "name": "Nagy Márta",
+    "license_number": "DKE1010000074",
+    "address": "1183 Budapest 18. ker. Balassa utca 2-10.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4427584,
+    "lon": 19.1842145
+  },
+  {
+    "name": "Nagydohány-1161 Bt.",
+    "license_number": "DKE1600000207",
+    "address": "1162 Budapest 16. ker. Rákosi út 142-146.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5236507,
+    "lon": 19.1722751
+  },
+  {
+    "name": "Nagyvadász Bt",
+    "license_number": "DKE1600000099",
+    "address": "1106 Budapest 10. ker. Harmat utca 113.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4723883,
+    "lon": 19.1626224
+  },
+  {
+    "name": "Nagyvadász Bt.",
+    "license_number": "DKE1010000109",
+    "address": "1191 Budapest, Vak Bottyán utca 72. földszint 3. ajtó",
+    "start_of_validity": "2025.01.27",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4618016,
+    "lon": 19.1460659
+  },
+  {
+    "name": "Nagyvadász Bt.",
+    "license_number": "DKE1600000107",
+    "address": "1108 Budapest,\n Tavas utca 1. C.\n épület földszint\n 18. ajtó",
+    "start_of_validity": "2024.12.09",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4689188,
+    "lon": 19.1653193
+  },
+  {
+    "name": "Nájkopex Trafik Bt.",
+    "license_number": "DKE1010000257",
+    "address": "1118 Budapest, Jagelló út 4/A.",
+    "start_of_validity": "2024.03.20",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4861728,
+    "lon": 19.0236657
+  },
+  {
+    "name": "Nájkopex Trafik Bt.",
+    "license_number": "DKE1010000259",
+    "address": "1203 Budapest, Kossuth Lajos utca 31/b",
+    "start_of_validity": "2024.03.20",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4373241,
+    "lon": 19.1014827
+  },
+  {
+    "name": "NANE 3000 Bt.",
+    "license_number": "DKE1700000077",
+    "address": "1048 Budapest, Ügető utca 2.",
+    "start_of_validity": "2026.03.12",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.58119,
+    "lon": 19.11498
+  },
+  {
+    "name": "NANE 3000 Bt.",
+    "license_number": "DKE1700000078",
+    "address": "1048 Budapest, Kordován tér 13.",
+    "start_of_validity": "2026.03.12",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5868026,
+    "lon": 19.1133315
+  },
+  {
+    "name": "Naphegy Tabak Bt.",
+    "license_number": "DKE1010000263",
+    "address": "1118 Budapest 11. ker. Sasadi út 83.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4735112,
+    "lon": 19.0082869
+  },
+  {
+    "name": "Naphegy Tabak Bt.",
+    "license_number": "DKE1700000203",
+    "address": "1016 Budapest 01. ker. Naphegy tér 3.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4926141,
+    "lon": 19.0321797
+  },
+  {
+    "name": "Naphegy Tabak Bt.",
+    "license_number": "DKE1700000204",
+    "address": "1015 Budapest 01. ker. Batthyány utca 28",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5070701,
+    "lon": 19.0315221
+  },
+  {
+    "name": "Natrade Dohány Bt",
+    "license_number": "DKE1010000293",
+    "address": "1212 Budapest 21. ker. Deák Ferenc tér 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4974057,
+    "lon": 19.0550071
+  },
+  {
+    "name": "Natrade Dohány Bt",
+    "license_number": "DKE1700000155",
+    "address": "1024 Budapest 02. ker. Lövőház utca 2-6",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5086947,
+    "lon": 19.0254751
+  },
+  {
+    "name": "Natrade Dohány Bt",
+    "license_number": "DKE1700000156",
+    "address": "1024 Budapest 02. ker. Lövőház utca 12",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5089622,
+    "lon": 19.0248282
+  },
+  {
+    "name": "Natrade Dohány Bt.",
+    "license_number": "DKE1010000248",
+    "address": "1211 Budapest, Központi út 18.",
+    "start_of_validity": "2026.01.12",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4305849,
+    "lon": 19.0615899
+  },
+  {
+    "name": "Natrade Dohány Bt.",
+    "license_number": "DKE1700000237",
+    "address": "1024 Budapest, Margit körút 69.",
+    "start_of_validity": "2023.05.05",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5103581,
+    "lon": 19.0296897
+  },
+  {
+    "name": "NEDO Dohány Kereskedelmi Bt.",
+    "license_number": "DKE1010000028",
+    "address": "1211 Budapest, Kossuth Lajos utca 87.",
+    "start_of_validity": "2022.01.31",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4224676,
+    "lon": 19.0410054
+  },
+  {
+    "name": "NEDO Dohány Kereskedelmi Bt.",
+    "license_number": "DKE1010000034",
+    "address": "1211 Budapest, Szent Imre tér 1.",
+    "start_of_validity": "2022.01.31",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4304171,
+    "lon": 19.0690284
+  },
+  {
+    "name": "NEDO Dohány Kereskedelmi Bt.",
+    "license_number": "DKE1010000048",
+    "address": "1184 Budapest, Lakatos utca 7.",
+    "start_of_validity": "2022.01.31",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5286458,
+    "lon": 19.2084072
+  },
+  {
+    "name": "Negretto Bt.",
+    "license_number": "DKE1600000077",
+    "address": "1145 Budapest 14. ker. Róna utca 125.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5147373,
+    "lon": 19.1111182
+  },
+  {
+    "name": "Nemes Tobacco Bt",
+    "license_number": "DKE1700000119",
+    "address": "1042 Budapest 04. ker. Árpád út 62",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5608031,
+    "lon": 19.0873523
+  },
+  {
+    "name": "Nemes Tobacco Bt",
+    "license_number": "DKE1700000120",
+    "address": "1042 Budapest 04. ker. Árpád út 95",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5091588,
+    "lon": 19.0946713
+  },
+  {
+    "name": "Nemes Tobacco Bt.",
+    "license_number": "DKE1700000112",
+    "address": "1041 Budapest, Rózsa utca 73. földszint 3.",
+    "start_of_validity": "2026.04.23",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.562442,
+    "lon": 19.0997104
+  },
+  {
+    "name": "Nemes-Tabak Bt",
+    "license_number": "DKE1600000162",
+    "address": "1173 Budapest 17. ker. Pesti út 211.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4776143,
+    "lon": 19.2622069
+  },
+  {
+    "name": "Nemesdaróczi és Társa Bt",
+    "license_number": "DKE1010000087",
+    "address": "1116 Budapest 11. ker. Fehérvári út 182.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4484967,
+    "lon": 19.0380319
+  },
+  {
+    "name": "Németh László",
+    "license_number": "DKE1600000005",
+    "address": "1101 Budapest, Üllői út 124/B.",
+    "start_of_validity": "2021.12.13",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4698355,
+    "lon": 19.1149454
+  },
+  {
+    "name": "Németh-Tabak Bt",
+    "license_number": "DKE1600000146",
+    "address": "1149 Budapest 14. ker. Bosnyák tér 15.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5200217,
+    "lon": 19.1124343
+  },
+  {
+    "name": "NET-DOHÁNYBOLTOK.hu Bt.",
+    "license_number": "DKE1010000017",
+    "address": "1119 Budapest, Etele tér 3.",
+    "start_of_validity": "2022.07.21",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4656705,
+    "lon": 19.0233708
+  },
+  {
+    "name": "Netti Trafik Bt.",
+    "license_number": "DKE1010000310",
+    "address": "1095 Budapest, Soroksári út 56.",
+    "start_of_validity": "2021.11.22",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.471029,
+    "lon": 19.0736852
+  },
+  {
+    "name": "Nívó-Trafik Bt.",
+    "license_number": "DKE1700000091",
+    "address": "1039 Budapest 03. ker. Boglár utca 5.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5957644,
+    "lon": 19.0621035
+  },
+  {
+    "name": "Nívó-Trafik Bt.",
+    "license_number": "DKE1700000097",
+    "address": "1031 Budapest 03. ker. Római tér 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5689852,
+    "lon": 19.0495889
+  },
+  {
+    "name": "NORTORF Bt.",
+    "license_number": "DKE1700000084",
+    "address": "1051 Budapest, Hercegprímás utca 2.",
+    "start_of_validity": "2023.07.21",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4993371,
+    "lon": 19.0532163
+  },
+  {
+    "name": "Nyolcpipa Bt.",
+    "license_number": "DKE1600000114",
+    "address": "1085 Budapest, Üllői út 6. földszint 33-34. ajtó",
+    "start_of_validity": "2025.06.25",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4867816,
+    "lon": 19.0677292
+  },
+  {
+    "name": "Nyolcpipa Bt.",
+    "license_number": "DKE1600000115",
+    "address": "1082 Budapest, Leonardo Da Vinci utca 23.",
+    "start_of_validity": "2025.06.25",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4862243,
+    "lon": 19.0773259
+  },
+  {
+    "name": "Ónodi Trafik Bt",
+    "license_number": "DKE1600000028",
+    "address": "1102 Budapest 10. ker. Liget utca 40.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4880311,
+    "lon": 19.1300336
+  },
+  {
+    "name": "Orczy Tabak Bt",
+    "license_number": "DKE1600000052",
+    "address": "1089 Budapest 08. ker. Orczy út 46-48",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4883342,
+    "lon": 19.0928374
+  },
+  {
+    "name": "Orczy Tabak Bt",
+    "license_number": "DKE1700000027",
+    "address": "1032 Budapest 03. ker. Kiscelli utca 14",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5390935,
+    "lon": 19.037874
+  },
+  {
+    "name": "Orczy Tabak Bt",
+    "license_number": "DKE1700000028",
+    "address": "1039 Budapest 03. ker. Heltai Jenő tér 3.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5982503,
+    "lon": 19.0579964
+  },
+  {
+    "name": "Orkisen-528 Tabak Bt",
+    "license_number": "DKE1010000265",
+    "address": "1125 Budapest, Márvány utca 33",
+    "start_of_validity": "2022.09.10",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.494902,
+    "lon": 19.0205171
+  },
+  {
+    "name": "Orkisen-528 Tabak Bt",
+    "license_number": "DKE1010000266",
+    "address": "1126 Budapest, Királyhágó tér 2.",
+    "start_of_validity": "2022.09.10",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4958094,
+    "lon": 19.0191273
+  },
+  {
+    "name": "Ozayer Pipa Bt.",
+    "license_number": "DKE1010000202",
+    "address": "1094 Budapest 09. ker. Mester utca 4-6",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4817426,
+    "lon": 19.0690512
+  },
+  {
+    "name": "Ozayer Pipa Bt.",
+    "license_number": "DKE1010000215",
+    "address": "1095 Budapest 09. ker. Mester utca 46",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.478606,
+    "lon": 19.0739844
+  },
+  {
+    "name": "Ozayer Pipa Bt.",
+    "license_number": "DKE1600000219",
+    "address": "1082 Budapest 08. ker. Harminckettesek tere 6",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4897246,
+    "lon": 19.0717301
+  },
+  {
+    "name": "Ozin Tobacco Bt.",
+    "license_number": "DKE1010000240",
+    "address": "1095 Budapest 09. ker. Vágóhíd utca 3.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4717122,
+    "lon": 19.0777458
+  },
+  {
+    "name": "Ozin Tobacco Bt.",
+    "license_number": "DKE1010000300",
+    "address": "1094 Budapest 09. ker. Ferenc körút 41.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4846159,
+    "lon": 19.0698947
+  },
+  {
+    "name": "Ozin Tobacco Bt.",
+    "license_number": "DKE1600000246",
+    "address": "1081 Budapest 08. ker. Népszínház utca 59",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4935814,
+    "lon": 19.0816039
+  },
+  {
+    "name": "Ozin Tobacco Bt.",
+    "license_number": "DKE1600000286",
+    "address": "1081 Budapest 08. ker. Népszínház utca 13",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.495765,
+    "lon": 19.0721028
+  },
+  {
+    "name": "P-57 Tabak Bt.",
+    "license_number": "DKE1700000177",
+    "address": "1025 Budapest, Pusztaszeri út 72.",
+    "start_of_validity": "2022.08.30",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5231647,
+    "lon": 19.0197752
+  },
+  {
+    "name": "P-57 Tabak Bt.",
+    "license_number": "DKE1700000178",
+    "address": "1025 Budapest, Pusztaszeri út 57.",
+    "start_of_validity": "2022.08.30",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5254396,
+    "lon": 19.0238941
+  },
+  {
+    "name": "P-57 Tabak Bt.",
+    "license_number": "DKE1700000179",
+    "address": "1022 Budapest, Bimbó út 91.",
+    "start_of_validity": "2022.08.30",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5186771,
+    "lon": 19.0150832
+  },
+  {
+    "name": "P-SZ Tabak Bt",
+    "license_number": "DKE1010000107",
+    "address": "1215 Budapest 21. ker. Ady Endre út 58.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.435592,
+    "lon": 19.0748789
+  },
+  {
+    "name": "P-SZ Tabak Bt",
+    "license_number": "DKE1010000111",
+    "address": "1211 Budapest 21. ker. Szent Imre tér 4.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4312953,
+    "lon": 19.0675612
+  },
+  {
+    "name": "P-SZ Tabak Bt",
+    "license_number": "DKE1010000115",
+    "address": "1214 Budapest 21. ker. Zrínyi utca 1 ( SPAR )",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4160711,
+    "lon": 19.0629441
+  },
+  {
+    "name": "P-SZ Tabak Bt",
+    "license_number": "DKE1010000118",
+    "address": "1214 Budapest 21. ker. Vénusz utca 13-15.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4102595,
+    "lon": 19.0602443
+  },
+  {
+    "name": "P-SZ Tabak Bt",
+    "license_number": "DKE1600000132",
+    "address": "1148 Budapest, Örs vezér tere 3. fsz.",
+    "start_of_validity": "2023.03.06",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5047326,
+    "lon": 19.1350143
+  },
+  {
+    "name": "P.L.H. Tobacco Bt",
+    "license_number": "DKE1700000042",
+    "address": "1044 Budapest 04. ker. Megyeri út 56/A.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5770264,
+    "lon": 19.0850531
+  },
+  {
+    "name": "Pál Ildikó",
+    "license_number": "DKE1600000298",
+    "address": "1152 Budapest 15. ker. Illyés Gyula utca 12-16.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5616069,
+    "lon": 19.1172737
+  },
+  {
+    "name": "Pál Ildikó",
+    "license_number": "DKE1600000300",
+    "address": "1157 Budapest 15. ker. Zsókavár utca 2-4.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5413172,
+    "lon": 19.1422741
+  },
+  {
+    "name": "Pál Ildikó",
+    "license_number": "DKE1600000307",
+    "address": "1152 Budapest 15. ker. Bogáncs utca 1-3.",
+    "start_of_validity": "2013.07.24",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5697877,
+    "lon": 19.1352075
+  },
+  {
+    "name": "Palota Trafik Bt",
+    "license_number": "DKE1600000073",
+    "address": "1154 Budapest 15. ker. Bánkút utca 108.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5519597,
+    "lon": 19.1333852
+  },
+  {
+    "name": "Palus Trafik Bt",
+    "license_number": "DKE1700000032",
+    "address": "1039 Budapest 03. ker. Madzsar József utca 9-11.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.6010386,
+    "lon": 19.0584352
+  },
+  {
+    "name": "Panatella Trafik Bt",
+    "license_number": "DKE1600000208",
+    "address": "1144 Budapest 14. ker. Csertő park 20",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5105511,
+    "lon": 19.1437207
+  },
+  {
+    "name": "Panatella Trafik Bt",
+    "license_number": "DKE1700000117",
+    "address": "1042 Budapest, 73312/8/A. hrsz.",
+    "start_of_validity": "2023.04.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5608175,
+    "lon": 19.0939684
+  },
+  {
+    "name": "Pancafé Bt",
+    "license_number": "DKE1600000196",
+    "address": "1106 Budapest, Fehér út 3.",
+    "start_of_validity": "2026.07.24",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5004378,
+    "lon": 19.1365096
+  },
+  {
+    "name": "Paulovits Henriette",
+    "license_number": "DKE1600000004",
+    "address": "1152 Budapest 15. ker. Rákos út 33/a.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5568732,
+    "lon": 19.1198255
+  },
+  {
+    "name": "Pazsovin Dohány Bt.",
+    "license_number": "DKE1010000238",
+    "address": "1202 Budapest 20. ker. Tátra tér 1",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4413301,
+    "lon": 19.1127214
+  },
+  {
+    "name": "Pazsovin Dohány Bt.",
+    "license_number": "DKE1010000244",
+    "address": "1193 Budapest 19. ker. Kossuth tér",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5058457,
+    "lon": 19.0477521
+  },
+  {
+    "name": "Pazsovin Dohány Bt.",
+    "license_number": "DKE1010000287",
+    "address": "1205 Budapest 20. ker. Vízisport utca 21/c. fsz. 23.",
+    "start_of_validity": "2022.06.20",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4360636,
+    "lon": 19.0915916
+  },
+  {
+    "name": "Pék György István",
+    "license_number": "DKE1700000051",
+    "address": "1042 Budapest 04. ker. Árpád út 90-92.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5602234,
+    "lon": 19.0928194
+  },
+  {
+    "name": "Pelgreen Trade Bt",
+    "license_number": "DKE1600000245",
+    "address": "1149 Budapest, Szugló utca 80. fszt. 3/Ü.",
+    "start_of_validity": "2022.07.06",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5180198,
+    "lon": 19.1168856
+  },
+  {
+    "name": "Pelgreen Trade Bt",
+    "license_number": "DKE1700000121",
+    "address": "1039 Budapest 03. ker. Viziorgona utca 3.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5981639,
+    "lon": 19.0497496
+  },
+  {
+    "name": "Pelikán Bt",
+    "license_number": "DKE1700000005",
+    "address": "1134 Budapest 13. ker. Lehel utca 33.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5205866,
+    "lon": 19.0689793
+  },
+  {
+    "name": "Pengő Dohány Bt.",
+    "license_number": "DKE1700000175",
+    "address": "1137 Budapest 13. ker. Radnóti Miklós 4.",
+    "start_of_validity": "2021.09.29",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5138894,
+    "lon": 19.0567582
+  },
+  {
+    "name": "Pengő Dohány Bt.",
+    "license_number": "DKE1700000190",
+    "address": "1132 Budapest 13. ker. Visegrádi utca 43-45.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5174468,
+    "lon": 19.0576637
+  },
+  {
+    "name": "Pengő Dohány Bt.",
+    "license_number": "DKE1700000191",
+    "address": "1134 Budapest 13. ker. Dunyov István utca 9.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.528631,
+    "lon": 19.0688176
+  },
+  {
+    "name": "Pengő Tabak Bt.",
+    "license_number": "DKE1700000214",
+    "address": "1134 Budapest 13. ker. Árpád híd , M. 6. sz. üzlet",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5362906,
+    "lon": 19.0585186
+  },
+  {
+    "name": "Pengő Tabak Bt.",
+    "license_number": "DKE1700000215",
+    "address": "1134 Budapest 13. ker. Árpád híd M. 4 sz. üzlet",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.531712,
+    "lon": 19.0677298
+  },
+  {
+    "name": "Pengő Trafik Bt",
+    "license_number": "DKE1700000182",
+    "address": "1137 Budapest 13. ker. Jászai Mari tér 5.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5140823,
+    "lon": 19.0483654
+  },
+  {
+    "name": "Pengő Trafik Bt",
+    "license_number": "DKE1700000183",
+    "address": "1134 Budapest 13. ker. Árpád híd M.  11. sz. üzlet",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.531712,
+    "lon": 19.0677298
+  },
+  {
+    "name": "Pengő Trafik Bt",
+    "license_number": "DKE1700000184",
+    "address": "1136 Budapest 13. ker. Hollán Ernő utca 3.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5133266,
+    "lon": 19.0496919
+  },
+  {
+    "name": "Pernye Bt",
+    "license_number": "DKE1600000293",
+    "address": "1087 Budapest 08. ker. Baross tér 11/a.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5000893,
+    "lon": 19.0824446
+  },
+  {
+    "name": "Pernye Bt",
+    "license_number": "DKE1600000297",
+    "address": "1088 Budapest 08. ker. József körút 5.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4957171,
+    "lon": 19.0704835
+  },
+  {
+    "name": "Pethő Melinda",
+    "license_number": "DKE1600000275",
+    "address": "1172 Budapest 17. ker. Ferihegyi út 29.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.488975,
+    "lon": 19.2594075
+  },
+  {
+    "name": "Pintér Gyula Ferencné",
+    "license_number": "DKE1010000039",
+    "address": "1239 Budapest 23. ker. Nagykőrösi út 353.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4174101,
+    "lon": 19.1681653
+  },
+  {
+    "name": "Pócsy László Béláné",
+    "license_number": "DKE1600000098",
+    "address": "1155 Budapest, Szent Korona útja 25/B.",
+    "start_of_validity": "2023.03.24",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5418351,
+    "lon": 19.1230768
+  },
+  {
+    "name": "Polovits György",
+    "license_number": "DKE1700000247",
+    "address": "1054 Budapest 05. ker. Bank utca 3.",
+    "start_of_validity": "2014.12.02",
+    "end_of_validity": "2034.09.23",
+    "lat": 47.5032054,
+    "lon": 19.0531497
+  },
+  {
+    "name": "PomPom Dohány Bt.",
+    "license_number": "DKE1700000153",
+    "address": "1131 Budapest, Reitter Ferenc utca 132.",
+    "start_of_validity": "2023.04.19",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5406194,
+    "lon": 19.0908869
+  },
+  {
+    "name": "PomPom Dohány Bt.",
+    "license_number": "DKE1700000154",
+    "address": "1133 Budapest, Hegedűs Gyula utca 91.",
+    "start_of_validity": "2023.04.19",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5232967,
+    "lon": 19.0591389
+  },
+  {
+    "name": "PRÁTER PRO Bt.",
+    "license_number": "DKE1600000120",
+    "address": "1083 Budapest, Práter utca 30-32.",
+    "start_of_validity": "2025.12.10",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4867902,
+    "lon": 19.0840648
+  },
+  {
+    "name": "Produkta Tabak Bt",
+    "license_number": "DKE1010000042",
+    "address": "1122 Budapest 12. ker. Magyar Jakobinusok tere 7",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5012783,
+    "lon": 19.0237471
+  },
+  {
+    "name": "Produkta Tabak Bt",
+    "license_number": "DKE1010000051",
+    "address": "1115 Budapest 11. ker. Tétényi út 16.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4693525,
+    "lon": 19.0353584
+  },
+  {
+    "name": "Produkta Tabak Bt",
+    "license_number": "DKE1010000081",
+    "address": "1119 Budapest 11. ker. Csurgói út 21/a",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4536055,
+    "lon": 19.0339298
+  },
+  {
+    "name": "Produkta Tabak Bt",
+    "license_number": "DKE1600000083",
+    "address": "1063 Budapest 06. ker. Szondi utca 58.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5128206,
+    "lon": 19.0681828
+  },
+  {
+    "name": "Produkta Tabak Bt",
+    "license_number": "DKE1600000086",
+    "address": "1078 Budapest 07. ker. István utca 10",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5044953,
+    "lon": 19.0806781
+  },
+  {
+    "name": "Profi Trafik Bt",
+    "license_number": "DKE6310000141",
+    "address": "8200 Veszprém, Budapest út 16.",
+    "start_of_validity": "2023.04.17",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.0950126,
+    "lon": 17.9173689
+  },
+  {
+    "name": "Promore Szivar Bt.",
+    "license_number": "DKE1600000225",
+    "address": "1087 Budapest, Kőbányai út 27. 24. ép.",
+    "start_of_validity": "2024.08.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4892335,
+    "lon": 19.092538
+  },
+  {
+    "name": "Promore Szivar Bt.",
+    "license_number": "DKE1600000226",
+    "address": "1146 Budapest, Erzsébet királyné útja 6/a",
+    "start_of_validity": "2024.08.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.516615,
+    "lon": 19.092205
+  },
+  {
+    "name": "Protabaco Bt.",
+    "license_number": "DKE1010000086",
+    "address": "1225 Budapest 22. ker. Nagytétényi út 238.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.3958662,
+    "lon": 18.9945701
+  },
+  {
+    "name": "Protabaco Bt.",
+    "license_number": "DKE1010000119",
+    "address": "1223 Budapest 22. ker. Nagytétényi út 136-138.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4052806,
+    "lon": 19.0127498
+  },
+  {
+    "name": "PSB Tabak Bt",
+    "license_number": "DKE1700000070",
+    "address": "1026 Budapest 02. ker. Kelemen László   14/A.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5236179,
+    "lon": 18.9926742
+  },
+  {
+    "name": "Rab Judit",
+    "license_number": "DKE1700000011",
+    "address": "1136 Budapest 13. ker. Hegedűs Gyula utca 20/A.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5149949,
+    "lon": 19.0542552
+  },
+  {
+    "name": "Rácz-Tabak Bt.",
+    "license_number": "DKE1600000169",
+    "address": "1165 Budapest 16. ker. Újszász utca 47/b.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5051983,
+    "lon": 19.2004373
+  },
+  {
+    "name": "Rácz-Tabak Bt.",
+    "license_number": "DKE1600000170",
+    "address": "1104 Budapest 10. ker. Fehér út 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.50076,
+    "lon": 19.13701
+  },
+  {
+    "name": "Rácz-Tabak Bt.",
+    "license_number": "DKE1600000171",
+    "address": "1072 Budapest 07. ker. Rákóczi út 36.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.49665,
+    "lon": 19.0680572
+  },
+  {
+    "name": "Rebacco Dohánybolt Bt",
+    "license_number": "DKE1600000008",
+    "address": "1162 Budapest 16. ker. Állás   52.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5306062,
+    "lon": 19.1979337
+  },
+  {
+    "name": "Rebacco Dohánybolt Bt.",
+    "license_number": "DKE1600000015",
+    "address": "1164 Budapest, Alsómalom utca 8-10.",
+    "start_of_validity": "2025.03.24",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5263713,
+    "lon": 19.2060963
+  },
+  {
+    "name": "Rebeka Tabak Bt.",
+    "license_number": "DKE1010000329",
+    "address": "1225 Budapest, Nagytétényi út 315.",
+    "start_of_validity": "2024.04.25",
+    "end_of_validity": "2034.10.28",
+    "lat": 47.3904159,
+    "lon": 18.9807256
+  },
+  {
+    "name": "Récsei Tabak Bt",
+    "license_number": "DKE1600000116",
+    "address": "1146 Budapest 14. ker. Szabó József utca 6",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5040639,
+    "lon": 19.0926223
+  },
+  {
+    "name": "Récsei Tabak Bt",
+    "license_number": "DKE1600000118",
+    "address": "1148 Budapest 14. ker. Fogarasi út 47-51.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5061812,
+    "lon": 19.1234544
+  },
+  {
+    "name": "Récsei Tabak Bt.",
+    "license_number": "DKE1010000056",
+    "address": "1124 Budapest, Apor Vilmos tér 11.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4911346,
+    "lon": 19.0118358
+  },
+  {
+    "name": "Récsei Tabak Bt.",
+    "license_number": "DKE1010000063",
+    "address": "1121 Budapest, Eötvös út 6.",
+    "start_of_validity": "2021.12.20",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4973499,
+    "lon": 18.9888402
+  },
+  {
+    "name": "Regina Tabak Bt",
+    "license_number": "DKE1010000108",
+    "address": "1181 Budapest 18. ker. Kondor Béla sétány 9-11.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4401794,
+    "lon": 19.1680745
+  },
+  {
+    "name": "Regina Tabak Bt",
+    "license_number": "DKE1600000067",
+    "address": "1085 Budapest 08. ker. József körút 84.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4862991,
+    "lon": 19.0704206
+  },
+  {
+    "name": "Regina Tabak Bt",
+    "license_number": "DKE1600000076",
+    "address": "1089 Budapest 08. ker. Bíró Lajos utca 64-68.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4826306,
+    "lon": 19.0978792
+  },
+  {
+    "name": "RetroCity Bt.",
+    "license_number": "DKE1700000249",
+    "address": "1054 Budapest 05. ker. Bajcsy Zs.   48.",
+    "start_of_validity": "2015.03.30",
+    "end_of_validity": "2034.10.01",
+    "lat": 47.5092471,
+    "lon": 19.0553342
+  },
+  {
+    "name": "Rikicsi Tabak Bt.",
+    "license_number": "DKE1700000059",
+    "address": "1023 Budapest 02. ker. Árpád Fejedelem útja 8.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5198401,
+    "lon": 19.0371874
+  },
+  {
+    "name": "Ritter Beatrix",
+    "license_number": "DKE1600000007",
+    "address": "1164 Budapest 16. ker. Ostoros utca 8.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.525968,
+    "lon": 19.201941
+  },
+  {
+    "name": "Roken Tobacco Bt",
+    "license_number": "DKE1010000275",
+    "address": "1116 Budapest 11. ker. Bartók Béla út 129.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4711186,
+    "lon": 19.0282112
+  },
+  {
+    "name": "Roken Tobacco Bt",
+    "license_number": "DKE1600000288",
+    "address": "1148 Budapest 14. ker. Örs Vezér tere 24.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5042436,
+    "lon": 19.1383429
+  },
+  {
+    "name": "Románc Kkt.",
+    "license_number": "DKE1600000058",
+    "address": "1081 Budapest 08. ker. Népszinház utca 27",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4950597,
+    "lon": 19.075091
+  },
+  {
+    "name": "Röné Trafik Store Bt.",
+    "license_number": "DKE1600000265",
+    "address": "1156 Budapest 15. ker. Nyírpalota út 52",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5481468,
+    "lon": 19.1402884
+  },
+  {
+    "name": "Royal Smoke 2013 Bt",
+    "license_number": "DKE1010000035",
+    "address": "1096 Budapest 09. ker. Haller utca 15.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4756805,
+    "lon": 19.0767808
+  },
+  {
+    "name": "Royal Smoke 2013 Bt",
+    "license_number": "DKE1600000094",
+    "address": "1087 Budapest 08. ker. Kálvária tér 16.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4890111,
+    "lon": 19.0877576
+  },
+  {
+    "name": "Royal Smoke 2013 Bt",
+    "license_number": "DKE1600000119",
+    "address": "1075 Budapest 07. ker. Rumbach Sebestyén utca 20-22.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4981939,
+    "lon": 19.0573341
+  },
+  {
+    "name": "Royal Trafik Bt.",
+    "license_number": "DKE1700000026",
+    "address": "1035 Budapest 03. ker. Szentendrei út 36/a",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5490164,
+    "lon": 19.0430926
+  },
+  {
+    "name": "Rózsa Dohány Bt.",
+    "license_number": "DKE1600000183",
+    "address": "1086 Budapest 08. ker. Teleki tér 8-9",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4930695,
+    "lon": 19.0828251
+  },
+  {
+    "name": "Rózsavölgyi-Trafik Bt",
+    "license_number": "DKE1700000076",
+    "address": "1027 Budapest 02. ker. Fő utca 92.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5114387,
+    "lon": 19.0380616
+  },
+  {
+    "name": "Safe Tabak Bt",
+    "license_number": "DKE1600000013",
+    "address": "1081 Budapest 08. ker. Kenyérmező utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4988088,
+    "lon": 19.0772074
+  },
+  {
+    "name": "Saja Ker. Bt",
+    "license_number": "DKE1600000173",
+    "address": "1106 Budapest 10. ker. Rézvirág utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4844416,
+    "lon": 19.2041333
+  },
+  {
+    "name": "Sajó Dániel",
+    "license_number": "DKE1010000124",
+    "address": "1096 Budapest, Haller utca 8-18. B. ép. 1-7. lph. fszt. 4. ajtó",
+    "start_of_validity": "2026.01.28",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4766571,
+    "lon": 19.080343
+  },
+  {
+    "name": "Salgó Deán Bt.",
+    "license_number": "DKE8310000028",
+    "address": "3104 Salgótarján Budapesti út 57.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 48.0644506,
+    "lon": 19.7825358
+  },
+  {
+    "name": "Sallayné Soós Piroska",
+    "license_number": "DKE1010000001",
+    "address": "1114 Budapest 11. ker. Fadrusz utca 14.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4754163,
+    "lon": 19.0431707
+  },
+  {
+    "name": "Samsara Life Bt.",
+    "license_number": "DKE1010000180",
+    "address": "1117 Budapest, Nádorliget utca 5/A. földszint 4. ajtó",
+    "start_of_validity": "2024.10.23",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.466035,
+    "lon": 19.0471848
+  },
+  {
+    "name": "Samsara Life Bt.",
+    "license_number": "DKE1600000168",
+    "address": "1152 Budapest, Régi Fóti út 64.",
+    "start_of_validity": "2021.11.29",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5617097,
+    "lon": 19.1225446
+  },
+  {
+    "name": "Samsara Life Bt.",
+    "license_number": "DKE1600000184",
+    "address": "1148 Budapest, Vezér utca 148-150.",
+    "start_of_validity": "2021.11.29",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5191494,
+    "lon": 19.1269685
+  },
+  {
+    "name": "Samsara Life Bt.",
+    "license_number": "DKE1600000187",
+    "address": "1071 Budapest, Király utca 51.",
+    "start_of_validity": "2021.11.29",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5021094,
+    "lon": 19.0631802
+  },
+  {
+    "name": "Samsara Life Bt.",
+    "license_number": "DKE1700000107",
+    "address": "1135 Budapest, Lehel út 26.",
+    "start_of_validity": "2021.11.29",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5211683,
+    "lon": 19.0695706
+  },
+  {
+    "name": "Sári Line Bt",
+    "license_number": "DKE1010000184",
+    "address": "1191 Budapest 19. ker. Templom tér 21.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4536024,
+    "lon": 19.1427853
+  },
+  {
+    "name": "Satarel Trafik Ker. Bt",
+    "license_number": "DKE1700000180",
+    "address": "1042 Budapest 04. ker. Lebstück Mária utca 45.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5606261,
+    "lon": 19.0929562
+  },
+  {
+    "name": "Shepherd Trafik Bt.",
+    "license_number": "DKE1600000231",
+    "address": "1077 Budapest 07. ker. Wesselényi utca 61",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5026132,
+    "lon": 19.0726181
+  },
+  {
+    "name": "Shepherd Trafik Bt.",
+    "license_number": "DKE1600000250",
+    "address": "1078 Budapest 07. ker. Nefelejcs utca 7",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5020498,
+    "lon": 19.0829038
+  },
+  {
+    "name": "Siki-Sori Bt.",
+    "license_number": "DKE1010000308",
+    "address": "1239 Budapest 23. ker. Haraszti út 26.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.391223,
+    "lon": 19.1141411
+  },
+  {
+    "name": "Silding Tobacco Bt.",
+    "license_number": "DKE1600000277",
+    "address": "1103 Budapest, Gyömröi út 99.",
+    "start_of_validity": "2026.02.27",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4665074,
+    "lon": 19.1558837
+  },
+  {
+    "name": "Simon Sándorné",
+    "license_number": "DKE1700000058",
+    "address": "1046 Budapest 04. ker. Nádor   38. fszt.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5694647,
+    "lon": 19.0927306
+  },
+  {
+    "name": "Simonj Cigarette Bt",
+    "license_number": "DKE1010000249",
+    "address": "1188 Budapest 18. ker. Nagykőrösi út 35.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4066577,
+    "lon": 19.182006
+  },
+  {
+    "name": "Simonj Cigarette Bt",
+    "license_number": "DKE1010000254",
+    "address": "1185 Budapest 18. ker. Üllői út 610. hrsz.:159374",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4290413,
+    "lon": 19.2183603
+  },
+  {
+    "name": "Simonj Cigarette Bt",
+    "license_number": "DKE1010000274",
+    "address": "1181 Budapest 18. ker. Barta Lajos utca 151159/20.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4390571,
+    "lon": 19.1667332
+  },
+  {
+    "name": "Simonj Cigarette Bt",
+    "license_number": "DKE1010000277",
+    "address": "1186 Budapest 18. ker. Goroszló utca 15. G-61.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4321879,
+    "lon": 19.1740871
+  },
+  {
+    "name": "Simonj Cigarette Bt.",
+    "license_number": "DKE1010000252",
+    "address": "1181 Budapest, Üllői út 459.",
+    "start_of_validity": "2026.03.20",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4424166,
+    "lon": 19.1798929
+  },
+  {
+    "name": "Slikk-Slukk Bt.",
+    "license_number": "DKE1600000320",
+    "address": "1173 Budapest 17. ker. Pesti út 4.",
+    "start_of_validity": "2014.12.13",
+    "end_of_validity": "2034.10.07",
+    "lat": 47.4846721,
+    "lon": 19.2291659
+  },
+  {
+    "name": "Smoke City Bt",
+    "license_number": "DKE1010000141",
+    "address": "1193 Budapest 19. ker. Üllői út 266.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4533708,
+    "lon": 19.1573703
+  },
+  {
+    "name": "Smoke City Bt",
+    "license_number": "DKE1010000146",
+    "address": "1203 Budapest, Kossuth Lajos utca 33. hrsz. 170204/97.",
+    "start_of_validity": "2022.07.29",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.435287,
+    "lon": 19.0986446
+  },
+  {
+    "name": "Smoke City Bt",
+    "license_number": "DKE1600000082",
+    "address": "1146 Budapest 14. ker. Thököly utca 96.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5218259,
+    "lon": 19.1486506
+  },
+  {
+    "name": "Smoke Shop Bt",
+    "license_number": "DKE1010000082",
+    "address": "1203 Budapest, Kossuth Lajos utca 33.",
+    "start_of_validity": "2023.09.18",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4377789,
+    "lon": 19.1017446
+  },
+  {
+    "name": "Smoke Shop Bt",
+    "license_number": "DKE1010000139",
+    "address": "1184 Budapest, Lakatos út 7.",
+    "start_of_validity": "2023.09.18",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4504701,
+    "lon": 19.1727603
+  },
+  {
+    "name": "Smoke Trainer 93 Bt",
+    "license_number": "DKE1600000042",
+    "address": "1158 Budapest 15. ker. Drégelyvár utca 57-63.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5355,
+    "lon": 19.1333
+  },
+  {
+    "name": "Smokefull Bt",
+    "license_number": "DKE1010000073",
+    "address": "1214 Budapest 21. ker. Vas Gereben utca 1",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4861544,
+    "lon": 19.0159682
+  },
+  {
+    "name": "Snüssz Trafik Bt.",
+    "license_number": "DKE1600000216",
+    "address": "1083 Budapest, Baross utca 111.",
+    "start_of_validity": "2022.09.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4884615,
+    "lon": 19.0831458
+  },
+  {
+    "name": "Snüssz Trafik Bt.",
+    "license_number": "DKE1700000151",
+    "address": "1039 Budapest, Hatvany Lajos utca 10.",
+    "start_of_validity": "2022.09.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.599336,
+    "lon": 19.0643427
+  },
+  {
+    "name": "Snüssz Trafik Bt.",
+    "license_number": "DKE1700000152",
+    "address": "1035 Budapest, Vihar utca 17.",
+    "start_of_validity": "2022.09.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5464269,
+    "lon": 19.0384536
+  },
+  {
+    "name": "Soel Trafik Bt",
+    "license_number": "DKE1600000143",
+    "address": "1157 Budapest 15. ker. Erdőkerülő út 1-7",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5414952,
+    "lon": 19.151405
+  },
+  {
+    "name": "Soká Team Plus Bt.",
+    "license_number": "DKE1010000158",
+    "address": "1211 Budapest 21. ker. Kossuth Lajos utca 70.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4279149,
+    "lon": 19.0704305
+  },
+  {
+    "name": "Soká Team Plus Bt.",
+    "license_number": "DKE1010000161",
+    "address": "1211 Budapest 21. ker. Karácsony Sándor utca 10/A.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4272208,
+    "lon": 19.0688639
+  },
+  {
+    "name": "Soká Team Plus Bt.",
+    "license_number": "DKE1010000171",
+    "address": "1211 Budapest 21. ker. Karácsony Sándor utca 19.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4266571,
+    "lon": 19.0688316
+  },
+  {
+    "name": "Suhajda Tabak Bt",
+    "license_number": "DKE1010000296",
+    "address": "1237 Budapest 23. ker. Grassalkovich utca 37.",
+    "start_of_validity": "2013.07.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4057268,
+    "lon": 19.1126756
+  },
+  {
+    "name": "Summum Trafik Bt.",
+    "license_number": "DKE1700000016",
+    "address": "1021 Budapest, Hűvösvölgyi út 138.",
+    "start_of_validity": "2022.12.21",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5380511,
+    "lon": 18.9660184
+  },
+  {
+    "name": "Sun Leaves Tobacco Bt",
+    "license_number": "DKE1600000274",
+    "address": "1165 Budapest 16. ker. Centenárium sétány 16-24.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5170246,
+    "lon": 19.1840238
+  },
+  {
+    "name": "Sun Leaves Tobacco Bt",
+    "license_number": "DKE1700000194",
+    "address": "1051 Budapest 05. ker. József A. utca 16.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4693192,
+    "lon": 19.1103322
+  },
+  {
+    "name": "Szabadka Bt.",
+    "license_number": "DKE1010000015",
+    "address": "1191 Budapest 19. ker. Simonyi Zsigmond utca 31.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4600636,
+    "lon": 19.1516626
+  },
+  {
+    "name": "Szabal Trafik Bt",
+    "license_number": "DKE1600000263",
+    "address": "1152 Budapest 15. ker. Szentmihályi út 167-169.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5493423,
+    "lon": 19.1471397
+  },
+  {
+    "name": "Szabal Trafik Bt",
+    "license_number": "DKE1700000096",
+    "address": "1044 Budapest 04. ker. Garam utca 3.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5700339,
+    "lon": 19.0788992
+  },
+  {
+    "name": "Szabó-Sartoriale Tobacco Bt.",
+    "license_number": "DKE1010000043",
+    "address": "1182 Budapest 18. ker. Üllői út 661.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4333896,
+    "lon": 19.2017421
+  },
+  {
+    "name": "Szászik Duó Bt",
+    "license_number": "DKE1010000324",
+    "address": "1186 Budapest, Csontváry Kosztka Tivadar utca 46.",
+    "start_of_validity": "2022.09.02",
+    "end_of_validity": "2034.09.23",
+    "lat": 47.4358695,
+    "lon": 19.1675043
+  },
+  {
+    "name": "SZEGO-TOBACCO Bt.",
+    "license_number": "DKE1600000062",
+    "address": "1151 Budapest, Károlyi Sándor út 126.",
+    "start_of_validity": "2024.02.14",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5805467,
+    "lon": 19.1274295
+  },
+  {
+    "name": "SZEGO-TOBACCO Bt.",
+    "license_number": "DKE1600000063",
+    "address": "1149 Budapest, Egressy út 108.",
+    "start_of_validity": "2022.12.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5140586,
+    "lon": 19.1184991
+  },
+  {
+    "name": "Székely Izabella Etelka",
+    "license_number": "DKE1010000008",
+    "address": "1203 Budapest, Széchenyi utca 3-5. C. lépcsőház földszint",
+    "start_of_validity": "2026.05.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.502775,
+    "lon": 19.0471573
+  },
+  {
+    "name": "Szemerédi Zsanett",
+    "license_number": "DKE1700000008",
+    "address": "1037 Budapest 03. ker. Bécsi út 319.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.553687,
+    "lon": 19.0281633
+  },
+  {
+    "name": "Szendi Szilvia",
+    "license_number": "DKE1010000072",
+    "address": "1201 Budapest 20. ker. Vörösmarty utca 72-76",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4306403,
+    "lon": 19.1086026
+  },
+  {
+    "name": "Szerencse-Füst Bt.",
+    "license_number": "DKE1600000048",
+    "address": "1163 Budapest, Timur utca 96.",
+    "start_of_validity": "2022.12.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5319753,
+    "lon": 19.1886004
+  },
+  {
+    "name": "Szijártó Tobacco Bt",
+    "license_number": "DKE1600000109",
+    "address": "1086 Budapest 08. ker. Teleki László tér 8-9 fsz 22.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4941868,
+    "lon": 19.0854717
+  },
+  {
+    "name": "Szijj Sándor",
+    "license_number": "DKE1010000102",
+    "address": "1223 Budapest, Kelenvölgyi utca 4.",
+    "start_of_validity": "2023.05.19",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4307356,
+    "lon": 19.0039805
+  },
+  {
+    "name": "Szikra Trafik Bt.",
+    "license_number": "DKE1010000163",
+    "address": "1192 Budapest 19. ker. Kós Károly tér 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4562161,
+    "lon": 19.1273496
+  },
+  {
+    "name": "Szikra Trafik Bt.",
+    "license_number": "DKE1010000166",
+    "address": "1212 Budapest 21. ker. II. Rákóczi Ferenc utca 167.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4603647,
+    "lon": 19.2325286
+  },
+  {
+    "name": "Szirák Dohány Bt",
+    "license_number": "DKE1700000102",
+    "address": "1139 Budapest 13. ker. Fáy utca 4.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5378393,
+    "lon": 19.0707463
+  },
+  {
+    "name": "Szirák Dohány Bt",
+    "license_number": "DKE1700000239",
+    "address": "1137 Budapest 13. ker. Szent István körút 20",
+    "start_of_validity": "2013.07.09",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5118699,
+    "lon": 19.0527211
+  },
+  {
+    "name": "Szivar Torony CASTLE Bt.",
+    "license_number": "DKE1700000105",
+    "address": "1054 Budapest, Báthory utca 8.",
+    "start_of_validity": "2020.09.02",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5063865,
+    "lon": 19.0501372
+  },
+  {
+    "name": "Szivar Torony CASTLE Bt.",
+    "license_number": "DKE1700000106",
+    "address": "1051 Budapest, Nádor utca 14. földszint",
+    "start_of_validity": "2024.12.09",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5009379,
+    "lon": 19.0490503
+  },
+  {
+    "name": "Szivar Torony City Bt",
+    "license_number": "DKE1700000095",
+    "address": "1051 Budapest 05. ker. Hercegprímás utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4993371,
+    "lon": 19.0532163
+  },
+  {
+    "name": "Szivar Torony City Bt",
+    "license_number": "DKE1700000136",
+    "address": "1051 Budapest 05. ker. Erzsébet tér 7-8",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4970308,
+    "lon": 19.0520833
+  },
+  {
+    "name": "Szivar Torony City Bt",
+    "license_number": "DKE1700000245",
+    "address": "1052 Budapest 05. ker. Ferenciek tere 10.",
+    "start_of_validity": "2013.10.03",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4933191,
+    "lon": 19.0551535
+  },
+  {
+    "name": "Szondi Trafik Bt.",
+    "license_number": "DKE1600000244",
+    "address": "1063 Budapest 06. ker. Izabella utca 81.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5101505,
+    "lon": 19.0641554
+  },
+  {
+    "name": "Sztanó és Társa Bt.",
+    "license_number": "DKE1600000128",
+    "address": "1088 Budapest 08. ker. Rákóczi út 1-3.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4941044,
+    "lon": 19.0608909
+  },
+  {
+    "name": "Sztanó és Társa Bt.",
+    "license_number": "DKE1600000159",
+    "address": "1067 Budapest 06. ker. Hunyadi tér 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5056379,
+    "lon": 19.066108
+  },
+  {
+    "name": "Szulimán Tobacco Bt",
+    "license_number": "DKE1600000149",
+    "address": "1073 Budapest 07. ker. Dob utca 66.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.50233,
+    "lon": 19.0675261
+  },
+  {
+    "name": "Szulimán Tobacco Bt",
+    "license_number": "DKE1600000258",
+    "address": "1146 Budapest, Kacsóh Pongrác út 9-23.",
+    "start_of_validity": "2023.02.17",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5198991,
+    "lon": 19.091354
+  },
+  {
+    "name": "Szulimán Tobacco Bt",
+    "license_number": "DKE1700000128",
+    "address": "1136 Budapest 13. ker. Hollán Ernő utca 4.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5134291,
+    "lon": 19.0493698
+  },
+  {
+    "name": "Tabac 4 You Bt.",
+    "license_number": "DKE1700000160",
+    "address": "1034 Budapest, Szentlélek tér 3.",
+    "start_of_validity": "2021.11.22",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5404036,
+    "lon": 19.0453618
+  },
+  {
+    "name": "Tabac 4 You Bt.",
+    "license_number": "DKE1700000115",
+    "address": "1033 Budapest, Szentendrei út 95.",
+    "start_of_validity": "2022.08.17",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5575912,
+    "lon": 19.0464803
+  },
+  {
+    "name": "Tabac and More Bt.",
+    "license_number": "DKE1600000229",
+    "address": "1075 Budapest 07. ker. Károly körút 21.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4974471,
+    "lon": 19.0561503
+  },
+  {
+    "name": "Tabak 17 Hungary Bt",
+    "license_number": "DKE1600000111",
+    "address": "1173 Budapest 17. ker. Kaszáló utca 47.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.481151,
+    "lon": 19.255627
+  },
+  {
+    "name": "Tabak 17 Hungary Bt.",
+    "license_number": "DKE1600000113",
+    "address": "1173 Budapest, Pesti út 169.",
+    "start_of_validity": "2026.07.10",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4755481,
+    "lon": 19.2658512
+  },
+  {
+    "name": "Tabák Bt",
+    "license_number": "DKE1700000063",
+    "address": "1131 Budapest 13. ker. Váci út 141-143.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5493358,
+    "lon": 19.0734595
+  },
+  {
+    "name": "Tabák Bt",
+    "license_number": "DKE1700000072",
+    "address": "1138 Budapest 13. ker. Váci út 178.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5491218,
+    "lon": 19.0726388
+  },
+  {
+    "name": "Tabak Via Hungary Bt",
+    "license_number": "DKE1010000323",
+    "address": "1181 Budapest 18. ker. Baross utca 50.",
+    "start_of_validity": "2014.10.09",
+    "end_of_validity": "2034.09.23",
+    "lat": 47.4382723,
+    "lon": 19.1718185
+  },
+  {
+    "name": "Tájpex Tabak Bt",
+    "license_number": "DKE1010000245",
+    "address": "1195 Budapest 19. ker. Üllői út 248",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.45517,
+    "lon": 19.15263
+  },
+  {
+    "name": "Tájpex Tabak Bt",
+    "license_number": "DKE1600000203",
+    "address": "1171 Budapest, Kispajtás utca 1.",
+    "start_of_validity": "2022.05.03",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4718861,
+    "lon": 19.2843351
+  },
+  {
+    "name": "Tajti Trafik Bt.",
+    "license_number": "DKE1600000006",
+    "address": "1103 Budapest, Gergely utca 38.",
+    "start_of_validity": "2022.12.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.477266,
+    "lon": 19.1390231
+  },
+  {
+    "name": "Tajti Zoltán",
+    "license_number": "DKE1600000053",
+    "address": "1103 Budapest, Gyömrői út 48.",
+    "start_of_validity": "2025.10.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4605807,
+    "lon": 19.1699126
+  },
+  {
+    "name": "Tálas Trafik Bt",
+    "license_number": "DKE1010000022",
+    "address": "1181 Budapest 18. ker. Margó Tivadar utca 9.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4465974,
+    "lon": 19.1679389
+  },
+  {
+    "name": "Tálas Trafik Bt",
+    "license_number": "DKE1600000036",
+    "address": "1083 Budapest 08. ker. Illés utca 22.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4860097,
+    "lon": 19.0854003
+  },
+  {
+    "name": "Tálas Trafik Bt.",
+    "license_number": "DKE1010000078",
+    "address": "1194 Budapest, Hofherr Albert utca 42.",
+    "start_of_validity": "2024.11.20",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4372615,
+    "lon": 19.1450491
+  },
+  {
+    "name": "Talent Service Betéti Társaság",
+    "license_number": "DKE1600000323",
+    "address": "1173 Budapest, Pesti út 2.",
+    "start_of_validity": "2023.01.16",
+    "end_of_validity": "2034.08.31",
+    "lat": 47.4855536,
+    "lon": 19.2250458
+  },
+  {
+    "name": "Táltos Hungary 2000 Bt",
+    "license_number": "DKE1600000238",
+    "address": "1154 Budapest 15. ker. Széchenyi utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4603871,
+    "lon": 19.1367029
+  },
+  {
+    "name": "Tanács Istvánné",
+    "license_number": "DKE1700000053",
+    "address": "1046 Budapest 04. ker. Szent Imre utca 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5667342,
+    "lon": 19.0974547
+  },
+  {
+    "name": "Tason Cigarette Bt",
+    "license_number": "DKE1600000215",
+    "address": "1072 Budapest 07. ker. Rákóczi út 6.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4950798,
+    "lon": 19.0611428
+  },
+  {
+    "name": "Tason Cigarette Bt",
+    "license_number": "DKE1600000240",
+    "address": "1071 Budapest 07. ker. Wesselényi utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4961317,
+    "lon": 19.0597987
+  },
+  {
+    "name": "Tason Cigarette Bt",
+    "license_number": "DKE1600000271",
+    "address": "1082 Budapest 08. ker. Baross utca 96. fsz. 4.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4893507,
+    "lon": 19.0786054
+  },
+  {
+    "name": "Természetes Hang Bt",
+    "license_number": "DKE1010000129",
+    "address": "1188 Budapest 18. ker. Nagykőrösi út 5/B.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4123999,
+    "lon": 19.1748003
+  },
+  {
+    "name": "Természetes Hang Bt",
+    "license_number": "DKE1010000131",
+    "address": "1183 Budapest 18. ker. Nefelejcs utca 89/A",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4471883,
+    "lon": 19.1907155
+  },
+  {
+    "name": "Természetes Hang Bt",
+    "license_number": "DKE1010000133",
+    "address": "1184 Budapest 18. ker. Üllői út 440-442.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4404538,
+    "lon": 19.1856359
+  },
+  {
+    "name": "Természetes Hang Bt",
+    "license_number": "DKE1010000135",
+    "address": "1186 Budapest 18. ker. Goroszló utca 4.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.430282,
+    "lon": 19.1746191
+  },
+  {
+    "name": "Természetes Hang Bt",
+    "license_number": "DKE1010000136",
+    "address": "1186 Budapest 18. ker. Méta   156140/16",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4264919,
+    "lon": 19.161476
+  },
+  {
+    "name": "Ternes Ágnes",
+    "license_number": "DKE1600000106",
+    "address": "1106 Budapest 10. ker. Maglódi út 17.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4859148,
+    "lon": 19.1534022
+  },
+  {
+    "name": "The Tobacconist Bt",
+    "license_number": "DKE1700000030",
+    "address": "1024 Budapest 02. ker. Lövőház utca 17.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5097722,
+    "lon": 19.0250494
+  },
+  {
+    "name": "The Tobacconist Bt",
+    "license_number": "DKE1700000125",
+    "address": "1027 Budapest 02. ker. Csalogány utca 53",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5083203,
+    "lon": 19.0285727
+  },
+  {
+    "name": "Tibaco Gold Bt",
+    "license_number": "DKE1010000065",
+    "address": "1191 Budapest 19. ker. József Attila utca 57-63.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4558766,
+    "lon": 19.1422951
+  },
+  {
+    "name": "Tinadri Bt",
+    "license_number": "DKE1600000201",
+    "address": "1148 Budapest, Fogarasi utca 18.",
+    "start_of_validity": "2023.03.07",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4038975,
+    "lon": 19.0850284
+  },
+  {
+    "name": "Tinadri Bt",
+    "license_number": "DKE1700000116",
+    "address": "1048 Budapest, Óceánárok utca 5.",
+    "start_of_validity": "2023.03.07",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.57908,
+    "lon": 19.11458
+  },
+  {
+    "name": "Tisza Trafik Bt",
+    "license_number": "DKE5110000041",
+    "address": "6723 Szeged Budapesti körút 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 46.267224,
+    "lon": 20.1677717
+  },
+  {
+    "name": "Tobacco Heaven Bt",
+    "license_number": "DKE1600000255",
+    "address": "1062 Budapest, Andrássy út 84.",
+    "start_of_validity": "2022.07.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5090376,
+    "lon": 19.0684859
+  },
+  {
+    "name": "Tobacco Leaves Bt",
+    "license_number": "DKE1600000283",
+    "address": "1061 Budapest 06. ker. Anker köz 1-3.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4980823,
+    "lon": 19.0550881
+  },
+  {
+    "name": "Tobacco Leaves Bt",
+    "license_number": "DKE1600000287",
+    "address": "1165 Budapest 16. ker. Jókai Mór utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5105724,
+    "lon": 19.1909321
+  },
+  {
+    "name": "Tobacco Leaves Bt",
+    "license_number": "DKE1600000291",
+    "address": "1157 Budapest 15. ker. Legénybíró utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5405736,
+    "lon": 19.1417147
+  },
+  {
+    "name": "Tobacco Shop Bt",
+    "license_number": "DKE1600000061",
+    "address": "1061 Budapest 06. ker. Király   28.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.499939,
+    "lon": 19.0590654
+  },
+  {
+    "name": "Tobacco World Bt",
+    "license_number": "DKE1700000158",
+    "address": "1138 Budapest, Váci út 134/C.",
+    "start_of_validity": "2023.10.27",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5350365,
+    "lon": 19.0674119
+  },
+  {
+    "name": "Tobacco World Bt.",
+    "license_number": "DKE1700000157",
+    "address": "1137 Budapest, Szent István körút 12.",
+    "start_of_validity": "2024.01.05",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5127135,
+    "lon": 19.0508724
+  },
+  {
+    "name": "Tobacconist Trade Bt",
+    "license_number": "DKE1010000279",
+    "address": "1118 Budapest 11. ker. Budaörsi út 115.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4673564,
+    "lon": 19.0163548
+  },
+  {
+    "name": "Tobacconist Trade Bt",
+    "license_number": "DKE1600000292",
+    "address": "1071 Budapest 07. ker. Damjanich utca 32.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5078954,
+    "lon": 19.0783952
+  },
+  {
+    "name": "Tobacconist Trade Bt",
+    "license_number": "DKE1600000294",
+    "address": "1146 Budapest 14. ker. Thököly utca 151/c.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5218259,
+    "lon": 19.1486506
+  },
+  {
+    "name": "Tobakko Magyar Dohány Bt",
+    "license_number": "DKE1600000074",
+    "address": "1162 Budapest 16. ker. Budapesti út 119/D",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5228027,
+    "lon": 19.1855988
+  },
+  {
+    "name": "Tobakko Magyar Dohány Bt",
+    "license_number": "DKE1600000104",
+    "address": "1162 Budapest 16. ker. Szlovák út 82.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5335929,
+    "lon": 19.1845708
+  },
+  {
+    "name": "Tomore Trafik bt",
+    "license_number": "DKE1010000214",
+    "address": "1111 Budapest 11. ker. Móricz Zsigmond körtér 2",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4781101,
+    "lon": 19.0475704
+  },
+  {
+    "name": "Tomore Trafik bt",
+    "license_number": "DKE1010000264",
+    "address": "1111 Budapest 11. ker. Karinthy Frigyes út 4/6",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4777605,
+    "lon": 19.0488838
+  },
+  {
+    "name": "Tomore Trafik bt",
+    "license_number": "DKE1010000291",
+    "address": "1115 Budapest 11. ker. Etele tér 5.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4656931,
+    "lon": 19.0229056
+  },
+  {
+    "name": "Tótász Pipa Bt",
+    "license_number": "DKE1600000259",
+    "address": "1077 Budapest, Bethlen Gábor utca 8.",
+    "start_of_validity": "2022.11.30",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5016576,
+    "lon": 19.0809748
+  },
+  {
+    "name": "Tóth Ágnes",
+    "license_number": "DKE1600000068",
+    "address": "1084 Budapest 08. ker. József körút 48.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4900255,
+    "lon": 19.0711182
+  },
+  {
+    "name": "Touluol Bt",
+    "license_number": "DKE1700000100",
+    "address": "1131 Budapest 13. ker. Szent László utca 152.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4223777,
+    "lon": 19.1250795
+  },
+  {
+    "name": "Traficum Bt",
+    "license_number": "DKE5110000191",
+    "address": "6723 Szeged, Budapesti körút 38.",
+    "start_of_validity": "2022.07.13",
+    "end_of_validity": "2033.06.30",
+    "lat": 46.2728915,
+    "lon": 20.1603547
+  },
+  {
+    "name": "Trafik 4 You Bt.",
+    "license_number": "DKE1700000021",
+    "address": "1043 Budapest 04. ker. Berda József utca 50-54.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5562054,
+    "lon": 19.0852511
+  },
+  {
+    "name": "Trafik 4 You Bt.",
+    "license_number": "DKE1700000022",
+    "address": "1047 Budapest 04. ker. Attila utca 12-18. A épület fszt. 4.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5729124,
+    "lon": 19.0947174
+  },
+  {
+    "name": "Trafik Akumal Bt.",
+    "license_number": "DKE1600000302",
+    "address": "1142 Budapest, Erzsébet királyné útja 60. B. ép.",
+    "start_of_validity": "2024.02.02",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5327393,
+    "lon": 19.1107884
+  },
+  {
+    "name": "Trafik Akumal Bt.",
+    "license_number": "DKE1600000325",
+    "address": "1143 Budapest, Ilka utca 25.",
+    "start_of_validity": "2024.02.02",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5081994,
+    "lon": 19.0984849
+  },
+  {
+    "name": "Trafik Akumal Bt.",
+    "license_number": "DKE1600000326",
+    "address": "1142 Budapest 14. ker. Nagy Lajos Király 82/B",
+    "start_of_validity": "2016.04.22",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5119623,
+    "lon": 19.1244021
+  },
+  {
+    "name": "Trafik Holding Bt.",
+    "license_number": "DKE1700000092",
+    "address": "1039 Budapest, Rákóczi utca 36.",
+    "start_of_validity": "2022.01.14",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5812271,
+    "lon": 19.0499247
+  },
+  {
+    "name": "Trafik Trend Bt",
+    "license_number": "DKE1010000036",
+    "address": "1096 Budapest 09. ker. Viola utca 35. 8/B.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4816326,
+    "lon": 19.0761885
+  },
+  {
+    "name": "Trafik Trend Bt.",
+    "license_number": "DKE1010000040",
+    "address": "1195 Budapest, Városház tér 6.",
+    "start_of_validity": "2026.01.12",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4273877,
+    "lon": 19.0400622
+  },
+  {
+    "name": "Trafik Város Bt",
+    "license_number": "DKE1010000295",
+    "address": "1097 Budapest, 38236/202. hrsz.",
+    "start_of_validity": "2025.03.27",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4978789,
+    "lon": 19.0402383
+  },
+  {
+    "name": "Trafik Város Bt",
+    "license_number": "DKE1010000305",
+    "address": "1098 Budapest 09. ker. Napfény utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4633741,
+    "lon": 19.1153395
+  },
+  {
+    "name": "Trafik Város Bt",
+    "license_number": "DKE1010000306",
+    "address": "1097 Budapest 09. ker. Mester utca 22.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4806769,
+    "lon": 19.070761
+  },
+  {
+    "name": "TRAFIK VÁROS Bt.",
+    "license_number": "DKE1010000315",
+    "address": "1097 Budapest, Illatos út 1.",
+    "start_of_validity": "2022.02.02",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4550324,
+    "lon": 19.1010363
+  },
+  {
+    "name": "Trafik-System Dél Bt.",
+    "license_number": "DKE1600000301",
+    "address": "1064 Budapest, Vörösmarty utca 63.",
+    "start_of_validity": "2023.02.17",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5097218,
+    "lon": 19.0630381
+  },
+  {
+    "name": "Trafikál Trade Bt",
+    "license_number": "DKE1010000224",
+    "address": "1113 Budapest 11. ker. Karolina út 37/a",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4779559,
+    "lon": 19.031664
+  },
+  {
+    "name": "Trafikál Trade Bt",
+    "license_number": "DKE1600000218",
+    "address": "1106 Budapest 10. ker. Kerepesi   73.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.50469,
+    "lon": 19.15082
+  },
+  {
+    "name": "Trafikárium Bt.",
+    "license_number": "DKE1010000241",
+    "address": "1117 Budapest, Hengermalom út 16.",
+    "start_of_validity": "2025.10.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4620357,
+    "lon": 19.0472123
+  },
+  {
+    "name": "Trafikárium Bt.",
+    "license_number": "DKE1010000256",
+    "address": "1116 Budapest, XI.ker 43903/2/A/28. címképzés alatt",
+    "start_of_validity": "2023.01.23",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5093347,
+    "lon": 19.0378502
+  },
+  {
+    "name": "Trafikárium Bt.",
+    "license_number": "DKE1010000278",
+    "address": "1119 Budapest, Etele út 32.",
+    "start_of_validity": "2023.01.23",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4629616,
+    "lon": 19.0357019
+  },
+  {
+    "name": "Trafikárium Bt.",
+    "license_number": "DKE1700000159",
+    "address": "1032 Budapest, Kiscelli utca 2.",
+    "start_of_validity": "2023.01.23",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5389186,
+    "lon": 19.0390974
+  },
+  {
+    "name": "Trafikárium Tabak Bt.",
+    "license_number": "DKE1010000226",
+    "address": "1212 Budapest 21. ker. Szebeni utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4203202,
+    "lon": 19.0735118
+  },
+  {
+    "name": "Trafikárium Tabak Bt.",
+    "license_number": "DKE1700000101",
+    "address": "1048 Budapest 04. ker. Megyeri út 205. C ép.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5939294,
+    "lon": 19.1136692
+  },
+  {
+    "name": "Trafikmax Bt.",
+    "license_number": "DKE1700000113",
+    "address": "1039 Budapest, Csobánka tér 3.",
+    "start_of_validity": "2021.11.29",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.59879,
+    "lon": 19.05222
+  },
+  {
+    "name": "Trafikmax Bt.",
+    "license_number": "DKE1700000114",
+    "address": "1033 Budapest, Zab utca 10.",
+    "start_of_validity": "2026.08.17",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5537621,
+    "lon": 19.0415155
+  },
+  {
+    "name": "Trafikon Tobacco Bt.",
+    "license_number": "DKE1010000137",
+    "address": "1092 Budapest 09. ker. Bakáts tér 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4827489,
+    "lon": 19.0660808
+  },
+  {
+    "name": "Trafikoord Sales Bt.",
+    "license_number": "DKE1600000188",
+    "address": "1082 Budapest, Baross utca 70-72.",
+    "start_of_validity": "2022.06.10",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4897054,
+    "lon": 19.0764143
+  },
+  {
+    "name": "Trafikoord Sales Bt.",
+    "license_number": "DKE1600000190",
+    "address": "1076 Budapest, Garay tér 3-4.",
+    "start_of_validity": "2022.06.10",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.503821,
+    "lon": 19.084932
+  },
+  {
+    "name": "Trio M3 Kereskedelmi Bt",
+    "license_number": "DKE1600000317",
+    "address": "1171 Budapest 17. ker. Péceli út 147.",
+    "start_of_validity": "2014.10.15",
+    "end_of_validity": "2034.08.26",
+    "lat": 47.4915674,
+    "lon": 19.2957259
+  },
+  {
+    "name": "Tsmith Dohány Bt",
+    "license_number": "DKE1700000241",
+    "address": "1138 Budapest, Váci út 165.",
+    "start_of_validity": "2023.04.12",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.551185,
+    "lon": 19.0745154
+  },
+  {
+    "name": "Tubak Trafik Bt",
+    "license_number": "DKE1600000059",
+    "address": "1163 Budapest 16. ker. Veres Péter utca 15/c.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5135015,
+    "lon": 19.1994922
+  },
+  {
+    "name": "Tündi Trafik Bt.",
+    "license_number": "DKE1010000219",
+    "address": "1117 Budapest, Völgycsillag utca 2.",
+    "start_of_validity": "2026.01.30",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4677956,
+    "lon": 19.0560959
+  },
+  {
+    "name": "Tündi Trafik Bt.",
+    "license_number": "DKE1700000189",
+    "address": "1039 Budapest, Szentendrei út 251-253",
+    "start_of_validity": "2023.01.30",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5805435,
+    "lon": 19.0484034
+  },
+  {
+    "name": "Tűzsugár Bt.",
+    "license_number": "DKE8310000027",
+    "address": "3104 Salgótarján Budapesti út 6363 hrsz.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 48.0644506,
+    "lon": 19.7825358
+  },
+  {
+    "name": "Ugra Szivar Bt.",
+    "license_number": "DKE1600000278",
+    "address": "1144 Budapest, Szentmihályi út 23.",
+    "start_of_validity": "2022.09.22",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5091972,
+    "lon": 19.1492602
+  },
+  {
+    "name": "Unger-Dohány Bt.",
+    "license_number": "DKE1600000180",
+    "address": "1072 Budapest, Akácfa utca 16.",
+    "start_of_validity": "2021.11.22",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4982375,
+    "lon": 19.067641
+  },
+  {
+    "name": "UPA Dohánybolt Bt",
+    "license_number": "DKE1600000141",
+    "address": "1174 Budapest 17. ker. Baross utca 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4678676,
+    "lon": 19.2442122
+  },
+  {
+    "name": "Urmily Dohány Bt",
+    "license_number": "DKE1600000289",
+    "address": "1077 Budapest 07. ker. Király utca 91.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5056337,
+    "lon": 19.0697456
+  },
+  {
+    "name": "USAYER Trafik Bt.",
+    "license_number": "DKE1010000208",
+    "address": "1117 Budapest 11. ker. Budafoki út 113.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4619522,
+    "lon": 19.0519852
+  },
+  {
+    "name": "USAYER Trafik Bt.",
+    "license_number": "DKE1010000209",
+    "address": "1116 Budapest 11. ker. Fehérvári út 118/A",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4582753,
+    "lon": 19.0410356
+  },
+  {
+    "name": "Utry Zsanett Mónika",
+    "license_number": "DKE1600000044",
+    "address": "1103 Budapest 10. ker. Sibrik Miklós utca 23.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4684737,
+    "lon": 19.1557584
+  },
+  {
+    "name": "Uzoni Roland Tamás",
+    "license_number": "DKE1600000142",
+    "address": "1104 Budapest, Sörgyár utca 75.",
+    "start_of_validity": "2023.03.23",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4788834,
+    "lon": 19.1588043
+  },
+  {
+    "name": "Uzoni Tamás",
+    "license_number": "DKE1010000091",
+    "address": "1118 Budapest 11. ker. Nagyszeben tér 2. Fsz.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4662268,
+    "lon": 19.0038315
+  },
+  {
+    "name": "Váradi András",
+    "license_number": "DKE1600000210",
+    "address": "1165 Budapest 16. ker. Újszász utca 45/B   G épület",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5052033,
+    "lon": 19.1975464
+  },
+  {
+    "name": "Varázs Trafik Bt.",
+    "license_number": "DKE1600000214",
+    "address": "1158 Budapest, Késmárk utca 7/B.",
+    "start_of_validity": "2025.09.28",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.536683,
+    "lon": 19.1386541
+  },
+  {
+    "name": "Varnyú Csaba",
+    "license_number": "DKE1600000084",
+    "address": "1086 Budapest, Karácsony Sándor utca 19. A. lph. fsz.",
+    "start_of_validity": "2023.11.10",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4909038,
+    "lon": 19.0848894
+  },
+  {
+    "name": "Vida János Lászlóné",
+    "license_number": "DKE1700000036",
+    "address": "1043 Budapest 04. ker. Nap   16.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5550075,
+    "lon": 19.0948337
+  },
+  {
+    "name": "Vida János Lászlóné",
+    "license_number": "DKE1700000039",
+    "address": "1039 Budapest 03. ker. Heltai Jenő tér 2.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5976203,
+    "lon": 19.0567728
+  },
+  {
+    "name": "Vident Tabak Bt.",
+    "license_number": "DKE1010000216",
+    "address": "1124 Budapest 12. ker. Kiss János altábornagy utca 50/a",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4920489,
+    "lon": 19.0160993
+  },
+  {
+    "name": "Vident Tabak Bt.",
+    "license_number": "DKE1010000246",
+    "address": "1123 Budapest 12. ker. Alkotás utca 13.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.498703,
+    "lon": 19.0236145
+  },
+  {
+    "name": "Vident Tabak Bt.",
+    "license_number": "DKE1010000271",
+    "address": "1184 Budapest 18. ker. Havanna utca 44",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4394336,
+    "lon": 19.165275
+  },
+  {
+    "name": "Vident Tabak Bt.",
+    "license_number": "DKE1010000285",
+    "address": "1123 Budapest 12. ker. Alkotás utca 53.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4907769,
+    "lon": 19.0231462
+  },
+  {
+    "name": "Vident Tabak Bt.",
+    "license_number": "DKE1010000286",
+    "address": "1181 Budapest 18. ker. Csontváry utca 23.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4386006,
+    "lon": 19.1685653
+  },
+  {
+    "name": "Viktor Tobacco Bt.",
+    "license_number": "DKE1010000097",
+    "address": "1213 Budapest, Szent István út 190/A.",
+    "start_of_validity": "2022.01.07",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4003606,
+    "lon": 19.0957691
+  },
+  {
+    "name": "Viktor Tobacco Bt.",
+    "license_number": "DKE1010000117",
+    "address": "1223 Budapest 22. ker. Közgazdász utca 4.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4087276,
+    "lon": 19.0157236
+  },
+  {
+    "name": "Vinos Trafik Bt.",
+    "license_number": "DKE1010000157",
+    "address": "1214 Budapest 21. ker. Nyírfa utca 27",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4145306,
+    "lon": 19.0680135
+  },
+  {
+    "name": "Vinos Trafik Bt.",
+    "license_number": "DKE1010000167",
+    "address": "1213 Budapest, Erdősor utca 133.",
+    "start_of_validity": "2013.08.15",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4085844,
+    "lon": 19.0730314
+  },
+  {
+    "name": "Virginia Dohány Bt",
+    "license_number": "DKE1010000089",
+    "address": "1221 Budapest 22. ker. Leányka utca 13.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4328549,
+    "lon": 19.0367418
+  },
+  {
+    "name": "Virginia Dohány Bt",
+    "license_number": "DKE1010000116",
+    "address": "1221 Budapest 22. ker. Arany János utca 55.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4296301,
+    "lon": 19.0205562
+  },
+  {
+    "name": "Virginia Tabak Bt.",
+    "license_number": "DKE1010000320",
+    "address": "1183 Budapest 18. ker. Balassa Bálint utca 2-10.",
+    "start_of_validity": "2013.07.04",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4427584,
+    "lon": 19.1842145
+  },
+  {
+    "name": "Vogt Trafik Bt",
+    "license_number": "DKE1010000229",
+    "address": "1201 Budapest 20. ker. Török Flóris utca 240.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4232608,
+    "lon": 19.1240783
+  },
+  {
+    "name": "Vogt Trafik Bt",
+    "license_number": "DKE1010000230",
+    "address": "1204 Budapest 20. ker. Orsolya utca 17.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.428891,
+    "lon": 19.127252
+  },
+  {
+    "name": "Vogt Trafik Bt",
+    "license_number": "DKE1010000231",
+    "address": "1204 Budapest 20. ker. Tátra tér 1.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4413283,
+    "lon": 19.1130441
+  },
+  {
+    "name": "Vogt Trafik Bt",
+    "license_number": "DKE1010000233",
+    "address": "1204 Budapest 20. ker. Nagysándor József utca 59.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4357206,
+    "lon": 19.1094274
+  },
+  {
+    "name": "Völgy Tabak Shop Ker. Bt",
+    "license_number": "DKE1010000084",
+    "address": "1118 Budapest 11. ker. Gazdagréti tér 8.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4730483,
+    "lon": 18.9931073
+  },
+  {
+    "name": "VÖLGY TABAK-SHOP Bt.",
+    "license_number": "DKE1010000113",
+    "address": "1122 Budapest, Krisztina körút 7.",
+    "start_of_validity": "2023.12.13",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5060471,
+    "lon": 19.0228311
+  },
+  {
+    "name": "Vsmith Tobacco Bt.",
+    "license_number": "DKE1600000251",
+    "address": "1088 Budapest, Rákóczi út 25.",
+    "start_of_validity": "2019.03.27",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4953237,
+    "lon": 19.0657471
+  },
+  {
+    "name": "Vsmith Tobacco Bt.",
+    "license_number": "DKE1700000163",
+    "address": "1024 Budapest 02. ker. Margit körút 105.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5078221,
+    "lon": 19.0243111
+  },
+  {
+    "name": "Vsmith Tobacco Bt.",
+    "license_number": "DKE1700000228",
+    "address": "1024 Budapest 02. ker. Margit körút 50-52.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5107661,
+    "lon": 19.0319511
+  },
+  {
+    "name": "Vsmith Tobacco Bt.",
+    "license_number": "DKE1700000233",
+    "address": "1023 Budapest 02. ker. Frankel Leó   21-23.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5167244,
+    "lon": 19.0368039
+  },
+  {
+    "name": "Vudent Cigarette Bt.",
+    "license_number": "DKE1010000250",
+    "address": "1184 Budapest 18. ker. Üllői út 346.",
+    "start_of_validity": "2013.07.04",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4478721,
+    "lon": 19.1678536
+  },
+  {
+    "name": "Vudent Cigarette Bt.",
+    "license_number": "DKE1010000253",
+    "address": "1188 Budapest 18. ker. Alacskai út 3.",
+    "start_of_validity": "2013.07.05",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.418921,
+    "lon": 19.2066091
+  },
+  {
+    "name": "Vudent Cigarette Bt.",
+    "license_number": "DKE1010000270",
+    "address": "1181 Budapest, Gyömrői út 154444/2. Hrsz.",
+    "start_of_validity": "2023.10.26",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4579273,
+    "lon": 19.1760905
+  },
+  {
+    "name": "Vudent Cigarette Bt.",
+    "license_number": "DKE1010000280",
+    "address": "1188 Budapest 18. ker. Nagykőrösi út 73.",
+    "start_of_validity": "2013.07.04",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4123999,
+    "lon": 19.1748003
+  },
+  {
+    "name": "Vudent Cigarette Bt.",
+    "license_number": "DKE1010000283",
+    "address": "1124 Budapest 12. ker. Pagony utca 29.",
+    "start_of_validity": "2013.07.05",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4951926,
+    "lon": 19.0038117
+  },
+  {
+    "name": "We-Tassy Ker.Bt.",
+    "license_number": "DKE1010000037",
+    "address": "1192 Budapest 19. ker. Nádasdy utca 31.",
+    "start_of_validity": "2022.04.14",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4497258,
+    "lon": 19.1299713
+  },
+  {
+    "name": "Zácha Dohány Bt",
+    "license_number": "DKE1010000200",
+    "address": "1112 Budapest 11. ker. Budaörsi út 35.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4801762,
+    "lon": 19.0263819
+  },
+  {
+    "name": "Zácha Dohány Bt",
+    "license_number": "DKE1010000268",
+    "address": "1115 Budapest 11. ker. Kosztolányi Dezső tér 5.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4754473,
+    "lon": 19.0392981
+  },
+  {
+    "name": "Zácha Dohány Bt",
+    "license_number": "DKE1010000299",
+    "address": "1117 Budapest 11. ker. Október huszonharmadika utca 21. fsz.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4734715,
+    "lon": 19.0501977
+  },
+  {
+    "name": "Zácha Dohány Bt",
+    "license_number": "DKE1600000223",
+    "address": "1174 Budapest 17. ker. Kvasz András utca 27/C. 3.a",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4707686,
+    "lon": 19.2282012
+  },
+  {
+    "name": "Zácha Dohány Bt",
+    "license_number": "DKE1600000257",
+    "address": "1173 Budapest 17. ker. Pesti út 16-18",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.4840545,
+    "lon": 19.2361843
+  },
+  {
+    "name": "Zália Dohány Bt",
+    "license_number": "DKE1600000091",
+    "address": "1073 Budapest 07. ker. Erzsébet körút 56.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5028969,
+    "lon": 19.0658309
+  },
+  {
+    "name": "Zália Dohány Bt",
+    "license_number": "DKE1600000093",
+    "address": "1064 Budapest 06. ker. Szondi utca 44/A",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5114108,
+    "lon": 19.0657354
+  },
+  {
+    "name": "Zália Dohány Bt",
+    "license_number": "DKE1600000096",
+    "address": "1074 Budapest 07. ker. Király utca 67.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.5036661,
+    "lon": 19.0664754
+  },
+  {
+    "name": "Zália Dohány Bt",
+    "license_number": "DKE1600000097",
+    "address": "1062 Budapest 06. ker. Oktogon tér 4.",
+    "start_of_validity": "2013.07.01",
+    "end_of_validity": "2033.06.30",
+    "lat": 47.505852,
+    "lon": 19.0635609
+  }
+]

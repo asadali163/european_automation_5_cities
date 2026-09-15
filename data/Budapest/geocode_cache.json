@@ -1,0 +1,3465 @@
+{
+  "1031 Budapest, Nánási út 24/A.": {
+    "lat": 47.5715233,
+    "lon": 19.0617988,
+    "query_used": "1031 Budapest, Nánási út 24/A."
+  },
+  "1071 Budapest 07. ker. Rottenbiller utca 49.": {
+    "lat": 47.5067038,
+    "lon": 19.0727291,
+    "query_used": "1071 Budapest Rottenbiller utca 49."
+  },
+  "1157 Budapest 15. ker. Zsókavár utca 43-47 fszt": {
+    "lat": 47.5401922,
+    "lon": 19.1435985,
+    "query_used": "1157 Budapest Zsókavár utca 43."
+  },
+  "1113 Budapest 11. ker. Villányi út 6.": {
+    "lat": 47.4777105,
+    "lon": 19.045125,
+    "query_used": "1113 Budapest Villányi út 6."
+  },
+  "1115 Budapest 11. ker. Etele tér gyalogos aluljáró 128/20": null,
+  "1028 Budapest, Hidegkúti út 76/A.": {
+    "lat": 47.5520978,
+    "lon": 18.9643138,
+    "query_used": "1028 Budapest, Hidegkúti út 76/A."
+  },
+  "1211 Budapest 21. ker. Karácsony Sándor utca 10/A.": {
+    "lat": 47.4272208,
+    "lon": 19.0688639,
+    "query_used": "1211 Budapest Karácsony Sándor utca 10/A."
+  },
+  "1214 Budapest 21. ker. II. Rákóczi Ferenc utca 142.": {
+    "lat": 47.4603647,
+    "lon": 19.2325286,
+    "query_used": "1214 Budapest II. Rákóczi Ferenc utca 142."
+  },
+  "1211 Budapest 21. ker. II. Rákóczi F. utca 154-170 (Csepel Pláza)": null,
+  "1213 Budapest 21. ker. Szent László utca 115.": {
+    "lat": 47.4071628,
+    "lon": 19.0795081,
+    "query_used": "1213 Budapest Szent László utca 115."
+  },
+  "1212 Budapest, Szent István út 73.": {
+    "lat": 47.416282,
+    "lon": 19.0781904,
+    "query_used": "1212 Budapest, Szent István út 73."
+  },
+  "1025 Budapest 02. ker. Törökvész út 87-91.": {
+    "lat": 47.5290176,
+    "lon": 19.005443,
+    "query_used": "1025 Budapest Törökvész út 87-91."
+  },
+  "1094 Budapest, Tűzoltó utca 78-80.": {
+    "lat": 47.4795967,
+    "lon": 19.0816106,
+    "query_used": "1094 Budapest, Tűzoltó utca 78-80."
+  },
+  "1074 Budapest, Dohány utca 47.": {
+    "lat": 47.4980154,
+    "lon": 19.0693919,
+    "query_used": "1074 Budapest, Dohány utca 47."
+  },
+  "1061 Budapest, Jókai tér 8.": {
+    "lat": 47.5054724,
+    "lon": 19.0614947,
+    "query_used": "1061 Budapest, Jókai tér 8."
+  },
+  "1032 Budapest, Bécsi út 88-90.": {
+    "lat": 47.5326132,
+    "lon": 19.0359307,
+    "query_used": "1032 Budapest, Bécsi út 88-90."
+  },
+  "1137 Budapest, Radnóti Miklós utca 38.": {
+    "lat": 47.5161735,
+    "lon": 19.0497079,
+    "query_used": "1137 Budapest, Radnóti Miklós utca 38."
+  },
+  "1065 Budapest, Podmaniczky utca 2.": {
+    "lat": 47.5073144,
+    "lon": 19.05548,
+    "query_used": "1065 Budapest, Podmaniczky utca 2."
+  },
+  "1156 Budapest, Páskomliget utca 49.": {
+    "lat": 47.5474377,
+    "lon": 19.1354275,
+    "query_used": "1156 Budapest, Páskomliget utca 49."
+  },
+  "1086 Budapest, Diószeghy Sámuel utca 15.": {
+    "lat": 47.4875463,
+    "lon": 19.0884333,
+    "query_used": "1086 Budapest, Diószeghy Sámuel utca"
+  },
+  "1044 Budapest, Megyeri út 12. fszt. 9.": {
+    "lat": 47.5797587,
+    "lon": 19.0879709,
+    "query_used": "1044 Budapest, Megyeri út"
+  },
+  "1133 Budapest, Gogol utca 23.": {
+    "lat": 47.519899,
+    "lon": 19.0594288,
+    "query_used": "1133 Budapest, Gogol utca 23."
+  },
+  "1119 Budapest,\n Etele 65. fszt. 4.": {
+    "lat": 47.4638836,
+    "lon": 19.0309425,
+    "query_used": "1119 Budapest, Etele"
+  },
+  "1101 Budapest, Hungária körút 5-7.": {
+    "lat": 47.4909071,
+    "lon": 19.1095101,
+    "query_used": "1101 Budapest, Hungária körút 5-7."
+  },
+  "1042 Budapest, Rózsa utca 12.": {
+    "lat": 47.5566193,
+    "lon": 19.1001477,
+    "query_used": "1042 Budapest, Rózsa utca 12."
+  },
+  "1134 Budapest, Róbert Károly körút 38.": {
+    "lat": 47.5311573,
+    "lon": 19.0695525,
+    "query_used": "1134 Budapest, Róbert Károly körút 38."
+  },
+  "1172 Budapest 17. ker. Almásháza utca 2.": {
+    "lat": 47.4990909,
+    "lon": 19.2696063,
+    "query_used": "1172 Budapest Almásháza utca 2."
+  },
+  "1173 Budapest 17. ker. Borsó utca 64/B.": {
+    "lat": 47.4797,
+    "lon": 19.2328,
+    "query_used": "1173 Budapest Borsó utca 64/B."
+  },
+  "1118 Budapest 11. ker. Torbágy utca 7/A.": {
+    "lat": 47.4707218,
+    "lon": 18.9983385,
+    "query_used": "1118 Budapest Torbágy utca 7/A."
+  },
+  "1196 Budapest, Nádasdy utca 115.": {
+    "lat": 47.4432391,
+    "lon": 19.1394613,
+    "query_used": "1196 Budapest, Nádasdy utca 115."
+  },
+  "1195 Budapest, Batthyány utca 3.": {
+    "lat": 47.4555859,
+    "lon": 19.1470656,
+    "query_used": "1195 Budapest, Batthyány utca 3."
+  },
+  "1147 Budapest, Csömöri utca Bosnyák téri vásárcsarnok 9-11.": null,
+  "1113 Budapest, Karolina út 17.": {
+    "lat": 47.4819006,
+    "lon": 19.0299045,
+    "query_used": "1113 Budapest, Karolina út 17."
+  },
+  "1111 Budapest, Budafoki út 57/b.": {
+    "lat": 47.476467,
+    "lon": 19.0531238,
+    "query_used": "1111 Budapest, Budafoki út 57/b."
+  },
+  "1033 Budapest, Köles utca 1.": {
+    "lat": 47.5570786,
+    "lon": 19.0445036,
+    "query_used": "1033 Budapest, Köles utca 1."
+  },
+  "1214 Budapest 21. ker. Szent László utca 3.": {
+    "lat": 47.5483692,
+    "lon": 18.9403122,
+    "query_used": "1214 Budapest Szent László utca 3."
+  },
+  "1161 Budapest, Pálya utca 129.": {
+    "lat": 47.5224119,
+    "lon": 19.1520058,
+    "query_used": "1161 Budapest, Pálya utca 129."
+  },
+  "1158 Budapest 15. ker. Sztárai Mihály tér 4.": {
+    "lat": 47.5393191,
+    "lon": 19.1289568,
+    "query_used": "1158 Budapest Sztárai Mihály tér 4."
+  },
+  "1035 Budapest 03. ker. Vörösvári út 43.": {
+    "lat": 47.5459397,
+    "lon": 19.0338304,
+    "query_used": "1035 Budapest Vörösvári út 43."
+  },
+  "1076 Budapest 07. ker. Thököly út 2.": {
+    "lat": 47.5011277,
+    "lon": 19.0824969,
+    "query_used": "1076 Budapest Thököly út 2., Hungary"
+  },
+  "1144 Budapest 14. ker. Csertő utca 5-7.": {
+    "lat": 47.5132355,
+    "lon": 19.1464618,
+    "query_used": "1144 Budapest Csertő utca 5-7."
+  },
+  "1042 Budapest 04. ker. Király utca 27/2.": {
+    "lat": 47.5610041,
+    "lon": 19.0984368,
+    "query_used": "1042 Budapest Király utca 27/2."
+  },
+  "1061 Budapest 06. ker. Teréz körút 56.": {
+    "lat": 47.5090025,
+    "lon": 19.0576524,
+    "query_used": "1061 Budapest Teréz körút 56."
+  },
+  "1101 Budapest, Üllői út 112.": {
+    "lat": 47.4728212,
+    "lon": 19.1105413,
+    "query_used": "1101 Budapest, Üllői út 112."
+  },
+  "1182 Budapest 18. ker. Reviczky Gy. út 76.": null,
+  "1047 Budapest 04. ker. Baross utca 88.": {
+    "lat": 47.4895207,
+    "lon": 19.0788966,
+    "query_used": "1047 Budapest Baross utca 88."
+  },
+  "1032 Budapest 03. ker. Szőlő utca 94.": {
+    "lat": 47.5428488,
+    "lon": 19.0369693,
+    "query_used": "1032 Budapest Szőlő utca 94."
+  },
+  "1036 Budapest, Fényes Adolf utca 21-23.": {
+    "lat": 47.5343485,
+    "lon": 19.0414899,
+    "query_used": "1036 Budapest, Fényes Adolf utca 21-23."
+  },
+  "1163 Budapest, Veres Péter út 43.": {
+    "lat": 47.5091345,
+    "lon": 19.1804522,
+    "query_used": "1163 Budapest, Veres Péter út 43."
+  },
+  "1162 Budapest 16. ker. Szlovák út hrsz. 114749": null,
+  "1172 Budapest 17. ker. Ferihegyi út 39": {
+    "lat": 47.4875021,
+    "lon": 19.2589167,
+    "query_used": "1172 Budapest Ferihegyi út 39"
+  },
+  "1131 Budapest 13. ker. Béke út 69/F20": {
+    "lat": 47.4289141,
+    "lon": 19.2188614,
+    "query_used": "1131 Budapest Béke út"
+  },
+  "1091 Budapest, Üllői út 143.": {
+    "lat": 47.471381,
+    "lon": 19.1074553,
+    "query_used": "1091 Budapest, Üllői út 143."
+  },
+  "1203 Budapest, Kossuth Lajos utca 91.": {
+    "lat": 47.4261408,
+    "lon": 19.0696678,
+    "query_used": "1203 Budapest, Kossuth Lajos utca 91."
+  },
+  "1161 Budapest, Rákosi út 103.": {
+    "lat": 47.5201425,
+    "lon": 19.1654288,
+    "query_used": "1161 Budapest, Rákosi út 103."
+  },
+  "1182 Budapest, Gyékény tér 1.": {
+    "lat": 47.4313254,
+    "lon": 19.1963066,
+    "query_used": "1182 Budapest, Gyékény tér 1."
+  },
+  "1181 Budapest, Gilice tér 49.": {
+    "lat": 47.4327874,
+    "lon": 19.1819207,
+    "query_used": "1181 Budapest, Gilice tér 49."
+  },
+  "1182 Budapest, Üllői út 379-381.": {
+    "lat": 47.4460101,
+    "lon": 19.1705907,
+    "query_used": "1182 Budapest, Üllői út 379-381."
+  },
+  "1135 Budapest 13. ker. Béke út 13-19.": {
+    "lat": 47.4289141,
+    "lon": 19.2188614,
+    "query_used": "1135 Budapest Béke út"
+  },
+  "1139 Budapest 13. ker. Balzac utca 8-10": {
+    "lat": 47.5148938,
+    "lon": 19.057568,
+    "query_used": "1139 Budapest Balzac utca 8-10"
+  },
+  "1132 Budapest, Nyugati tér 4.": {
+    "lat": 47.5110792,
+    "lon": 19.0558212,
+    "query_used": "1132 Budapest, Nyugati tér 4."
+  },
+  "1132 Budapest 13. ker. Országbíró utca 38-40.": {
+    "lat": 47.5329369,
+    "lon": 19.0731419,
+    "query_used": "1132 Budapest Országbíró utca 38-40."
+  },
+  "1135 Budapest 13. ker. Kisgömb utca 14-16.": {
+    "lat": 47.5243294,
+    "lon": 19.0851452,
+    "query_used": "1135 Budapest Kisgömb utca 14-16."
+  },
+  "1203 Budapest 20. ker. Téglagyár tér 7-9.": {
+    "lat": 47.434918,
+    "lon": 19.0922613,
+    "query_used": "1203 Budapest Téglagyár tér 7-9."
+  },
+  "1132 Budapest 13. ker. Visegrádi utca 4.": {
+    "lat": 47.5120822,
+    "lon": 19.0535489,
+    "query_used": "1132 Budapest Visegrádi utca 4."
+  },
+  "1193 Budapest 19. ker. Üllői út 248/4": {
+    "lat": 47.4528313,
+    "lon": 19.155764,
+    "query_used": "1193 Budapest Üllői út 248/4"
+  },
+  "1181 Budapest 18. ker. Havanna utca 13.": {
+    "lat": 47.4424853,
+    "lon": 19.1672428,
+    "query_used": "1181 Budapest Havanna utca 13."
+  },
+  "1191 Budapest, Kossuth tér piac 2. sz. üzlet": {
+    "lat": 47.4586155,
+    "lon": 19.145076,
+    "query_used": "1191 Budapest, Kossuth tér piac"
+  },
+  "1214 Budapest, II. Rákóczi Ferenc út 277.": {
+    "lat": 47.4009401,
+    "lon": 19.0510391,
+    "query_used": "1214 Budapest, II. Rákóczi Ferenc út 277."
+  },
+  "1214 Budapest, Zrínyi utca 1/a": {
+    "lat": 47.4177472,
+    "lon": 19.0653739,
+    "query_used": "1214 Budapest, Zrínyi utca 1/a"
+  },
+  "1041 Budapest, Virág utca 7. fszt. Ü-7.": {
+    "lat": 47.561166,
+    "lon": 19.0974334,
+    "query_used": "1041 Budapest, Virág utca"
+  },
+  "1044 Budapest, Kemény Zsigmond utca 75836. hrsz.": {
+    "lat": 47.576567,
+    "lon": 19.0808115,
+    "query_used": "1044 Budapest, Kemény Zsigmond utca"
+  },
+  "1028 Budapest 02. ker. Máriaremetei út 1.": {
+    "lat": 47.5453281,
+    "lon": 18.9633231,
+    "query_used": "1028 Budapest Máriaremetei út 1."
+  },
+  "1051 Budapest 05. ker. Váci utca 54": {
+    "lat": 47.4902155,
+    "lon": 19.0555231,
+    "query_used": "1051 Budapest Váci utca 54"
+  },
+  "1223 Budapest, Jókai Mór utca 38.": {
+    "lat": 47.4132706,
+    "lon": 19.016982,
+    "query_used": "1223 Budapest, Jókai Mór utca 38."
+  },
+  "1221 Budapest 22. ker. Ady Endre út 99.": {
+    "lat": 47.4409278,
+    "lon": 19.0223912,
+    "query_used": "1221 Budapest Ady Endre út 99."
+  },
+  "1225 Budapest 22. ker. Nagytétényi út 242.": {
+    "lat": 47.3955426,
+    "lon": 18.9935488,
+    "query_used": "1225 Budapest Nagytétényi út 242."
+  },
+  "1082 Budapest 08. ker. Corvin köz 1.": {
+    "lat": 47.4861623,
+    "lon": 19.0713676,
+    "query_used": "1082 Budapest Corvin köz 1."
+  },
+  "1102 Budapest 10. ker. Kőrösi Csoma Sándor út 6/E": {
+    "lat": 47.4865004,
+    "lon": 19.1327222,
+    "query_used": "1102 Budapest Kőrösi Csoma Sándor út 6/E"
+  },
+  "1146 Budapest, Thököly út 150.": {
+    "lat": 47.5172135,
+    "lon": 19.1082726,
+    "query_used": "1146 Budapest, Thököly út 150."
+  },
+  "1037 Budapest, Bécsi út 265.": {
+    "lat": 47.5817211,
+    "lon": 19.0018361,
+    "query_used": "1037 Budapest, Bécsi út 265."
+  },
+  "1133 Budapest 13. ker. Véső utca 11.": {
+    "lat": 47.5291495,
+    "lon": 19.0622055,
+    "query_used": "1133 Budapest Véső utca 11."
+  },
+  "1035 Budapest 03. ker. Szentendrei út 34.": {
+    "lat": 47.5486745,
+    "lon": 19.0428852,
+    "query_used": "1035 Budapest Szentendrei út 34."
+  },
+  "1046 Budapest 04. ker. Erdősor utca 3-5": {
+    "lat": 47.4163267,
+    "lon": 19.0614419,
+    "query_used": "1046 Budapest Erdősor utca 3-5"
+  },
+  "1041 Budapest 04. ker. Templom utca 1.": {
+    "lat": 47.5634698,
+    "lon": 19.0873865,
+    "query_used": "1041 Budapest Templom utca 1."
+  },
+  "1173 Budapest, Újlak utca 9.": {
+    "lat": 47.4808924,
+    "lon": 19.2398863,
+    "query_used": "1173 Budapest, Újlak utca 9."
+  },
+  "1027 Budapest 02. ker. Varsányi Irén utca 1.": {
+    "lat": 47.5096143,
+    "lon": 19.0334503,
+    "query_used": "1027 Budapest Varsányi Irén utca 1."
+  },
+  "1142 Budapest, Erzsébet királyné útja 125.": {
+    "lat": 47.5345733,
+    "lon": 19.1132684,
+    "query_used": "1142 Budapest, Erzsébet királyné útja 125."
+  },
+  "1033 Budapest, Miklós utca 5.": {
+    "lat": 47.5430252,
+    "lon": 19.0427093,
+    "query_used": "1033 Budapest, Miklós utca 5."
+  },
+  "1163 Budapest 16. ker. Sashalmi tér 1.": {
+    "lat": 47.5095091,
+    "lon": 19.1713614,
+    "query_used": "1163 Budapest Sashalmi tér 1."
+  },
+  "1086 Budapest, Baross\n utca 129. földszint": {
+    "lat": 47.4892113,
+    "lon": 19.0898498,
+    "query_used": "1086 Budapest, Baross utca 129."
+  },
+  "1077 Budapest, Wesselényi utca 19.": {
+    "lat": 47.4976471,
+    "lon": 19.0639595,
+    "query_used": "1077 Budapest, Wesselényi utca 19."
+  },
+  "1035 Budapest, Bécsi út 325-337.": {
+    "lat": 47.5604405,
+    "lon": 19.0252138,
+    "query_used": "1035 Budapest, Bécsi út 325-337."
+  },
+  "1201 Budapest 20. ker. Vörösmarty utca 178": {
+    "lat": 47.4274582,
+    "lon": 19.1125796,
+    "query_used": "1201 Budapest Vörösmarty utca 178"
+  },
+  "1107 Budapest, Szállás utca 11/A.": {
+    "lat": 47.4792036,
+    "lon": 19.1238492,
+    "query_used": "1107 Budapest, Szállás utca 11/A."
+  },
+  "1107 Budapest 10. ker. Bihari utca 7/A.": {
+    "lat": 47.4738803,
+    "lon": 19.1162303,
+    "query_used": "1107 Budapest Bihari utca 7/A."
+  },
+  "1141 Budapest, Vezér utca 74.": {
+    "lat": 47.5133715,
+    "lon": 19.1366527,
+    "query_used": "1141 Budapest, Vezér utca 74."
+  },
+  "1141 Budapest, Hrsz. 31484/136.": null,
+  "1144 Budapest, Rákosfalva park 3.": {
+    "lat": 47.5068921,
+    "lon": 19.1454745,
+    "query_used": "1144 Budapest, Rákosfalva park 3."
+  },
+  "1171 Budapest 17. ker. Nyomdász utca 1.": {
+    "lat": 47.4615347,
+    "lon": 19.2988701,
+    "query_used": "1171 Budapest Nyomdász utca 1."
+  },
+  "1173 Budapest 17. ker. Kis utca 3.": {
+    "lat": 47.4824098,
+    "lon": 19.2388958,
+    "query_used": "1173 Budapest Kis utca 3."
+  },
+  "1108 Budapest 10. ker. Újhegyi sétány 12.": {
+    "lat": 47.469415,
+    "lon": 19.1608772,
+    "query_used": "1108 Budapest Újhegyi sétány 12."
+  },
+  "1215 Budapest 21. ker. Ady Endre út 65": {
+    "lat": 47.4348759,
+    "lon": 19.0791954,
+    "query_used": "1215 Budapest Ady Endre út 65"
+  },
+  "1214 Budapest 21. ker. II. Rákóczi Ferenc út 366.": {
+    "lat": 47.3913741,
+    "lon": 19.0355084,
+    "query_used": "1214 Budapest II. Rákóczi Ferenc út 366."
+  },
+  "1214 Budapest 21. ker. Nap utca 2.": {
+    "lat": 47.4875908,
+    "lon": 19.0708697,
+    "query_used": "1214 Budapest Nap utca 2."
+  },
+  "1214 Budapest 21. ker. Vénusz utca 33.": {
+    "lat": 47.4102595,
+    "lon": 19.0602443,
+    "query_used": "1214 Budapest Vénusz utca 33."
+  },
+  "1211 Budapest 21. ker. Mansfeld Péter utca 92.": {
+    "lat": 47.4249249,
+    "lon": 19.0626917,
+    "query_used": "1211 Budapest Mansfeld Péter utca 92."
+  },
+  "1095 Budapest, Boráros téri  aluljáró alsó szint 12.": null,
+  "1114 Budapest, Bartók Béla út 49.": {
+    "lat": 47.4783542,
+    "lon": 19.048213,
+    "query_used": "1114 Budapest, Bartók Béla út 49."
+  },
+  "1146 Budapest, Thököly út 117.": {
+    "lat": 47.5134323,
+    "lon": 19.1027141,
+    "query_used": "1146 Budapest, Thököly út 117."
+  },
+  "1134 Budapest, Dózsa György úti aluljáró Csat. Műv. telep": null,
+  "1102 Budapest 10. ker. Kőrösi Csoma Sándor út 40.": {
+    "lat": 47.4908162,
+    "lon": 19.1366942,
+    "query_used": "1102 Budapest Kőrösi Csoma Sándor út 40."
+  },
+  "1183 Budapest, Gyömrői út 174.": {
+    "lat": 47.4529956,
+    "lon": 19.1953659,
+    "query_used": "1183 Budapest, Gyömrői út 174."
+  },
+  "1038 Budapest 03. ker. Hollós Korvin Lajos utca 6.": {
+    "lat": 47.594613,
+    "lon": 19.0499451,
+    "query_used": "1038 Budapest Hollós Korvin Lajos utca 6."
+  },
+  "1082 Budapest, Üllői út 54. földszint 4. ajtó": {
+    "lat": 47.4838086,
+    "lon": 19.0757436,
+    "query_used": "1082 Budapest, Üllői út"
+  },
+  "1152 Budapest 15. ker. Öregfalusi utca 2.": {
+    "lat": 47.5642192,
+    "lon": 19.1209095,
+    "query_used": "1152 Budapest Öregfalusi utca 2."
+  },
+  "1117 Budapest, Fehérvári út 24.": {
+    "lat": 47.4737385,
+    "lon": 19.0465698,
+    "query_used": "1117 Budapest, Fehérvári út 24."
+  },
+  "1173 Budapest 17. ker. Pesti út 237/H.": {
+    "lat": 47.4726751,
+    "lon": 19.2745993,
+    "query_used": "1173 Budapest Pesti út 237/H."
+  },
+  "1161 Budapest 16. ker. János utca 196.": {
+    "lat": 47.5340738,
+    "lon": 19.1599909,
+    "query_used": "1161 Budapest János utca 196."
+  },
+  "1105 Budapest 10. ker. Gergely utca 2.": {
+    "lat": 47.4803774,
+    "lon": 19.1342996,
+    "query_used": "1105 Budapest Gergely utca 2."
+  },
+  "1027 Budapest, Csalogány utca 55.": {
+    "lat": 47.5083678,
+    "lon": 19.0282555,
+    "query_used": "1027 Budapest, Csalogány utca 55."
+  },
+  "1104 Budapest 10. ker. Mádi utca 84.": {
+    "lat": 47.4824431,
+    "lon": 19.1509589,
+    "query_used": "1104 Budapest Mádi utca 84."
+  },
+  "1065 Budapest 06. ker. Nagymező utca 21.": {
+    "lat": 47.5043038,
+    "lon": 19.0593386,
+    "query_used": "1065 Budapest Nagymező utca 21."
+  },
+  "1138 Budapest 13. ker. Váci út 187.": {
+    "lat": 47.555377,
+    "lon": 19.0762014,
+    "query_used": "1138 Budapest Váci út 187."
+  },
+  "1138 Budapest 13. ker. Népfürdő utca 15/A": {
+    "lat": 47.529804,
+    "lon": 19.0588243,
+    "query_used": "1138 Budapest Népfürdő utca 15/A"
+  },
+  "1165 Budapest 16. ker. Veres Péter út 114.": {
+    "lat": 47.5118517,
+    "lon": 19.1934083,
+    "query_used": "1165 Budapest Veres Péter út 114."
+  },
+  "2040 Budaörs, Budapesti út 124.": {
+    "lat": 47.462781,
+    "lon": 18.9798954,
+    "query_used": "2040 Budaörs, Budapesti út 124."
+  },
+  "1171 Budapest 17. ker. Péceli út 207-209.": {
+    "lat": 47.4878607,
+    "lon": 19.2876588,
+    "query_used": "1171 Budapest Péceli út 207-209."
+  },
+  "1203 Budapest 20. ker. Ady Endre utca 68-70.": {
+    "lat": 47.4400428,
+    "lon": 19.1023793,
+    "query_used": "1203 Budapest Ady Endre utca 68-70."
+  },
+  "1195 Budapest 19. ker. Ady Endre - Arany János utca sarka": null,
+  "1112 Budapest, Vőfély utca 1.": {
+    "lat": 47.4615001,
+    "lon": 19.0150503,
+    "query_used": "1112 Budapest, Vőfély utca 1."
+  },
+  "1113 Budapest 11. ker. Bocskai   44.": {
+    "lat": 47.4759614,
+    "lon": 19.0369197,
+    "query_used": "1113 Budapest Bocskai 44."
+  },
+  "1071 Budapest, Damjanich utca 58.": {
+    "lat": 47.5096493,
+    "lon": 19.0819096,
+    "query_used": "1071 Budapest, Damjanich utca 58."
+  },
+  "1077 Budapest, Dózsa György utca 54.": {
+    "lat": 47.5888656,
+    "lon": 19.0440345,
+    "query_used": "1077 Budapest, Dózsa György utca 54."
+  },
+  "1119 Budapest 11. ker. Fehérvári út 88/A.": {
+    "lat": 47.4628354,
+    "lon": 19.0428768,
+    "query_used": "1119 Budapest Fehérvári út 88/A."
+  },
+  "2040 Budaörs, Budapesti út 61-63.": {
+    "lat": 47.4621867,
+    "lon": 18.9710981,
+    "query_used": "2040 Budaörs, Budapesti út 61-63."
+  },
+  "1184 Budapest, Kézműves utca 6.": {
+    "lat": 47.4518,
+    "lon": 19.1685,
+    "query_used": "1184 Budapest, Kézműves utca 6."
+  },
+  "1041 Budapest 04. ker. Árpád-István út Metró aluljáró 1": null,
+  "1171 Budapest 17. ker. Péceli út 126.": {
+    "lat": 47.483953,
+    "lon": 19.2769877,
+    "query_used": "1171 Budapest Péceli út 126."
+  },
+  "1204 Budapest 20. ker. Török Flóris   187/A.": {
+    "lat": 47.4314733,
+    "lon": 19.1161685,
+    "query_used": "1204 Budapest Török Flóris 187/A."
+  },
+  "1204 Budapest 20. ker. Lázár utca 94.": {
+    "lat": 47.4327293,
+    "lon": 19.1279227,
+    "query_used": "1204 Budapest Lázár utca 94."
+  },
+  "1221 Budapest 22. ker. Játék utca 2-12.": {
+    "lat": 47.4280034,
+    "lon": 19.0400753,
+    "query_used": "1221 Budapest Játék utca 2-12."
+  },
+  "1183 Budapest 18. ker. Széchenyi István utca 6.": {
+    "lat": 47.4455801,
+    "lon": 19.1746661,
+    "query_used": "1183 Budapest Széchenyi István utca 6."
+  },
+  "1188 Budapest 18. ker. Kisfaludy utca 112.": {
+    "lat": 47.4041924,
+    "lon": 19.1987703,
+    "query_used": "1188 Budapest Kisfaludy utca 112."
+  },
+  "1022 Budapest, Bimbó\n út 45.": {
+    "lat": 47.5166953,
+    "lon": 19.0248465,
+    "query_used": "1022 Budapest, Bimbó\n út 45."
+  },
+  "1105 Budapest 10. ker. Kápolna utca 15.": {
+    "lat": 47.4817474,
+    "lon": 19.1310409,
+    "query_used": "1105 Budapest Kápolna utca 15."
+  },
+  "1173 Budapest 17. ker. Pesti út 159.": {
+    "lat": 47.4796723,
+    "lon": 19.2516541,
+    "query_used": "1173 Budapest Pesti út 159."
+  },
+  "1173 Budapest 17. ker. Jósika utca 42.": {
+    "lat": 47.4571854,
+    "lon": 19.2326976,
+    "query_used": "1173 Budapest Jósika utca 42."
+  },
+  "1042 Budapest, Király utca 9.": {
+    "lat": 47.5624578,
+    "lon": 19.0918893,
+    "query_used": "1042 Budapest, Király utca 9."
+  },
+  "1157 Budapest 15. ker. Erdőkerülő utca 36.": {
+    "lat": 47.5414584,
+    "lon": 19.1501685,
+    "query_used": "1157 Budapest Erdőkerülő utca 36."
+  },
+  "1108 Budapest 10. ker. Újhegyi sétány 18.": {
+    "lat": 47.4716073,
+    "lon": 19.1643636,
+    "query_used": "1108 Budapest Újhegyi sétány 18."
+  },
+  "1163 Budapest 16. ker. Thököly út 10.": {
+    "lat": 47.5326523,
+    "lon": 19.1271539,
+    "query_used": "1163 Budapest Thököly út 10."
+  },
+  "1025 Budapest 02. ker. Törökvész út 76.": {
+    "lat": 47.5280668,
+    "lon": 19.0060817,
+    "query_used": "1025 Budapest Törökvész út 76."
+  },
+  "1173 Budapest 17. ker. Flamingó utca 19.": {
+    "lat": 47.4755062,
+    "lon": 19.2387402,
+    "query_used": "1173 Budapest Flamingó utca 19."
+  },
+  "1034 Budapest 03. ker. Kolosy tér 5-6": {
+    "lat": 47.527824,
+    "lon": 19.0377723,
+    "query_used": "1034 Budapest Kolosy tér 5-6"
+  },
+  "1112 Budapest, Balatoni út 1.": {
+    "lat": 47.4533241,
+    "lon": 19.0073159,
+    "query_used": "1112 Budapest, Balatoni út 1."
+  },
+  "1111 Budapest, Karinthy Frigyes út 12.": {
+    "lat": 47.4772095,
+    "lon": 19.0502161,
+    "query_used": "1111 Budapest, Karinthy Frigyes út 12."
+  },
+  "1026 Budapest, Házmán utca 2.": {
+    "lat": 47.5167026,
+    "lon": 18.9993492,
+    "query_used": "1026 Budapest, Házmán utca 2."
+  },
+  "1036 Budapest, Bécsi út 37.": {
+    "lat": 47.5276682,
+    "lon": 19.0376606,
+    "query_used": "1036 Budapest, Bécsi út 37."
+  },
+  "1033 Budapest, Miklós tér 4.": {
+    "lat": 47.5454262,
+    "lon": 19.0451659,
+    "query_used": "1033 Budapest, Miklós tér 4."
+  },
+  "1033 Budapest, Flórián tér 6-9.": {
+    "lat": 47.5424892,
+    "lon": 19.0405331,
+    "query_used": "1033 Budapest, Flórián tér 6-9."
+  },
+  "1221 Budapest 22. ker. Kossuth Lajos utca 25-29.": {
+    "lat": 47.4265825,
+    "lon": 19.0385198,
+    "query_used": "1221 Budapest Kossuth Lajos utca 25-29."
+  },
+  "1164 Budapest 16. ker. Szabadföld út 19/B.": {
+    "lat": 47.5189624,
+    "lon": 19.2166398,
+    "query_used": "1164 Budapest Szabadföld út 19/B."
+  },
+  "1032 Budapest 03. ker. Ágoston utca 1": {
+    "lat": 47.5462719,
+    "lon": 19.0322125,
+    "query_used": "1032 Budapest Ágoston utca 1"
+  },
+  "1039 Budapest, Pünkösdfürdő utca 52.": {
+    "lat": 47.5949367,
+    "lon": 19.0543316,
+    "query_used": "1039 Budapest, Pünkösdfürdő utca 52."
+  },
+  "1042 Budapest 04. ker. Petőfi u.- István utca sarok": null,
+  "1133 Budapest 13. ker. Dráva utca 22.": {
+    "lat": 47.5256912,
+    "lon": 19.0576618,
+    "query_used": "1133 Budapest Dráva utca 22."
+  },
+  "1134 Budapest 13. ker. Váci út 9-15.": {
+    "lat": 47.517882,
+    "lon": 19.0607373,
+    "query_used": "1134 Budapest Váci út 9-15."
+  },
+  "1138 Budapest 13. ker. Dunavirág utca 2.": {
+    "lat": 47.5353468,
+    "lon": 19.0604101,
+    "query_used": "1138 Budapest Dunavirág utca 2."
+  },
+  "1131 Budapest, Rokolya utca 1-13.": {
+    "lat": 47.5420323,
+    "lon": 19.0879603,
+    "query_used": "1131 Budapest, Rokolya utca 1-13."
+  },
+  "1044 Budapest 04. ker. Megyeri út 53.": {
+    "lat": 47.5877017,
+    "lon": 19.0991988,
+    "query_used": "1044 Budapest Megyeri út 53."
+  },
+  "1053 Budapest 05. ker. Kecskeméti utca 1.": {
+    "lat": 47.4905855,
+    "lon": 19.059212,
+    "query_used": "1053 Budapest Kecskeméti utca 1."
+  },
+  "1042 Budapest 04. ker. Csányi László utca 9-11.": {
+    "lat": 47.5588335,
+    "lon": 19.0840551,
+    "query_used": "1042 Budapest Csányi László utca 9-11."
+  },
+  "1239 Budapest, Grassalkovich út 256.": {
+    "lat": 47.3900194,
+    "lon": 19.1192228,
+    "query_used": "1239 Budapest, Grassalkovich út 256."
+  },
+  "1182 Budapest, Királyhágó utca 64.": {
+    "lat": 47.4243451,
+    "lon": 19.1218501,
+    "query_used": "1182 Budapest, Királyhágó utca 64."
+  },
+  "1188 Budapest, Nemes utca 51-53. B lház. földszint 1. ajtó": {
+    "lat": 47.4111534,
+    "lon": 19.1973303,
+    "query_used": "1188 Budapest, Nemes utca"
+  },
+  "1094 Budapest 09. ker. Üllői út 89/a": {
+    "lat": 47.4825529,
+    "lon": 19.07866,
+    "query_used": "1094 Budapest Üllői út 89/a"
+  },
+  "1084 Budapest 08. ker. Déri Miksa utca 1": {
+    "lat": 47.4924638,
+    "lon": 19.0732929,
+    "query_used": "1084 Budapest Déri Miksa utca 1"
+  },
+  "1015 Budapest 01. ker. Fő utca 37/C.": {
+    "lat": 47.5051805,
+    "lon": 19.0384162,
+    "query_used": "1015 Budapest Fő utca 37/C."
+  },
+  "1013 Budapest 01. ker. Déli pályaudvar, peronszint, utca front": null,
+  "1117 Budapest 11. ker. Kőrösy József utca 7-9.": {
+    "lat": 47.4746656,
+    "lon": 19.0474113,
+    "query_used": "1117 Budapest Kőrösy József utca 7-9."
+  },
+  "1091 Budapest 09. ker. Népliget gyalogos aluljáró 1.": null,
+  "1098 Budapest, Dési Huber utca 20. fsz. 14.": {
+    "lat": 47.468923,
+    "lon": 19.1108944,
+    "query_used": "1098 Budapest, Dési Huber utca"
+  },
+  "1083 Budapest 08. ker. Práter utca 59.": {
+    "lat": 47.4866847,
+    "lon": 19.0803044,
+    "query_used": "1083 Budapest Práter utca 59."
+  },
+  "1087 Budapest 08. ker. Kerepesi út 1-5.": {
+    "lat": 47.4986114,
+    "lon": 19.08391,
+    "query_used": "1087 Budapest Kerepesi út 1-5., Hungary"
+  },
+  "1048 Budapest 04. ker. Csíkszentiván utca 6.": {
+    "lat": 47.5969965,
+    "lon": 19.1209722,
+    "query_used": "1048 Budapest Csíkszentiván utca 6."
+  },
+  "1041 Budapest 04. ker. Berzeviczy Gergely utca 17. A. ép.": {
+    "lat": 47.5642636,
+    "lon": 19.0840235,
+    "query_used": "1041 Budapest Berzeviczy Gergely utca"
+  },
+  "1194 Budapest 19. ker. Szegfű utca 21": {
+    "lat": 47.5475722,
+    "lon": 18.96854,
+    "query_used": "1194 Budapest Szegfű utca 21"
+  },
+  "1032 Budapest, Gyenes utca 2.": {
+    "lat": 47.5430121,
+    "lon": 19.0354204,
+    "query_used": "1032 Budapest, Gyenes utca 2."
+  },
+  "1046 Budapest 04. ker. Óceánárok utca 29": {
+    "lat": 47.5789188,
+    "lon": 19.1096444,
+    "query_used": "1046 Budapest Óceánárok utca 29"
+  },
+  "1113 Budapest, Villányi út 74. földszint 2. ajtó": {
+    "lat": 47.4815567,
+    "lon": 19.0330592,
+    "query_used": "1113 Budapest, Villányi út"
+  },
+  "1039 Budapest 03. ker. Jendrassik utca 2.": {
+    "lat": 47.5993364,
+    "lon": 19.0483421,
+    "query_used": "1039 Budapest Jendrassik utca 2."
+  },
+  "1041 Budapest, Bárdos\n Artúr utca 71422/9. hrsz.": {
+    "lat": 47.5622592,
+    "lon": 19.1009287,
+    "query_used": "1041 Budapest, Bárdos Artúr utca"
+  },
+  "1042 Budapest, Árpád út 56.": {
+    "lat": 47.5608719,
+    "lon": 19.0861059,
+    "query_used": "1042 Budapest, Árpád út 56."
+  },
+  "1224 Budapest 22. ker. Barackos út 1.": {
+    "lat": 47.4043267,
+    "lon": 18.9910707,
+    "query_used": "1224 Budapest Barackos út 1."
+  },
+  "1225 Budapest 22. ker. Nagytétényi út 216.": {
+    "lat": 47.3996829,
+    "lon": 19.0032993,
+    "query_used": "1225 Budapest Nagytétényi út 216."
+  },
+  "1223 Budapest, Rákóczi út 20/A.": {
+    "lat": 47.4070466,
+    "lon": 19.0067084,
+    "query_used": "1223 Budapest, Rákóczi út 20/A."
+  },
+  "1212 Budapest 21. ker. Görgey Artúr tér 1/A.": {
+    "lat": 47.4227503,
+    "lon": 19.0696382,
+    "query_used": "1212 Budapest Görgey Artúr tér 1/A."
+  },
+  "1072 Budapest 07. ker. Dob utca 28-30.": {
+    "lat": 47.4992103,
+    "lon": 19.0623194,
+    "query_used": "1072 Budapest Dob utca 28-30."
+  },
+  "1137 Budapest 13. ker. Katona József utca 3. fszt.": {
+    "lat": 47.5123597,
+    "lon": 19.0563856,
+    "query_used": "1137 Budapest Katona József utca 3."
+  },
+  "1152 Budapest 15. ker. Szentmihályi utca 137.": {
+    "lat": 47.510893,
+    "lon": 19.1473505,
+    "query_used": "1152 Budapest Szentmihályi utca"
+  },
+  "1123 Budapest 12. ker. Csörsz utca 23-25.": {
+    "lat": 47.4900555,
+    "lon": 19.0261459,
+    "query_used": "1123 Budapest Csörsz utca 23-25."
+  },
+  "1125 Budapest 12. ker. Nógrádi utca 39.": {
+    "lat": 47.5028523,
+    "lon": 19.0025859,
+    "query_used": "1125 Budapest Nógrádi utca 39."
+  },
+  "1121 Budapest 12. ker. Eötvös út 38/B": {
+    "lat": 47.4994561,
+    "lon": 18.9719118,
+    "query_used": "1121 Budapest Eötvös út 38/B"
+  },
+  "1202 Budapest, Mártírok útja 205.": {
+    "lat": 47.4359055,
+    "lon": 19.1323755,
+    "query_used": "1202 Budapest, Mártírok útja 205."
+  },
+  "1111 Budapest 11. ker. Szent Gellért tér 3.": {
+    "lat": 47.4832037,
+    "lon": 19.0535088,
+    "query_used": "1111 Budapest Szent Gellért tér 3."
+  },
+  "1191 Budapest 19. ker. Eötvös utca 1-3.": {
+    "lat": 47.4599207,
+    "lon": 19.1432819,
+    "query_used": "1191 Budapest Eötvös utca 1-3."
+  },
+  "1173 Budapest 17. ker. Pesti-501 utca Hrsz 120003": null,
+  "1027 Budapest 02. ker. Margit körút 1.": {
+    "lat": 47.514766,
+    "lon": 19.0378824,
+    "query_used": "1027 Budapest Margit körút 1."
+  },
+  "1112 Budapest 11. ker. Péterhegyi lejtő 71.": {
+    "lat": 47.4493651,
+    "lon": 19.0070159,
+    "query_used": "1112 Budapest Péterhegyi lejtő 71."
+  },
+  "1093 Budapest 09. ker. Balázs Béla utca 34/6": {
+    "lat": 47.4791651,
+    "lon": 19.0782647,
+    "query_used": "1093 Budapest Balázs Béla utca 34/6"
+  },
+  "1147 Budapest, Zsolnay Vilmos utca 1. C lh. földszint 1-2. ajtó": {
+    "lat": 47.5313197,
+    "lon": 19.1231944,
+    "query_used": "1147 Budapest, Zsolnay Vilmos utca"
+  },
+  "1156 Budapest 15. ker. Páskomliget utca 6.": {
+    "lat": 47.5447408,
+    "lon": 19.1383038,
+    "query_used": "1156 Budapest Páskomliget utca 6."
+  },
+  "1237 Budapest, Ciklámen utca 3.": {
+    "lat": 47.4162646,
+    "lon": 19.1302166,
+    "query_used": "1237 Budapest, Ciklámen utca 3."
+  },
+  "1149 Budapest, Nagy Lajos király útja 189.": {
+    "lat": 47.5225588,
+    "lon": 19.1025001,
+    "query_used": "1149 Budapest, Nagy Lajos király útja 189."
+  },
+  "1173 Budapest, Kaszáló utca 47.": {
+    "lat": 47.481151,
+    "lon": 19.255627,
+    "query_used": "1173 Budapest, Kaszáló utca 47."
+  },
+  "1145 Budapest, Csömöri út 9-11.": {
+    "lat": 47.5206429,
+    "lon": 19.1144849,
+    "query_used": "1145 Budapest, Csömöri út 9-11."
+  },
+  "1039 Budapest 03. ker. Mátyás király út 82": {
+    "lat": 47.5848025,
+    "lon": 19.0605096,
+    "query_used": "1039 Budapest Mátyás király út 82"
+  },
+  "1146 Budapest, Thököly út 63.": {
+    "lat": 47.5077371,
+    "lon": 19.0943639,
+    "query_used": "1146 Budapest, Thököly út 63."
+  },
+  "1151 Budapest, Külső Fóti út 1.": {
+    "lat": 47.5685386,
+    "lon": 19.1348325,
+    "query_used": "1151 Budapest, Külső Fóti út 1."
+  },
+  "1077 Budapest, Wesselényi utca 33.": {
+    "lat": 47.4989856,
+    "lon": 19.0665116,
+    "query_used": "1077 Budapest, Wesselényi utca 33."
+  },
+  "1133 Budapest, Árbóc utca 6.": {
+    "lat": 47.5316996,
+    "lon": 19.0647074,
+    "query_used": "1133 Budapest, Árbóc utca 6."
+  },
+  "1149 Budapest 14. ker. Mogyoródi utca 23-39.": {
+    "lat": 47.5137369,
+    "lon": 19.1239873,
+    "query_used": "1149 Budapest Mogyoródi utca 23."
+  },
+  "1039 Budapest, Mátyás király út 1.": {
+    "lat": 47.5859765,
+    "lon": 19.0452652,
+    "query_used": "1039 Budapest, Mátyás király út 1."
+  },
+  "1103 Budapest 10. ker. Óhegy utca 41.": {
+    "lat": 47.4768435,
+    "lon": 19.1456522,
+    "query_used": "1103 Budapest Óhegy utca 41."
+  },
+  "1143 Budapest 14. ker. Pillangó utca 22": {
+    "lat": 47.5044123,
+    "lon": 19.1162373,
+    "query_used": "1143 Budapest Pillangó utca 22"
+  },
+  "1222 Budapest 22. ker. Verseci utca 4.": {
+    "lat": 47.4161939,
+    "lon": 19.0269981,
+    "query_used": "1222 Budapest Verseci utca 4."
+  },
+  "1098 Budapest 09. ker. Pöttyös   6.": {
+    "lat": 47.466874,
+    "lon": 19.1164353,
+    "query_used": "1098 Budapest Pöttyös 6."
+  },
+  "1102 Budapest 10. ker. Kőrösi Csoma sétány 2.": {
+    "lat": 47.4838298,
+    "lon": 19.1293222,
+    "query_used": "1102 Budapest Kőrösi Csoma sétány 2."
+  },
+  "1092 Budapest 09. ker. Ráday utca 33/a.": {
+    "lat": 47.4851755,
+    "lon": 19.0645611,
+    "query_used": "1092 Budapest Ráday utca 33/a."
+  },
+  "1024 Budapest 02. ker. Margit körút 95.": {
+    "lat": 47.5078528,
+    "lon": 19.0256616,
+    "query_used": "1024 Budapest Margit körút 95."
+  },
+  "1013 Budapest, Alagút utca 5.": {
+    "lat": 47.497006,
+    "lon": 19.0328585,
+    "query_used": "1013 Budapest, Alagút utca 5."
+  },
+  "1014 Budapest, Tárnok utca 26.": {
+    "lat": 47.5012083,
+    "lon": 19.0337252,
+    "query_used": "1014 Budapest, Tárnok utca 26."
+  },
+  "1053 Budapest, Ferenciek tere 7-8.": {
+    "lat": 47.4927994,
+    "lon": 19.0563834,
+    "query_used": "1053 Budapest, Ferenciek tere 7-8."
+  },
+  "1239 Budapest 23. ker. Grassalkovich út 176": {
+    "lat": 47.3922938,
+    "lon": 19.1177761,
+    "query_used": "1239 Budapest Grassalkovich út 176"
+  },
+  "1035 Budapest 03. ker. Szentendrei út 12": {
+    "lat": 47.5450196,
+    "lon": 19.0419726,
+    "query_used": "1035 Budapest Szentendrei út 12"
+  },
+  "1103 Budapest 10. ker. Sibrik Mikós utca 30.": null,
+  "1106 Budapest, Maglódi út 53. 2. épület 3. ajtó": {
+    "lat": 47.4892867,
+    "lon": 19.1497592,
+    "query_used": "1106 Budapest, Maglódi út"
+  },
+  "1039 Budapest 03. ker. Pablo Neruda utca 1-2.": {
+    "lat": 47.5967333,
+    "lon": 19.0496496,
+    "query_used": "1039 Budapest Pablo Neruda utca 1-2."
+  },
+  "1044 Budapest 04. ker. Megyeri út 86-88.": {
+    "lat": 47.5859634,
+    "lon": 19.0941844,
+    "query_used": "1044 Budapest Megyeri út 86-88."
+  },
+  "1039 Budapest 03. ker. Hímző utca 12.": {
+    "lat": 47.5968631,
+    "lon": 19.0591994,
+    "query_used": "1039 Budapest Hímző utca 12."
+  },
+  "1203 Budapest 20. ker. Kossuth Lajos utca 99/B.": {
+    "lat": 47.4389982,
+    "lon": 19.1050888,
+    "query_used": "1203 Budapest Kossuth Lajos utca 99/B."
+  },
+  "1065 Budapest, Nagymező utca 14.": {
+    "lat": 47.5028454,
+    "lon": 19.0608072,
+    "query_used": "1065 Budapest, Nagymező utca 14."
+  },
+  "1172 Budapest 17. ker. Naplás út 11.": {
+    "lat": 47.4926941,
+    "lon": 19.280262,
+    "query_used": "1172 Budapest Naplás út 11."
+  },
+  "1119 Budapest, Tétényi út 63.": {
+    "lat": 47.4642459,
+    "lon": 19.032762,
+    "query_used": "1119 Budapest, Tétényi út 63."
+  },
+  "1106 Budapest 10. ker. Gyakorló utca 36.": {
+    "lat": 47.502288,
+    "lon": 19.1467572,
+    "query_used": "1106 Budapest Gyakorló utca 36."
+  },
+  "1085 Budapest, József körút 66.": {
+    "lat": 47.4879081,
+    "lon": 19.0707803,
+    "query_used": "1085 Budapest, József körút 66."
+  },
+  "1146 Budapest, Hungária körút 140-144.": {
+    "lat": 47.5118459,
+    "lon": 19.0977494,
+    "query_used": "1146 Budapest, Hungária körút 140-144."
+  },
+  "1161 Budapest, Rákosi út 116.": {
+    "lat": 47.5216601,
+    "lon": 19.1680343,
+    "query_used": "1161 Budapest, Rákosi út 116."
+  },
+  "1191 Budapest, Kossuth tér villamos megálló": null,
+  "1027 Budapest, Bem József utca 9.": {
+    "lat": 47.5119048,
+    "lon": 19.0347184,
+    "query_used": "1027 Budapest, Bem József utca 9."
+  },
+  "1148 Budapest 14. ker. Nagy Lajos király útja 100.": {
+    "lat": 47.5141985,
+    "lon": 19.1200315,
+    "query_used": "1148 Budapest Nagy Lajos király útja 100."
+  },
+  "1152 Budapest 15. ker. Régifóti út 30.": null,
+  "1073 Budapest 07. ker. Wesselényi utca 45": {
+    "lat": 47.5006416,
+    "lon": 19.0692562,
+    "query_used": "1073 Budapest Wesselényi utca 45"
+  },
+  "1151 Budapest, 88195. hrsz.": {
+    "lat": 47.4978789,
+    "lon": 19.0402383,
+    "query_used": "1151 Budapest, 88195."
+  },
+  "1067 Budapest 06. ker. Teréz körút 21.": {
+    "lat": 47.5059925,
+    "lon": 19.0626501,
+    "query_used": "1067 Budapest Teréz körút 21."
+  },
+  "1071 Budapest 07. ker. Damjanich utca 11-15.": {
+    "lat": 47.5062084,
+    "lon": 19.0759651,
+    "query_used": "1071 Budapest Damjanich utca 11-15."
+  },
+  "1191 Budapest, Ady Endre út 42-44.": {
+    "lat": 47.4604041,
+    "lon": 19.1327607,
+    "query_used": "1191 Budapest, Ady Endre út 42-44."
+  },
+  "1097 Budapest, Könyves Kálmán körút 12-14.": {
+    "lat": 47.4708783,
+    "lon": 19.0841386,
+    "query_used": "1097 Budapest, Könyves Kálmán körút 12-14."
+  },
+  "1145 Budapest, Nagy Lajos király útja 210.": {
+    "lat": 47.5220951,
+    "lon": 19.1027216,
+    "query_used": "1145 Budapest, Nagy Lajos király útja 210."
+  },
+  "1116 Budapest 11. ker. Fehérvári út 45-47.": {
+    "lat": 47.469461,
+    "lon": 19.044411,
+    "query_used": "1116 Budapest Fehérvári út 45-47."
+  },
+  "1119 Budapest 11. ker. Andor utca 2.": {
+    "lat": 47.45574,
+    "lon": 19.03881,
+    "query_used": "1119 Budapest Andor utca 2."
+  },
+  "1162 Budapest 16. ker. Rákosi út 265/B": {
+    "lat": 47.522874,
+    "lon": 19.1709777,
+    "query_used": "1162 Budapest Rákosi út 265/B"
+  },
+  "1114 Budapest, Fehérvári út 13.": {
+    "lat": 47.4757162,
+    "lon": 19.0467094,
+    "query_used": "1114 Budapest, Fehérvári út 13."
+  },
+  "1103 Budapest, Gyömrői út 76-80.": {
+    "lat": 47.4660177,
+    "lon": 19.1482446,
+    "query_used": "1103 Budapest, Gyömrői út 76-80., Hungary"
+  },
+  "1225 Budapest 22. ker. Nagytétényi út 293.": {
+    "lat": 47.3917626,
+    "lon": 18.9829234,
+    "query_used": "1225 Budapest Nagytétényi út 293."
+  },
+  "1152 Budapest 15. ker. Fő út 2.": {
+    "lat": 47.5682298,
+    "lon": 19.1256891,
+    "query_used": "1152 Budapest Fő út 2."
+  },
+  "1204 Budapest 20. ker. Radnó utca 2.": {
+    "lat": 47.4413053,
+    "lon": 19.1333371,
+    "query_used": "1204 Budapest Radnó utca 2."
+  },
+  "1182 Budapest, Cziffra György utca 15/B.": {
+    "lat": 47.4325899,
+    "lon": 19.1783785,
+    "query_used": "1182 Budapest, Cziffra György utca 15/B."
+  },
+  "1182 Budapest, Üllői út 745.": {
+    "lat": 47.4294403,
+    "lon": 19.2165112,
+    "query_used": "1182 Budapest, Üllői út 745."
+  },
+  "1139 Budapest, Béke tér 10-11. földszint 6. ajtó": {
+    "lat": 47.5311222,
+    "lon": 19.080786,
+    "query_used": "1139 Budapest, Béke tér"
+  },
+  "1171 Budapest, Zrínyi utca 86.": {
+    "lat": 47.4482751,
+    "lon": 19.145685,
+    "query_used": "1171 Budapest, Zrínyi utca 86."
+  },
+  "1105 Budapest, Körösi Csoma Sándor út 43.": {
+    "lat": 47.4903057,
+    "lon": 19.137786,
+    "query_used": "1105 Budapest, Körösi Csoma Sándor út 43."
+  },
+  "1152 Budapest 15. ker. Rákos út 84.": {
+    "lat": 47.549914,
+    "lon": 19.1171355,
+    "query_used": "1152 Budapest Rákos út 84."
+  },
+  "1152 Budapest 15. ker. Rákos út 48.": {
+    "lat": 47.5556593,
+    "lon": 19.1197676,
+    "query_used": "1152 Budapest Rákos út 48."
+  },
+  "1081 Budapest, II. János Pál pápa tér 13.": {
+    "lat": 47.4951669,
+    "lon": 19.0786954,
+    "query_used": "1081 Budapest, II. János Pál pápa tér 13."
+  },
+  "1152 Budapest 15. ker. Töltés utca 4.": {
+    "lat": 47.5736974,
+    "lon": 19.1209281,
+    "query_used": "1152 Budapest Töltés utca 4."
+  },
+  "1204 Budapest 20. ker. Ady Endre utca 90/92.": {
+    "lat": 47.4380558,
+    "lon": 19.1049051,
+    "query_used": "1204 Budapest Ady Endre utca 90/92."
+  },
+  "1222 Budapest 22. ker. Tóth József utca 49.": {
+    "lat": 47.4221944,
+    "lon": 19.0363889,
+    "query_used": "1222 Budapest Tóth József utca 49."
+  },
+  "1222 Budapest 22. ker. Gádor utca 128.": {
+    "lat": 47.425383,
+    "lon": 19.0150821,
+    "query_used": "1222 Budapest Gádor utca 128."
+  },
+  "1224 Budapest 22. ker. Dózsa György út 29": {
+    "lat": 47.5066582,
+    "lon": 19.0860698,
+    "query_used": "1224 Budapest Dózsa György út 29"
+  },
+  "1116 Budapest, Fehérvári út 192.": {
+    "lat": 47.4436017,
+    "lon": 19.0373284,
+    "query_used": "1116 Budapest, Fehérvári út 192."
+  },
+  "1013 Budapest, Krisztina körút 37.": {
+    "lat": 47.4988446,
+    "lon": 19.0259049,
+    "query_used": "1013 Budapest, Krisztina körút 37."
+  },
+  "1011 Budapest 01. ker. Batthyány tér HÉV végállomás 014445 hrsz.": null,
+  "1015 Budapest, Batthyány utca 1.": {
+    "lat": 47.5069935,
+    "lon": 19.0378435,
+    "query_used": "1015 Budapest, Batthyány utca 1."
+  },
+  "1011 Budapest, Fő utca 4. földszint": {
+    "lat": 47.4989185,
+    "lon": 19.0400458,
+    "query_used": "1011 Budapest, Fő utca 4."
+  },
+  "1181 Budapest 18. ker. Est utca 50.": {
+    "lat": 47.4348016,
+    "lon": 19.17024,
+    "query_used": "1181 Budapest Est utca 50."
+  },
+  "1237 Budapest 23. ker. Haraszti út 34-36": {
+    "lat": 47.3934815,
+    "lon": 19.1157955,
+    "query_used": "1237 Budapest Haraszti út 34-36"
+  },
+  "1237 Budapest 23. ker. Köves út 40.": {
+    "lat": 47.4172056,
+    "lon": 19.1405493,
+    "query_used": "1237 Budapest Köves út 40."
+  },
+  "1155 Budapest 15. ker. Kolozsvár utca 48-50.": {
+    "lat": 47.5399026,
+    "lon": 19.1192238,
+    "query_used": "1155 Budapest Kolozsvár utca 48-50."
+  },
+  "1156 Budapest 15. ker. Nyírpalota utca 2.": {
+    "lat": 47.539171,
+    "lon": 19.137763,
+    "query_used": "1156 Budapest Nyírpalota utca"
+  },
+  "1157 Budapest 15. ker. Páskomliget utca 26": {
+    "lat": 47.5459702,
+    "lon": 19.1366544,
+    "query_used": "1157 Budapest Páskomliget utca 26"
+  },
+  "1121 Budapest 12. ker. Zugligeti út 58": {
+    "lat": 47.5178584,
+    "lon": 18.9836098,
+    "query_used": "1121 Budapest Zugligeti út 58"
+  },
+  "1125 Budapest 12. ker. Kútvölgyi út 12": {
+    "lat": 47.5123729,
+    "lon": 19.0003334,
+    "query_used": "1125 Budapest Kútvölgyi út 12"
+  },
+  "1025 Budapest 02. ker. Csatárka út 58.": {
+    "lat": 47.5299602,
+    "lon": 19.0098972,
+    "query_used": "1025 Budapest Csatárka út 58."
+  },
+  "1118 Budapest, Rétköz utca 3.": {
+    "lat": 47.47413,
+    "lon": 18.9962467,
+    "query_used": "1118 Budapest, Rétköz utca 3."
+  },
+  "1116 Budapest, Olajbogyó utca 3.": {
+    "lat": 47.456627,
+    "lon": 19.0228244,
+    "query_used": "1116 Budapest, Olajbogyó utca 3."
+  },
+  "1146 Budapest, Dózsa György út 13.": {
+    "lat": 47.5051185,
+    "lon": 19.0881425,
+    "query_used": "1146 Budapest, Dózsa György út 13."
+  },
+  "1148 Budapest, Vezér utca 129.": {
+    "lat": 47.5183337,
+    "lon": 19.1296677,
+    "query_used": "1148 Budapest, Vezér utca 129."
+  },
+  "1117 Budapest 11. ker. Móricz Zsigmond körtér 9.": {
+    "lat": 47.4767758,
+    "lon": 19.0462707,
+    "query_used": "1117 Budapest Móricz Zsigmond körtér 9."
+  },
+  "1117 Budapest 11. ker. Bercsényi utca 21/a": {
+    "lat": 47.4759098,
+    "lon": 19.0502369,
+    "query_used": "1117 Budapest Bercsényi utca 21/a"
+  },
+  "1143 Budapest, Szobránc 20.": {
+    "lat": 47.5058211,
+    "lon": 19.1033804,
+    "query_used": "1143 Budapest, Szobránc 20."
+  },
+  "1149 Budapest 14. ker. Egressy   9/A": {
+    "lat": 47.5066558,
+    "lon": 19.1053408,
+    "query_used": "1149 Budapest Egressy 9/A"
+  },
+  "1031 Budapest, Vízimolnár utca 8.": {
+    "lat": 47.5688191,
+    "lon": 19.052863,
+    "query_used": "1031 Budapest, Vízimolnár utca 8."
+  },
+  "1111 Budapest 11. ker. Lágymányosi utca 16.": {
+    "lat": 47.4775638,
+    "lon": 19.0532928,
+    "query_used": "1111 Budapest Lágymányosi utca 16."
+  },
+  "1116 Budapest 11. ker. Fehérvári út 211.": {
+    "lat": 47.4470136,
+    "lon": 19.0365659,
+    "query_used": "1116 Budapest Fehérvári út 211."
+  },
+  "1173 Budapest 17. ker. Ferihegyi út 132.": {
+    "lat": 47.4758244,
+    "lon": 19.2549415,
+    "query_used": "1173 Budapest Ferihegyi út 132."
+  },
+  "1155 Budapest, Vasutastelep utca 5.": {
+    "lat": 47.5418312,
+    "lon": 19.1203366,
+    "query_used": "1155 Budapest, Vasutastelep utca 5."
+  },
+  "1031 Budapest 03. ker. Keve utca 45/b": {
+    "lat": 47.5760564,
+    "lon": 19.0582694,
+    "query_used": "1031 Budapest Keve utca 45/b"
+  },
+  "1026 Budapest, Gábor Áron utca 74-78.": {
+    "lat": 47.5225098,
+    "lon": 19.014741,
+    "query_used": "1026 Budapest, Gábor Áron utca 74-78."
+  },
+  "1031 Budapest, Mészkő utca 2-4.": {
+    "lat": 47.5797528,
+    "lon": 19.0328633,
+    "query_used": "1031 Budapest, Mészkő utca 2-4."
+  },
+  "1132 Budapest 13. ker. Csanády utca 4/B": {
+    "lat": 47.5160879,
+    "lon": 19.0581315,
+    "query_used": "1132 Budapest Csanády utca 4/B"
+  },
+  "1116 Budapest 11. ker. Kondorosi út 7.": {
+    "lat": 47.4513971,
+    "lon": 19.03756,
+    "query_used": "1116 Budapest Kondorosi út 7."
+  },
+  "1201 Budapest 20. ker. Vágóhíd utca 44.": {
+    "lat": 47.4241337,
+    "lon": 19.1106953,
+    "query_used": "1201 Budapest Vágóhíd utca 44."
+  },
+  "1101 Budapest 10. ker. Pongrác utca 9.": {
+    "lat": 47.3995499,
+    "lon": 19.2126103,
+    "query_used": "1101 Budapest Pongrác utca 9."
+  },
+  "1133 Budapest 13. ker. Pannónia utca 68.": {
+    "lat": 47.5198243,
+    "lon": 19.0557198,
+    "query_used": "1133 Budapest Pannónia utca 68."
+  },
+  "1148 Budapest 14. ker. Kerepesi út 34.": {
+    "lat": 47.5007184,
+    "lon": 19.1105525,
+    "query_used": "1148 Budapest Kerepesi út 34."
+  },
+  "1146 Budapest 14. ker. Dózsa György utca 29.": {
+    "lat": 47.5641357,
+    "lon": 18.9661591,
+    "query_used": "1146 Budapest Dózsa György utca 29."
+  },
+  "1191 Budapest 19. ker. Üllői út 210.": {
+    "lat": 47.4595389,
+    "lon": 19.1406411,
+    "query_used": "1191 Budapest Üllői út 210."
+  },
+  "1104 Budapest 10. ker. Mádi utca 98.": {
+    "lat": 47.4772467,
+    "lon": 19.1583549,
+    "query_used": "1104 Budapest Mádi utca 98."
+  },
+  "1139 Budapest 13. ker. Fiastyúk utca 23-25": {
+    "lat": 47.5430773,
+    "lon": 19.0809143,
+    "query_used": "1139 Budapest Fiastyúk utca 23-25"
+  },
+  "1135 Budapest 13. ker. Jász utca 105.": {
+    "lat": 47.5369323,
+    "lon": 19.0873467,
+    "query_used": "1135 Budapest Jász utca 105."
+  },
+  "1074 Budapest, Dob utca 52.": {
+    "lat": 47.5014381,
+    "lon": 19.0653598,
+    "query_used": "1074 Budapest, Dob utca 52."
+  },
+  "1111 Budapest, Bartók Béla út 25.": {
+    "lat": 47.4802693,
+    "lon": 19.0513012,
+    "query_used": "1111 Budapest, Bartók Béla út 25."
+  },
+  "1042 Budapest, Árpád út 183.": {
+    "lat": 47.5607771,
+    "lon": 19.1066302,
+    "query_used": "1042 Budapest, Árpád út 183."
+  },
+  "1085 Budapest, József körút 31/A.": {
+    "lat": 47.4931141,
+    "lon": 19.0708167,
+    "query_used": "1085 Budapest, József körút 31/A."
+  },
+  "1037 Budapest, Bécsi út 300.": {
+    "lat": 47.553687,
+    "lon": 19.0281633,
+    "query_used": "1037 Budapest, Bécsi út 300."
+  },
+  "1173 Budapest 17. ker. Pesti út 70.": {
+    "lat": 47.4830788,
+    "lon": 19.2416775,
+    "query_used": "1173 Budapest Pesti út 70."
+  },
+  "1154 Budapest, Alkotmány út 20.": null,
+  "1215 Budapest 21. ker. Csete Balázs utca 6.": {
+    "lat": 47.4342107,
+    "lon": 19.0761344,
+    "query_used": "1215 Budapest Csete Balázs utca 6."
+  },
+  "1213 Budapest 21. ker. Görgey Artúr tér 20.": {
+    "lat": 47.423052,
+    "lon": 19.07161,
+    "query_used": "1213 Budapest Görgey Artúr tér 20."
+  },
+  "1102 Budapest 10. ker. Állomás utca 7.": {
+    "lat": 47.4846747,
+    "lon": 19.128289,
+    "query_used": "1102 Budapest Állomás utca 7."
+  },
+  "1135 Budapest, Lehel utca 64-68.": {
+    "lat": 47.5284853,
+    "lon": 19.0793559,
+    "query_used": "1135 Budapest, Lehel utca 64-68."
+  },
+  "1139 Budapest, Pap Károly utca 22/B. Ü-2.": {
+    "lat": 47.5319583,
+    "lon": 19.0715655,
+    "query_used": "1139 Budapest, Pap Károly utca"
+  },
+  "2112 Veresegyház Budapesti út 108.": {
+    "lat": 47.6554994,
+    "lon": 19.263282,
+    "query_used": "2112 Veresegyház Budapesti út 108."
+  },
+  "1185 Budapest 18. ker. Üllői út 696 .": {
+    "lat": 47.4290413,
+    "lon": 19.2183603,
+    "query_used": "1185 Budapest Üllői út 696 ."
+  },
+  "1203 Budapest 20. ker. Baross utca hrsz. 170204/9": null,
+  "1212 Budapest, Széchenyi István utca 86.": {
+    "lat": 47.4225054,
+    "lon": 19.0863898,
+    "query_used": "1212 Budapest, Széchenyi István utca 86."
+  },
+  "1097 Budapest 09. ker. Nagyvárad téri aluljáró 4.": null,
+  "1088 Budapest 08. ker. Rákóczi út - Astoria aluljáró \"B\" üzlet": null,
+  "1173 Budapest, Pesti út 39. 11. ü.": {
+    "lat": 47.4724543,
+    "lon": 19.277837,
+    "query_used": "1173 Budapest, Pesti út 39. 11."
+  },
+  "1183 Budapest 18. ker. Ráday Gedeon utca 93.": {
+    "lat": 47.4495469,
+    "lon": 19.1931859,
+    "query_used": "1183 Budapest Ráday Gedeon utca 93."
+  },
+  "1117 Budapest, Dombóvári út 27.": {
+    "lat": 47.4680174,
+    "lon": 19.0585153,
+    "query_used": "1117 Budapest, Dombóvári út 27."
+  },
+  "1087 Budapest, Kerepesi út 5.": {
+    "lat": 47.4986114,
+    "lon": 19.08391,
+    "query_used": "1087 Budapest, Kerepesi út 5."
+  },
+  "1066 Budapest, Zichy Jenő utca 1.": {
+    "lat": 47.5029844,
+    "lon": 19.0554128,
+    "query_used": "1066 Budapest, Zichy Jenő utca 1."
+  },
+  "1165 Budapest 16. ker. Újszász utca 87.": {
+    "lat": 47.5095056,
+    "lon": 19.2112081,
+    "query_used": "1165 Budapest Újszász utca 87."
+  },
+  "1117 Budapest, Magyar Nobeldíjasok útja 4082/21/E.": null,
+  "1126 Budapest, Királyhágó utca 2.": {
+    "lat": 47.4953531,
+    "lon": 19.0230072,
+    "query_used": "1126 Budapest, Királyhágó utca 2."
+  },
+  "1087 Budapest 08. ker. Hős utca 9.": {
+    "lat": 47.4959358,
+    "lon": 19.1075312,
+    "query_used": "1087 Budapest Hős utca 9."
+  },
+  "1062 Budapest 06. ker. Teréz körút 55.": {
+    "lat": 47.5106103,
+    "lon": 19.0566883,
+    "query_used": "1062 Budapest Teréz körút 55."
+  },
+  "1117 Budapest 11. ker. Alíz   6 A": {
+    "lat": 47.4591973,
+    "lon": 19.0489225,
+    "query_used": "1117 Budapest Alíz 6 A"
+  },
+  "1119 Budapest 11. ker. Bártfai   1-3.": {
+    "lat": 47.4674729,
+    "lon": 19.0432564,
+    "query_used": "1119 Budapest Bártfai 1-3."
+  },
+  "1117 Budapest 11. ker. Hunyadi János út 19.": {
+    "lat": 47.4351556,
+    "lon": 19.0413414,
+    "query_used": "1117 Budapest Hunyadi János út 19."
+  },
+  "1193 Budapest 19. ker. Ötvenhatosok tere 17.": {
+    "lat": 47.4498454,
+    "lon": 19.1473821,
+    "query_used": "1193 Budapest Ötvenhatosok tere 17."
+  },
+  "1091 Budapest 09. ker. Kálvin tér 9.": {
+    "lat": 47.4886874,
+    "lon": 19.0620026,
+    "query_used": "1091 Budapest Kálvin tér 9."
+  },
+  "1091 Budapest 09. ker. Kálvin tér 7.": {
+    "lat": 47.4886113,
+    "lon": 19.0609722,
+    "query_used": "1091 Budapest Kálvin tér 7."
+  },
+  "1097 Budapest 09. ker. Gubacsi út 34.": {
+    "lat": 47.445341,
+    "lon": 19.0970816,
+    "query_used": "1097 Budapest Gubacsi út 34."
+  },
+  "1093 Budapest, Gönczy Pál utca 2. földszint IV. ajtó": {
+    "lat": 47.487221,
+    "lon": 19.060145,
+    "query_used": "1093 Budapest, Gönczy Pál utca"
+  },
+  "1161 Budapest, Csömöri út 109.": {
+    "lat": 47.5244882,
+    "lon": 19.1589675,
+    "query_used": "1161 Budapest, Csömöri út 109."
+  },
+  "1165 Budapest, Margit utca 102.": {
+    "lat": 47.5165983,
+    "lon": 19.1887097,
+    "query_used": "1165 Budapest, Margit utca 102."
+  },
+  "1126 Budapest 12. ker. Dolgos utca 2. fsz. 171. üzlet": {
+    "lat": 47.4915641,
+    "lon": 19.0207011,
+    "query_used": "1126 Budapest Dolgos utca"
+  },
+  "1037 Budapest, Bécsi út 43.": {
+    "lat": 47.5280719,
+    "lon": 19.0377122,
+    "query_used": "1037 Budapest, Bécsi út 43."
+  },
+  "1032 Budapest 03. ker. Bécsi út 136.": {
+    "lat": 47.5439072,
+    "lon": 19.0284465,
+    "query_used": "1032 Budapest Bécsi út 136."
+  },
+  "1046 Budapest 04. ker. Eperjesi utca 1/A:": {
+    "lat": 47.573755,
+    "lon": 19.10389,
+    "query_used": "1046 Budapest Eperjesi utca 1/A:"
+  },
+  "1203 Budapest 20. ker. Baross utca 5/A": {
+    "lat": 47.4407712,
+    "lon": 19.0960277,
+    "query_used": "1203 Budapest Baross utca 5/A"
+  },
+  "1102 Budapest 10. ker. Liget tér hrsz 38927": null,
+  "1173 Budapest 17. ker. Bakancsos utca 5.": {
+    "lat": 47.4801095,
+    "lon": 19.2437964,
+    "query_used": "1173 Budapest Bakancsos utca 5."
+  },
+  "1065 Budapest, Hajós utca 23.": {
+    "lat": 47.5037517,
+    "lon": 19.0578237,
+    "query_used": "1065 Budapest, Hajós utca 23."
+  },
+  "1142 Budapest, Ungvár utca 50.": {
+    "lat": 47.5338953,
+    "lon": 19.1057885,
+    "query_used": "1142 Budapest, Ungvár utca 50."
+  },
+  "1162 Budapest 16. ker. Mátyás király út 58.": {
+    "lat": 47.5855572,
+    "lon": 19.0523969,
+    "query_used": "1162 Budapest Mátyás király út 58."
+  },
+  "1165 Budapest, Arany János utca 102.": {
+    "lat": 47.5209115,
+    "lon": 19.1864524,
+    "query_used": "1165 Budapest, Arany János utca 102."
+  },
+  "1165 Budapest, Bökényföldi út 117547. hrsz.": {
+    "lat": 47.509975,
+    "lon": 19.2069849,
+    "query_used": "1165 Budapest, Bökényföldi út"
+  },
+  "1239 Budapest 23. ker. Grassalkovich út 171": {
+    "lat": 47.3905659,
+    "lon": 19.1189114,
+    "query_used": "1239 Budapest Grassalkovich út 171"
+  },
+  "1205 Budapest 20. ker. Határ út 95": {
+    "lat": 47.4543994,
+    "lon": 19.1132889,
+    "query_used": "1205 Budapest Határ út 95"
+  },
+  "1211 Budapest 21. ker. Szent Imre tér 19.": {
+    "lat": 47.4316954,
+    "lon": 19.0706925,
+    "query_used": "1211 Budapest Szent Imre tér 19."
+  },
+  "1036 Budapest 03. ker. Pacsirtamező utca 22/B.": {
+    "lat": 47.5344843,
+    "lon": 19.0396591,
+    "query_used": "1036 Budapest Pacsirtamező utca 22/B."
+  },
+  "1162 Budapest 16. ker. György utca 2.": {
+    "lat": 47.5308063,
+    "lon": 19.1714934,
+    "query_used": "1162 Budapest György utca 2."
+  },
+  "1183 Budapest 18. ker. Balassa utca 2-10.": {
+    "lat": 47.4427584,
+    "lon": 19.1842145,
+    "query_used": "1183 Budapest Balassa utca 2-10."
+  },
+  "1162 Budapest 16. ker. Rákosi út 142-146.": {
+    "lat": 47.5236507,
+    "lon": 19.1722751,
+    "query_used": "1162 Budapest Rákosi út 142-146."
+  },
+  "1106 Budapest 10. ker. Harmat utca 113.": {
+    "lat": 47.4723883,
+    "lon": 19.1626224,
+    "query_used": "1106 Budapest Harmat utca 113."
+  },
+  "1191 Budapest, Vak Bottyán utca 72. földszint 3. ajtó": {
+    "lat": 47.4618016,
+    "lon": 19.1460659,
+    "query_used": "1191 Budapest, Vak Bottyán utca"
+  },
+  "1108 Budapest,\n Tavas utca 1. C.\n épület földszint\n 18. ajtó": {
+    "lat": 47.4689188,
+    "lon": 19.1653193,
+    "query_used": "1108 Budapest, Tavas utca"
+  },
+  "1203 Budapest, Topánka HRSZ. 170204/10": null,
+  "1118 Budapest, Jagelló út 4/A.": {
+    "lat": 47.4861728,
+    "lon": 19.0236657,
+    "query_used": "1118 Budapest, Jagelló út 4/A."
+  },
+  "1203 Budapest, Kossuth Lajos utca 31/b": {
+    "lat": 47.4373241,
+    "lon": 19.1014827,
+    "query_used": "1203 Budapest, Kossuth Lajos utca 31/b"
+  },
+  "1048 Budapest, Ügető utca 2.": {
+    "lat": 47.58119,
+    "lon": 19.11498,
+    "query_used": "1048 Budapest, Ügető utca 2."
+  },
+  "1048 Budapest, Kordován tér 13.": {
+    "lat": 47.5868026,
+    "lon": 19.1133315,
+    "query_used": "1048 Budapest, Kordován tér 13."
+  },
+  "1118 Budapest 11. ker. Sasadi út 83.": {
+    "lat": 47.4735112,
+    "lon": 19.0082869,
+    "query_used": "1118 Budapest Sasadi út 83."
+  },
+  "1016 Budapest 01. ker. Naphegy tér 3.": {
+    "lat": 47.4926141,
+    "lon": 19.0321797,
+    "query_used": "1016 Budapest Naphegy tér 3."
+  },
+  "1015 Budapest 01. ker. Batthyány utca 28": {
+    "lat": 47.5070701,
+    "lon": 19.0315221,
+    "query_used": "1015 Budapest Batthyány utca 28"
+  },
+  "1212 Budapest 21. ker. Deák Ferenc tér 1.": {
+    "lat": 47.4974057,
+    "lon": 19.0550071,
+    "query_used": "1212 Budapest Deák Ferenc tér 1."
+  },
+  "1024 Budapest 02. ker. Lövőház utca 2-6": {
+    "lat": 47.5086947,
+    "lon": 19.0254751,
+    "query_used": "1024 Budapest Lövőház utca 2-6"
+  },
+  "1024 Budapest 02. ker. Lövőház utca 12": {
+    "lat": 47.5089622,
+    "lon": 19.0248282,
+    "query_used": "1024 Budapest Lövőház utca 12"
+  },
+  "1211 Budapest, Központi út 18.": {
+    "lat": 47.4305849,
+    "lon": 19.0615899,
+    "query_used": "1211 Budapest, Központi út 18."
+  },
+  "1024 Budapest, Margit körút 69.": {
+    "lat": 47.5103581,
+    "lon": 19.0296897,
+    "query_used": "1024 Budapest, Margit körút 69."
+  },
+  "1211 Budapest, Kossuth Lajos utca 87.": {
+    "lat": 47.4224676,
+    "lon": 19.0410054,
+    "query_used": "1211 Budapest, Kossuth Lajos utca 87."
+  },
+  "1211 Budapest, Szent Imre tér 1.": {
+    "lat": 47.4304171,
+    "lon": 19.0690284,
+    "query_used": "1211 Budapest, Szent Imre tér 1."
+  },
+  "1184 Budapest, Lakatos utca 7.": {
+    "lat": 47.5286458,
+    "lon": 19.2084072,
+    "query_used": "1184 Budapest, Lakatos utca 7."
+  },
+  "1145 Budapest 14. ker. Róna utca 125.": {
+    "lat": 47.5147373,
+    "lon": 19.1111182,
+    "query_used": "1145 Budapest Róna utca 125."
+  },
+  "1042 Budapest 04. ker. Árpád út 62": {
+    "lat": 47.5608031,
+    "lon": 19.0873523,
+    "query_used": "1042 Budapest Árpád út 62"
+  },
+  "1042 Budapest 04. ker. Árpád út 95": {
+    "lat": 47.5091588,
+    "lon": 19.0946713,
+    "query_used": "1042 Budapest Árpád út 95"
+  },
+  "1041 Budapest, Rózsa utca 73. földszint 3.": {
+    "lat": 47.562442,
+    "lon": 19.0997104,
+    "query_used": "1041 Budapest, Rózsa utca"
+  },
+  "1173 Budapest 17. ker. Pesti út 211.": {
+    "lat": 47.4776143,
+    "lon": 19.2622069,
+    "query_used": "1173 Budapest Pesti út 211."
+  },
+  "1116 Budapest 11. ker. Fehérvári út 182.": {
+    "lat": 47.4484967,
+    "lon": 19.0380319,
+    "query_used": "1116 Budapest Fehérvári út 182."
+  },
+  "1101 Budapest, Üllői út 124/B.": {
+    "lat": 47.4698355,
+    "lon": 19.1149454,
+    "query_used": "1101 Budapest, Üllői út 124/B."
+  },
+  "1149 Budapest 14. ker. Bosnyák tér 15.": {
+    "lat": 47.5200217,
+    "lon": 19.1124343,
+    "query_used": "1149 Budapest Bosnyák tér 15."
+  },
+  "1119 Budapest, Etele tér 3.": {
+    "lat": 47.4656705,
+    "lon": 19.0233708,
+    "query_used": "1119 Budapest, Etele tér 3."
+  },
+  "1095 Budapest, Soroksári út 56.": {
+    "lat": 47.471029,
+    "lon": 19.0736852,
+    "query_used": "1095 Budapest, Soroksári út 56."
+  },
+  "1039 Budapest 03. ker. Boglár utca 5.": {
+    "lat": 47.5957644,
+    "lon": 19.0621035,
+    "query_used": "1039 Budapest Boglár utca 5."
+  },
+  "1031 Budapest 03. ker. Római tér 1.": {
+    "lat": 47.5689852,
+    "lon": 19.0495889,
+    "query_used": "1031 Budapest Római tér 1."
+  },
+  "1051 Budapest, Hercegprímás utca 2.": {
+    "lat": 47.4993371,
+    "lon": 19.0532163,
+    "query_used": "1051 Budapest, Hercegprímás utca 2."
+  },
+  "1085 Budapest, Üllői út 6. földszint 33-34. ajtó": {
+    "lat": 47.4867816,
+    "lon": 19.0677292,
+    "query_used": "1085 Budapest, Üllői út"
+  },
+  "1082 Budapest, Leonardo Da Vinci utca 23.": {
+    "lat": 47.4862243,
+    "lon": 19.0773259,
+    "query_used": "1082 Budapest, Leonardo Da Vinci utca 23."
+  },
+  "1102 Budapest 10. ker. Liget utca 40.": {
+    "lat": 47.4880311,
+    "lon": 19.1300336,
+    "query_used": "1102 Budapest Liget utca 40."
+  },
+  "1102 Budapest, Kőrösi Csoma Sándor sétány 16/E": null,
+  "1089 Budapest 08. ker. Orczy út 46-48": {
+    "lat": 47.4883342,
+    "lon": 19.0928374,
+    "query_used": "1089 Budapest Orczy út 46-48"
+  },
+  "1032 Budapest 03. ker. Kiscelli utca 14": {
+    "lat": 47.5390935,
+    "lon": 19.037874,
+    "query_used": "1032 Budapest Kiscelli utca 14"
+  },
+  "1039 Budapest 03. ker. Heltai Jenő tér 3.": {
+    "lat": 47.5982503,
+    "lon": 19.0579964,
+    "query_used": "1039 Budapest Heltai Jenő tér 3."
+  },
+  "1125 Budapest, Márvány utca 33": {
+    "lat": 47.494902,
+    "lon": 19.0205171,
+    "query_used": "1125 Budapest, Márvány utca 33"
+  },
+  "1126 Budapest, Királyhágó tér 2.": {
+    "lat": 47.4958094,
+    "lon": 19.0191273,
+    "query_used": "1126 Budapest, Királyhágó tér 2."
+  },
+  "1125 Budapest, Szarvas Gábor utca 8.": null,
+  "1094 Budapest 09. ker. Mester utca 4-6": {
+    "lat": 47.4817426,
+    "lon": 19.0690512,
+    "query_used": "1094 Budapest Mester utca 4-6"
+  },
+  "1095 Budapest 09. ker. Mester utca 46": {
+    "lat": 47.478606,
+    "lon": 19.0739844,
+    "query_used": "1095 Budapest Mester utca 46"
+  },
+  "1082 Budapest 08. ker. Harminckettesek tere 6": {
+    "lat": 47.4897246,
+    "lon": 19.0717301,
+    "query_used": "1082 Budapest Harminckettesek tere 6"
+  },
+  "1095 Budapest 09. ker. Vágóhíd utca 3.": {
+    "lat": 47.4717122,
+    "lon": 19.0777458,
+    "query_used": "1095 Budapest Vágóhíd utca 3."
+  },
+  "1094 Budapest 09. ker. Ferenc körút 41.": {
+    "lat": 47.4846159,
+    "lon": 19.0698947,
+    "query_used": "1094 Budapest Ferenc körút 41."
+  },
+  "1081 Budapest 08. ker. Népszínház utca 59": {
+    "lat": 47.4935814,
+    "lon": 19.0816039,
+    "query_used": "1081 Budapest Népszínház utca 59"
+  },
+  "1081 Budapest 08. ker. Népszínház utca 13": {
+    "lat": 47.495765,
+    "lon": 19.0721028,
+    "query_used": "1081 Budapest Népszínház utca 13"
+  },
+  "1021 Budapest, Budenz utca 24.": null,
+  "1025 Budapest, Pusztaszeri út 72.": {
+    "lat": 47.5231647,
+    "lon": 19.0197752,
+    "query_used": "1025 Budapest, Pusztaszeri út 72."
+  },
+  "1025 Budapest, Pusztaszeri út 57.": {
+    "lat": 47.5254396,
+    "lon": 19.0238941,
+    "query_used": "1025 Budapest, Pusztaszeri út 57."
+  },
+  "1022 Budapest, Bimbó út 91.": {
+    "lat": 47.5186771,
+    "lon": 19.0150832,
+    "query_used": "1022 Budapest, Bimbó út 91."
+  },
+  "1215 Budapest 21. ker. Ady Endre út 58.": {
+    "lat": 47.435592,
+    "lon": 19.0748789,
+    "query_used": "1215 Budapest Ady Endre út 58."
+  },
+  "1211 Budapest 21. ker. Szent Imre tér 4.": {
+    "lat": 47.4312953,
+    "lon": 19.0675612,
+    "query_used": "1211 Budapest Szent Imre tér 4."
+  },
+  "1214 Budapest 21. ker. Zrínyi utca 1 ( SPAR )": {
+    "lat": 47.4160711,
+    "lon": 19.0629441,
+    "query_used": "1214 Budapest Zrínyi utca"
+  },
+  "1214 Budapest 21. ker. Vénusz utca 13-15.": {
+    "lat": 47.4102595,
+    "lon": 19.0602443,
+    "query_used": "1214 Budapest Vénusz utca 13-15."
+  },
+  "1148 Budapest, Örs vezér tere 3. fsz.": {
+    "lat": 47.5047326,
+    "lon": 19.1350143,
+    "query_used": "1148 Budapest, Örs vezér tere 3."
+  },
+  "1044 Budapest 04. ker. Megyeri út 56/A.": {
+    "lat": 47.5770264,
+    "lon": 19.0850531,
+    "query_used": "1044 Budapest Megyeri út 56/A."
+  },
+  "1152 Budapest 15. ker. Illyés Gyula utca 12-16.": {
+    "lat": 47.5616069,
+    "lon": 19.1172737,
+    "query_used": "1152 Budapest Illyés Gyula utca 12-16."
+  },
+  "1157 Budapest 15. ker. Zsókavár utca 2-4.": {
+    "lat": 47.5413172,
+    "lon": 19.1422741,
+    "query_used": "1157 Budapest Zsókavár utca 2-4."
+  },
+  "1152 Budapest 15. ker. Bogáncs utca 1-3.": {
+    "lat": 47.5697877,
+    "lon": 19.1352075,
+    "query_used": "1152 Budapest Bogáncs utca 1-3."
+  },
+  "1154 Budapest 15. ker. Bánkút utca 108.": {
+    "lat": 47.5519597,
+    "lon": 19.1333852,
+    "query_used": "1154 Budapest Bánkút utca 108."
+  },
+  "1039 Budapest 03. ker. Madzsar József utca 9-11.": {
+    "lat": 47.6010386,
+    "lon": 19.0584352,
+    "query_used": "1039 Budapest Madzsar József utca 9-11."
+  },
+  "1144 Budapest 14. ker. Csertő park 20": {
+    "lat": 47.5105511,
+    "lon": 19.1437207,
+    "query_used": "1144 Budapest Csertő park 20"
+  },
+  "1042 Budapest, 73312/8/A. hrsz.": {
+    "lat": 47.5608175,
+    "lon": 19.0939684,
+    "query_used": "1042 Budapest,"
+  },
+  "1106 Budapest, Fehér út 3.": {
+    "lat": 47.5004378,
+    "lon": 19.1365096,
+    "query_used": "1106 Budapest, Fehér út 3."
+  },
+  "1084 Budapest 08. ker. Nagyfuvaros utca 16.": null,
+  "1152 Budapest 15. ker. Rákos út 33/a.": {
+    "lat": 47.5568732,
+    "lon": 19.1198255,
+    "query_used": "1152 Budapest Rákos út 33/a."
+  },
+  "1202 Budapest 20. ker. Tátra tér 1": {
+    "lat": 47.4413301,
+    "lon": 19.1127214,
+    "query_used": "1202 Budapest Tátra tér 1"
+  },
+  "1193 Budapest 19. ker. Kossuth tér": {
+    "lat": 47.5058457,
+    "lon": 19.0477521,
+    "query_used": "1193 Budapest Kossuth tér"
+  },
+  "1201 Budapest 20. ker. Nagysándor J. utca 170": null,
+  "1205 Budapest 20. ker. Vízisport utca 21/c. fsz. 23.": {
+    "lat": 47.4360636,
+    "lon": 19.0915916,
+    "query_used": "1205 Budapest Vízisport utca"
+  },
+  "1042 Budapest 04. ker. Árpád út 90-92.": {
+    "lat": 47.5602234,
+    "lon": 19.0928194,
+    "query_used": "1042 Budapest Árpád út 90-92., Hungary"
+  },
+  "1149 Budapest, Szugló utca 80. fszt. 3/Ü.": {
+    "lat": 47.5180198,
+    "lon": 19.1168856,
+    "query_used": "1149 Budapest, Szugló utca"
+  },
+  "1039 Budapest 03. ker. Viziorgona utca 3.": {
+    "lat": 47.5981639,
+    "lon": 19.0497496,
+    "query_used": "1039 Budapest Viziorgona utca 3."
+  },
+  "1134 Budapest 13. ker. Lehel utca 33.": {
+    "lat": 47.5205866,
+    "lon": 19.0689793,
+    "query_used": "1134 Budapest Lehel utca 33."
+  },
+  "1137 Budapest 13. ker. Radnóti Miklós 4.": {
+    "lat": 47.5138894,
+    "lon": 19.0567582,
+    "query_used": "1137 Budapest Radnóti Miklós 4."
+  },
+  "1132 Budapest 13. ker. Visegrádi utca 43-45.": {
+    "lat": 47.5174468,
+    "lon": 19.0576637,
+    "query_used": "1132 Budapest Visegrádi utca 43-45."
+  },
+  "1134 Budapest 13. ker. Dunyov István utca 9.": {
+    "lat": 47.528631,
+    "lon": 19.0688176,
+    "query_used": "1134 Budapest Dunyov István utca 9."
+  },
+  "1134 Budapest 13. ker. Árpád híd , M. 6. sz. üzlet": {
+    "lat": 47.5362906,
+    "lon": 19.0585186,
+    "query_used": "1134 Budapest Árpád híd , M."
+  },
+  "1134 Budapest 13. ker. Árpád híd M. 4 sz. üzlet": {
+    "lat": 47.531712,
+    "lon": 19.0677298,
+    "query_used": "1134 Budapest Árpád híd M."
+  },
+  "1137 Budapest 13. ker. Jászai Mari tér 5.": {
+    "lat": 47.5140823,
+    "lon": 19.0483654,
+    "query_used": "1137 Budapest Jászai Mari tér 5."
+  },
+  "1134 Budapest 13. ker. Árpád híd M.  11. sz. üzlet": {
+    "lat": 47.531712,
+    "lon": 19.0677298,
+    "query_used": "1134 Budapest Árpád híd M."
+  },
+  "1136 Budapest 13. ker. Hollán Ernő utca 3.": {
+    "lat": 47.5133266,
+    "lon": 19.0496919,
+    "query_used": "1136 Budapest Hollán Ernő utca 3."
+  },
+  "1087 Budapest 08. ker. Baross tér 11/a.": {
+    "lat": 47.5000893,
+    "lon": 19.0824446,
+    "query_used": "1087 Budapest Baross tér 11/a."
+  },
+  "1088 Budapest 08. ker. József körút 5.": {
+    "lat": 47.4957171,
+    "lon": 19.0704835,
+    "query_used": "1088 Budapest József körút 5."
+  },
+  "1172 Budapest 17. ker. Ferihegyi út 29.": {
+    "lat": 47.488975,
+    "lon": 19.2594075,
+    "query_used": "1172 Budapest Ferihegyi út 29."
+  },
+  "1239 Budapest 23. ker. Nagykőrösi út 353.": {
+    "lat": 47.4174101,
+    "lon": 19.1681653,
+    "query_used": "1239 Budapest Nagykőrösi út 353."
+  },
+  "1155 Budapest, Szent Korona útja 25/B.": {
+    "lat": 47.5418351,
+    "lon": 19.1230768,
+    "query_used": "1155 Budapest, Szent Korona útja 25/B."
+  },
+  "1054 Budapest 05. ker. Bank utca 3.": {
+    "lat": 47.5032054,
+    "lon": 19.0531497,
+    "query_used": "1054 Budapest Bank utca 3."
+  },
+  "1131 Budapest, Reitter Ferenc utca 132.": {
+    "lat": 47.5406194,
+    "lon": 19.0908869,
+    "query_used": "1131 Budapest, Reitter Ferenc utca 132."
+  },
+  "1133 Budapest, Hegedűs Gyula utca 91.": {
+    "lat": 47.5232967,
+    "lon": 19.0591389,
+    "query_used": "1133 Budapest, Hegedűs Gyula utca 91."
+  },
+  "1083 Budapest, Práter utca 30-32.": {
+    "lat": 47.4867902,
+    "lon": 19.0840648,
+    "query_used": "1083 Budapest, Práter utca 30-32."
+  },
+  "1122 Budapest 12. ker. Magyar Jakobinusok tere 7": {
+    "lat": 47.5012783,
+    "lon": 19.0237471,
+    "query_used": "1122 Budapest Magyar Jakobinusok tere 7"
+  },
+  "1115 Budapest 11. ker. Tétényi út 16.": {
+    "lat": 47.4693525,
+    "lon": 19.0353584,
+    "query_used": "1115 Budapest Tétényi út 16."
+  },
+  "1119 Budapest 11. ker. Csurgói út 21/a": {
+    "lat": 47.4536055,
+    "lon": 19.0339298,
+    "query_used": "1119 Budapest Csurgói út 21/a"
+  },
+  "1063 Budapest 06. ker. Szondi utca 58.": {
+    "lat": 47.5128206,
+    "lon": 19.0681828,
+    "query_used": "1063 Budapest Szondi utca 58."
+  },
+  "1078 Budapest 07. ker. István utca 10": {
+    "lat": 47.5044953,
+    "lon": 19.0806781,
+    "query_used": "1078 Budapest István utca 10"
+  },
+  "8200 Veszprém, Budapest út 16.": {
+    "lat": 47.0950126,
+    "lon": 17.9173689,
+    "query_used": "8200 Veszprém, Budapest út 16."
+  },
+  "1087 Budapest, Kőbányai út 27. 24. ép.": {
+    "lat": 47.4892335,
+    "lon": 19.092538,
+    "query_used": "1087 Budapest, Kőbányai út 27. 24."
+  },
+  "1146 Budapest, Erzsébet királyné útja 6/a": {
+    "lat": 47.516615,
+    "lon": 19.092205,
+    "query_used": "1146 Budapest, Erzsébet királyné útja 6/a"
+  },
+  "1225 Budapest 22. ker. Nagytétényi út 238.": {
+    "lat": 47.3958662,
+    "lon": 18.9945701,
+    "query_used": "1225 Budapest Nagytétényi út 238."
+  },
+  "1223 Budapest 22. ker. Nagytétényi út 136-138.": {
+    "lat": 47.4052806,
+    "lon": 19.0127498,
+    "query_used": "1223 Budapest Nagytétényi út 136-138."
+  },
+  "1026 Budapest 02. ker. Kelemen László   14/A.": {
+    "lat": 47.5236179,
+    "lon": 18.9926742,
+    "query_used": "1026 Budapest Kelemen László 14/A."
+  },
+  "1136 Budapest 13. ker. Hegedűs Gyula utca 20/A.": {
+    "lat": 47.5149949,
+    "lon": 19.0542552,
+    "query_used": "1136 Budapest Hegedűs Gyula utca 20/A."
+  },
+  "1165 Budapest 16. ker. Újszász utca 47/b.": {
+    "lat": 47.5051983,
+    "lon": 19.2004373,
+    "query_used": "1165 Budapest Újszász utca 47/b."
+  },
+  "1104 Budapest 10. ker. Fehér út 1.": {
+    "lat": 47.50076,
+    "lon": 19.13701,
+    "query_used": "1104 Budapest Fehér út 1."
+  },
+  "1072 Budapest 07. ker. Rákóczi út 36.": {
+    "lat": 47.49665,
+    "lon": 19.0680572,
+    "query_used": "1072 Budapest Rákóczi út 36."
+  },
+  "1162 Budapest 16. ker. Állás   52.": {
+    "lat": 47.5306062,
+    "lon": 19.1979337,
+    "query_used": "1162 Budapest Állás 52."
+  },
+  "1164 Budapest, Alsómalom utca 8-10.": {
+    "lat": 47.5263713,
+    "lon": 19.2060963,
+    "query_used": "1164 Budapest, Alsómalom utca 8-10."
+  },
+  "1225 Budapest, Nagytétényi út 315.": {
+    "lat": 47.3904159,
+    "lon": 18.9807256,
+    "query_used": "1225 Budapest, Nagytétényi út 315."
+  },
+  "1146 Budapest 14. ker. Szabó József utca 6": {
+    "lat": 47.5040639,
+    "lon": 19.0926223,
+    "query_used": "1146 Budapest Szabó József utca 6"
+  },
+  "1148 Budapest 14. ker. Fogarasi út 47-51.": {
+    "lat": 47.5061812,
+    "lon": 19.1234544,
+    "query_used": "1148 Budapest Fogarasi út 47-51."
+  },
+  "1124 Budapest, Apor Vilmos tér 11.": {
+    "lat": 47.4911346,
+    "lon": 19.0118358,
+    "query_used": "1124 Budapest, Apor Vilmos tér 11."
+  },
+  "1121 Budapest, Eötvös út 6.": {
+    "lat": 47.4973499,
+    "lon": 18.9888402,
+    "query_used": "1121 Budapest, Eötvös út 6."
+  },
+  "1181 Budapest 18. ker. Kondor Béla sétány 9-11.": {
+    "lat": 47.4401794,
+    "lon": 19.1680745,
+    "query_used": "1181 Budapest Kondor Béla sétány 9-11."
+  },
+  "1085 Budapest 08. ker. József körút 84.": {
+    "lat": 47.4862991,
+    "lon": 19.0704206,
+    "query_used": "1085 Budapest József körút 84."
+  },
+  "1089 Budapest 08. ker. Bíró Lajos utca 64-68.": {
+    "lat": 47.4826306,
+    "lon": 19.0978792,
+    "query_used": "1089 Budapest Bíró Lajos utca 64-68."
+  },
+  "1054 Budapest 05. ker. Bajcsy Zs.   48.": {
+    "lat": 47.5092471,
+    "lon": 19.0553342,
+    "query_used": "1054 Budapest Bajcsy Zs."
+  },
+  "1023 Budapest 02. ker. Árpád Fejedelem útja 8.": {
+    "lat": 47.5198401,
+    "lon": 19.0371874,
+    "query_used": "1023 Budapest Árpád Fejedelem útja 8."
+  },
+  "1164 Budapest 16. ker. Ostoros utca 8.": {
+    "lat": 47.525968,
+    "lon": 19.201941,
+    "query_used": "1164 Budapest Ostoros utca"
+  },
+  "1116 Budapest 11. ker. Bartók Béla út 129.": {
+    "lat": 47.4711186,
+    "lon": 19.0282112,
+    "query_used": "1116 Budapest Bartók Béla út 129."
+  },
+  "1174 Budapest 17. ker. Szabad Május tér 1.": null,
+  "1148 Budapest 14. ker. Örs Vezér tere 24.": {
+    "lat": 47.5042436,
+    "lon": 19.1383429,
+    "query_used": "1148 Budapest Örs Vezér tere 24."
+  },
+  "1081 Budapest 08. ker. Népszinház utca 27": {
+    "lat": 47.4950597,
+    "lon": 19.075091,
+    "query_used": "1081 Budapest Népszinház utca 27"
+  },
+  "1156 Budapest 15. ker. Nyírpalota út 52": {
+    "lat": 47.5481468,
+    "lon": 19.1402884,
+    "query_used": "1156 Budapest Nyírpalota út 52"
+  },
+  "1096 Budapest 09. ker. Haller utca 15.": {
+    "lat": 47.4756805,
+    "lon": 19.0767808,
+    "query_used": "1096 Budapest Haller utca 15."
+  },
+  "1087 Budapest 08. ker. Kálvária tér 16.": {
+    "lat": 47.4890111,
+    "lon": 19.0877576,
+    "query_used": "1087 Budapest Kálvária tér 16."
+  },
+  "1075 Budapest 07. ker. Rumbach Sebestyén utca 20-22.": {
+    "lat": 47.4981939,
+    "lon": 19.0573341,
+    "query_used": "1075 Budapest Rumbach Sebestyén utca 20-22."
+  },
+  "1035 Budapest 03. ker. Szentendrei út 36/a": {
+    "lat": 47.5490164,
+    "lon": 19.0430926,
+    "query_used": "1035 Budapest Szentendrei út 36/a"
+  },
+  "1141 Budapest 14. ker. Stadionok metróállomás Kerepesi út felé": null,
+  "1086 Budapest 08. ker. Teleki tér 8-9": {
+    "lat": 47.4930695,
+    "lon": 19.0828251,
+    "query_used": "1086 Budapest Teleki tér 8-9"
+  },
+  "1027 Budapest 02. ker. Fő utca 92.": {
+    "lat": 47.5114387,
+    "lon": 19.0380616,
+    "query_used": "1027 Budapest Fő utca 92."
+  },
+  "1081 Budapest 08. ker. Kenyérmező utca 2.": {
+    "lat": 47.4988088,
+    "lon": 19.0772074,
+    "query_used": "1081 Budapest Kenyérmező utca 2."
+  },
+  "1106 Budapest 10. ker. Rézvirág utca 2.": {
+    "lat": 47.4844416,
+    "lon": 19.2041333,
+    "query_used": "1106 Budapest Rézvirág utca 2."
+  },
+  "1096 Budapest, Haller utca 8-18. B. ép. 1-7. lph. fszt. 4. ajtó": {
+    "lat": 47.4766571,
+    "lon": 19.080343,
+    "query_used": "1096 Budapest, Haller utca"
+  },
+  "3104 Salgótarján Budapesti út 57.": {
+    "lat": 48.0644506,
+    "lon": 19.7825358,
+    "query_used": "3104 Salgótarján Budapesti út 57."
+  },
+  "1114 Budapest 11. ker. Fadrusz utca 14.": {
+    "lat": 47.4754163,
+    "lon": 19.0431707,
+    "query_used": "1114 Budapest Fadrusz utca 14."
+  },
+  "1117 Budapest, Nádorliget utca 5/A. földszint 4. ajtó": {
+    "lat": 47.466035,
+    "lon": 19.0471848,
+    "query_used": "1117 Budapest, Nádorliget utca"
+  },
+  "1152 Budapest, Régi Fóti út 64.": {
+    "lat": 47.5617097,
+    "lon": 19.1225446,
+    "query_used": "1152 Budapest, Régi Fóti út 64."
+  },
+  "1148 Budapest, Vezér utca 148-150.": {
+    "lat": 47.5191494,
+    "lon": 19.1269685,
+    "query_used": "1148 Budapest, Vezér utca 148-150."
+  },
+  "1071 Budapest, Király utca 51.": {
+    "lat": 47.5021094,
+    "lon": 19.0631802,
+    "query_used": "1071 Budapest, Király utca 51."
+  },
+  "1135 Budapest, Lehel út 26.": {
+    "lat": 47.5211683,
+    "lon": 19.0695706,
+    "query_used": "1135 Budapest, Lehel út"
+  },
+  "1191 Budapest 19. ker. Templom tér 21.": {
+    "lat": 47.4536024,
+    "lon": 19.1427853,
+    "query_used": "1191 Budapest Templom tér 21."
+  },
+  "1042 Budapest 04. ker. Lebstück Mária utca 45.": {
+    "lat": 47.5606261,
+    "lon": 19.0929562,
+    "query_used": "1042 Budapest Lebstück Mária utca 45."
+  },
+  "1077 Budapest 07. ker. Wesselényi utca 61": {
+    "lat": 47.5026132,
+    "lon": 19.0726181,
+    "query_used": "1077 Budapest Wesselényi utca 61"
+  },
+  "1078 Budapest 07. ker. Nefelejcs utca 7": {
+    "lat": 47.5020498,
+    "lon": 19.0829038,
+    "query_used": "1078 Budapest Nefelejcs utca 7"
+  },
+  "1239 Budapest 23. ker. Haraszti út 26.": {
+    "lat": 47.391223,
+    "lon": 19.1141411,
+    "query_used": "1239 Budapest Haraszti út 26."
+  },
+  "1103 Budapest, Gyömröi út 99.": {
+    "lat": 47.4665074,
+    "lon": 19.1558837,
+    "query_used": "1103 Budapest, Gyömröi út 99."
+  },
+  "1046 Budapest 04. ker. Nádor   38. fszt.": {
+    "lat": 47.5694647,
+    "lon": 19.0927306,
+    "query_used": "1046 Budapest Nádor 38."
+  },
+  "1188 Budapest 18. ker. Nagykőrösi út 35.": {
+    "lat": 47.4066577,
+    "lon": 19.182006,
+    "query_used": "1188 Budapest Nagykőrösi út 35."
+  },
+  "1185 Budapest 18. ker. Üllői út 610. hrsz.:159374": {
+    "lat": 47.4290413,
+    "lon": 19.2183603,
+    "query_used": "1185 Budapest Üllői út"
+  },
+  "1181 Budapest 18. ker. Barta Lajos utca 151159/20.": {
+    "lat": 47.4390571,
+    "lon": 19.1667332,
+    "query_used": "1181 Budapest Barta Lajos utca"
+  },
+  "1186 Budapest 18. ker. Goroszló utca 15. G-61.": {
+    "lat": 47.4321879,
+    "lon": 19.1740871,
+    "query_used": "1186 Budapest Goroszló utca 15. G-61."
+  },
+  "1181 Budapest, Üllői út 459.": {
+    "lat": 47.4424166,
+    "lon": 19.1798929,
+    "query_used": "1181 Budapest, Üllői út 459."
+  },
+  "1173 Budapest 17. ker. Pesti út 4.": {
+    "lat": 47.4846721,
+    "lon": 19.2291659,
+    "query_used": "1173 Budapest Pesti út 4."
+  },
+  "1193 Budapest 19. ker. Üllői út 266.": {
+    "lat": 47.4533708,
+    "lon": 19.1573703,
+    "query_used": "1193 Budapest Üllői út 266."
+  },
+  "1203 Budapest, Kossuth Lajos utca 33. hrsz. 170204/97.": {
+    "lat": 47.435287,
+    "lon": 19.0986446,
+    "query_used": "1203 Budapest, Kossuth Lajos utca"
+  },
+  "1146 Budapest 14. ker. Thököly utca 96.": {
+    "lat": 47.5218259,
+    "lon": 19.1486506,
+    "query_used": "1146 Budapest Thököly utca 96."
+  },
+  "1203 Budapest, Kossuth Lajos utca 33.": {
+    "lat": 47.4377789,
+    "lon": 19.1017446,
+    "query_used": "1203 Budapest, Kossuth Lajos utca 33."
+  },
+  "1184 Budapest, Lakatos út 7.": {
+    "lat": 47.4504701,
+    "lon": 19.1727603,
+    "query_used": "1184 Budapest, Lakatos út 7."
+  },
+  "1158 Budapest 15. ker. Drégelyvár utca 57-63.": {
+    "lat": 47.5355,
+    "lon": 19.1333,
+    "query_used": "1158 Budapest Drégelyvár utca 57-63."
+  },
+  "1214 Budapest 21. ker. Vas Gereben utca 1": {
+    "lat": 47.4861544,
+    "lon": 19.0159682,
+    "query_used": "1214 Budapest Vas Gereben utca 1"
+  },
+  "1083 Budapest, Baross utca 111.": {
+    "lat": 47.4884615,
+    "lon": 19.0831458,
+    "query_used": "1083 Budapest, Baross utca 111."
+  },
+  "1039 Budapest, Hatvany Lajos utca 10.": {
+    "lat": 47.599336,
+    "lon": 19.0643427,
+    "query_used": "1039 Budapest, Hatvany Lajos utca 10."
+  },
+  "1035 Budapest, Vihar utca 17.": {
+    "lat": 47.5464269,
+    "lon": 19.0384536,
+    "query_used": "1035 Budapest, Vihar utca 17."
+  },
+  "1157 Budapest 15. ker. Erdőkerülő út 1-7": {
+    "lat": 47.5414952,
+    "lon": 19.151405,
+    "query_used": "1157 Budapest Erdőkerülő út"
+  },
+  "1211 Budapest 21. ker. Kossuth Lajos utca 70.": {
+    "lat": 47.4279149,
+    "lon": 19.0704305,
+    "query_used": "1211 Budapest Kossuth Lajos utca 70."
+  },
+  "1211 Budapest 21. ker. Karácsony Sándor utca 19.": {
+    "lat": 47.4266571,
+    "lon": 19.0688316,
+    "query_used": "1211 Budapest Karácsony Sándor utca 19."
+  },
+  "1158 Budapest 15. ker. Drégelyvár - Molnár Viktor utca sarok": null,
+  "1237 Budapest 23. ker. Grassalkovich utca 37.": {
+    "lat": 47.4057268,
+    "lon": 19.1126756,
+    "query_used": "1237 Budapest Grassalkovich utca"
+  },
+  "1021 Budapest, Hűvösvölgyi út 138.": {
+    "lat": 47.5380511,
+    "lon": 18.9660184,
+    "query_used": "1021 Budapest, Hűvösvölgyi út 138."
+  },
+  "1165 Budapest 16. ker. Centenárium sétány 16-24.": {
+    "lat": 47.5170246,
+    "lon": 19.1840238,
+    "query_used": "1165 Budapest Centenárium sétány 16-24."
+  },
+  "1051 Budapest 05. ker. József A. utca 16.": {
+    "lat": 47.4693192,
+    "lon": 19.1103322,
+    "query_used": "1051 Budapest József A. utca"
+  },
+  "1191 Budapest 19. ker. Simonyi Zsigmond utca 31.": {
+    "lat": 47.4600636,
+    "lon": 19.1516626,
+    "query_used": "1191 Budapest Simonyi Zsigmond utca 31."
+  },
+  "1152 Budapest 15. ker. Szentmihályi út 167-169.": {
+    "lat": 47.5493423,
+    "lon": 19.1471397,
+    "query_used": "1152 Budapest Szentmihályi út 167-169."
+  },
+  "1044 Budapest 04. ker. Garam utca 3.": {
+    "lat": 47.5700339,
+    "lon": 19.0788992,
+    "query_used": "1044 Budapest Garam utca 3."
+  },
+  "1182 Budapest 18. ker. Üllői út 661.": {
+    "lat": 47.4333896,
+    "lon": 19.2017421,
+    "query_used": "1182 Budapest Üllői út 661."
+  },
+  "1186 Budapest, Csontváry Kosztka Tivadar utca 46.": {
+    "lat": 47.4358695,
+    "lon": 19.1675043,
+    "query_used": "1186 Budapest, Csontváry Kosztka Tivadar utca 46."
+  },
+  "1151 Budapest, Károlyi Sándor út 126.": {
+    "lat": 47.5805467,
+    "lon": 19.1274295,
+    "query_used": "1151 Budapest, Károlyi Sándor út 126."
+  },
+  "1149 Budapest, Egressy út 108.": {
+    "lat": 47.5140586,
+    "lon": 19.1184991,
+    "query_used": "1149 Budapest, Egressy út 108."
+  },
+  "1203 Budapest, Széchenyi utca 3-5. C. lépcsőház földszint": {
+    "lat": 47.502775,
+    "lon": 19.0471573,
+    "query_used": "1203 Budapest, Széchenyi utca"
+  },
+  "1037 Budapest 03. ker. Bécsi út 319.": {
+    "lat": 47.553687,
+    "lon": 19.0281633,
+    "query_used": "1037 Budapest Bécsi út 319."
+  },
+  "1201 Budapest 20. ker. Vörösmarty utca 72-76": {
+    "lat": 47.4306403,
+    "lon": 19.1086026,
+    "query_used": "1201 Budapest Vörösmarty utca 72-76"
+  },
+  "1163 Budapest, Timur utca 96.": {
+    "lat": 47.5319753,
+    "lon": 19.1886004,
+    "query_used": "1163 Budapest, Timur utca 96."
+  },
+  "1171 Budapest, Zrínyi út - Pesti út sarok 1.": null,
+  "1171 Budapest 17. ker. Ujlak-Sima utca sarok 0.": null,
+  "1095 Budapest 09. ker. Boráros téri aluljáró felső szint 3.": null,
+  "1086 Budapest 08. ker. Teleki László tér 8-9 fsz 22.": {
+    "lat": 47.4941868,
+    "lon": 19.0854717,
+    "query_used": "1086 Budapest Teleki László tér"
+  },
+  "1223 Budapest, Kelenvölgyi utca 4.": {
+    "lat": 47.4307356,
+    "lon": 19.0039805,
+    "query_used": "1223 Budapest, Kelenvölgyi utca 4."
+  },
+  "1192 Budapest 19. ker. Kós Károly tér 1.": {
+    "lat": 47.4562161,
+    "lon": 19.1273496,
+    "query_used": "1192 Budapest Kós Károly tér 1."
+  },
+  "1212 Budapest 21. ker. II. Rákóczi Ferenc utca 167.": {
+    "lat": 47.4603647,
+    "lon": 19.2325286,
+    "query_used": "1212 Budapest II. Rákóczi Ferenc utca 167."
+  },
+  "1139 Budapest 13. ker. Fáy utca 4.": {
+    "lat": 47.5378393,
+    "lon": 19.0707463,
+    "query_used": "1139 Budapest Fáy utca 4."
+  },
+  "1137 Budapest 13. ker. Szent István körút 20": {
+    "lat": 47.5118699,
+    "lon": 19.0527211,
+    "query_used": "1137 Budapest Szent István körút 20"
+  },
+  "1054 Budapest, Báthory utca 8.": {
+    "lat": 47.5063865,
+    "lon": 19.0501372,
+    "query_used": "1054 Budapest, Báthory utca 8."
+  },
+  "1051 Budapest, Nádor utca 14. földszint": {
+    "lat": 47.5009379,
+    "lon": 19.0490503,
+    "query_used": "1051 Budapest, Nádor utca 14."
+  },
+  "1051 Budapest 05. ker. Hercegprímás utca 2.": {
+    "lat": 47.4993371,
+    "lon": 19.0532163,
+    "query_used": "1051 Budapest Hercegprímás utca 2."
+  },
+  "1052 Budapest 05. ker. Régiposta utca 7-9.": null,
+  "1051 Budapest 05. ker. Erzsébet tér 7-8": {
+    "lat": 47.4970308,
+    "lon": 19.0520833,
+    "query_used": "1051 Budapest Erzsébet tér 7-8"
+  },
+  "1052 Budapest 05. ker. Ferenciek tere 10.": {
+    "lat": 47.4933191,
+    "lon": 19.0551535,
+    "query_used": "1052 Budapest Ferenciek tere 10."
+  },
+  "1052 Budapest 05. ker. Deák tér metróállomás felszíni csarnok": null,
+  "1063 Budapest 06. ker. Izabella utca 81.": {
+    "lat": 47.5101505,
+    "lon": 19.0641554,
+    "query_used": "1063 Budapest Izabella utca 81."
+  },
+  "1088 Budapest 08. ker. Rákóczi út 1-3.": {
+    "lat": 47.4941044,
+    "lon": 19.0608909,
+    "query_used": "1088 Budapest Rákóczi út 1-3."
+  },
+  "1067 Budapest 06. ker. Hunyadi tér 2.": {
+    "lat": 47.5056379,
+    "lon": 19.066108,
+    "query_used": "1067 Budapest Hunyadi tér 2."
+  },
+  "1073 Budapest 07. ker. Dob utca 66.": {
+    "lat": 47.50233,
+    "lon": 19.0675261,
+    "query_used": "1073 Budapest Dob utca 66."
+  },
+  "1146 Budapest, Kacsóh Pongrác út 9-23.": {
+    "lat": 47.5198991,
+    "lon": 19.091354,
+    "query_used": "1146 Budapest, Kacsóh Pongrác út 9-23."
+  },
+  "1136 Budapest 13. ker. Hollán Ernő utca 4.": {
+    "lat": 47.5134291,
+    "lon": 19.0493698,
+    "query_used": "1136 Budapest Hollán Ernő utca 4."
+  },
+  "1034 Budapest, Szentlélek tér 3.": {
+    "lat": 47.5404036,
+    "lon": 19.0453618,
+    "query_used": "1034 Budapest, Szentlélek tér 3."
+  },
+  "1033 Budapest, Szentendrei út 95.": {
+    "lat": 47.5575912,
+    "lon": 19.0464803,
+    "query_used": "1033 Budapest, Szentendrei út 95."
+  },
+  "1075 Budapest 07. ker. Károly körút 21.": {
+    "lat": 47.4974471,
+    "lon": 19.0561503,
+    "query_used": "1075 Budapest Károly körút 21."
+  },
+  "1173 Budapest 17. ker. Kaszáló utca 47.": {
+    "lat": 47.481151,
+    "lon": 19.255627,
+    "query_used": "1173 Budapest Kaszáló utca 47."
+  },
+  "1173 Budapest, Pesti út 169.": {
+    "lat": 47.4755481,
+    "lon": 19.2658512,
+    "query_used": "1173 Budapest, Pesti út 169."
+  },
+  "1131 Budapest 13. ker. Váci út 141-143.": {
+    "lat": 47.5493358,
+    "lon": 19.0734595,
+    "query_used": "1131 Budapest Váci út 141-143."
+  },
+  "1138 Budapest 13. ker. Váci út 178.": {
+    "lat": 47.5491218,
+    "lon": 19.0726388,
+    "query_used": "1138 Budapest Váci út 178., Hungary"
+  },
+  "1181 Budapest 18. ker. Baross utca 50.": {
+    "lat": 47.4382723,
+    "lon": 19.1718185,
+    "query_used": "1181 Budapest Baross utca 50."
+  },
+  "1195 Budapest 19. ker. Üllői út 248": {
+    "lat": 47.45517,
+    "lon": 19.15263,
+    "query_used": "1195 Budapest Üllői út 248"
+  },
+  "1171 Budapest, Kispajtás utca 1.": {
+    "lat": 47.4718861,
+    "lon": 19.2843351,
+    "query_used": "1171 Budapest, Kispajtás utca 1."
+  },
+  "1103 Budapest, Gergely utca 38.": {
+    "lat": 47.477266,
+    "lon": 19.1390231,
+    "query_used": "1103 Budapest, Gergely utca 38., Hungary"
+  },
+  "1103 Budapest, Gyömrői út 48.": {
+    "lat": 47.4605807,
+    "lon": 19.1699126,
+    "query_used": "1103 Budapest, Gyömrői út 48."
+  },
+  "1181 Budapest 18. ker. Margó Tivadar utca 9.": {
+    "lat": 47.4465974,
+    "lon": 19.1679389,
+    "query_used": "1181 Budapest Margó Tivadar utca 9."
+  },
+  "1083 Budapest 08. ker. Illés utca 22.": {
+    "lat": 47.4860097,
+    "lon": 19.0854003,
+    "query_used": "1083 Budapest Illés utca 22."
+  },
+  "1194 Budapest, Hofherr Albert utca 42.": {
+    "lat": 47.4372615,
+    "lon": 19.1450491,
+    "query_used": "1194 Budapest, Hofherr Albert utca 42."
+  },
+  "1173 Budapest, Pesti út 2.": {
+    "lat": 47.4855536,
+    "lon": 19.2250458,
+    "query_used": "1173 Budapest, Pesti út 2."
+  },
+  "1154 Budapest 15. ker. Széchenyi utca 2.": {
+    "lat": 47.4603871,
+    "lon": 19.1367029,
+    "query_used": "1154 Budapest Széchenyi utca 2."
+  },
+  "1046 Budapest 04. ker. Szent Imre utca 1.": {
+    "lat": 47.5667342,
+    "lon": 19.0974547,
+    "query_used": "1046 Budapest Szent Imre utca 1."
+  },
+  "1072 Budapest 07. ker. Rákóczi út 6.": {
+    "lat": 47.4950798,
+    "lon": 19.0611428,
+    "query_used": "1072 Budapest Rákóczi út 6."
+  },
+  "1071 Budapest 07. ker. Wesselényi utca 2.": {
+    "lat": 47.4961317,
+    "lon": 19.0597987,
+    "query_used": "1071 Budapest Wesselényi utca 2."
+  },
+  "1082 Budapest 08. ker. Baross utca 96. fsz. 4.": {
+    "lat": 47.4893507,
+    "lon": 19.0786054,
+    "query_used": "1082 Budapest Baross utca"
+  },
+  "1188 Budapest 18. ker. Nagykőrösi út 5/B.": {
+    "lat": 47.4123999,
+    "lon": 19.1748003,
+    "query_used": "1188 Budapest Nagykőrösi út 5/B."
+  },
+  "1183 Budapest 18. ker. Nefelejcs utca 89/A": {
+    "lat": 47.4471883,
+    "lon": 19.1907155,
+    "query_used": "1183 Budapest Nefelejcs utca 89/A"
+  },
+  "1184 Budapest 18. ker. Üllői út 440-442.": {
+    "lat": 47.4404538,
+    "lon": 19.1856359,
+    "query_used": "1184 Budapest Üllői út 440-442."
+  },
+  "1186 Budapest 18. ker. Goroszló utca 4.": {
+    "lat": 47.430282,
+    "lon": 19.1746191,
+    "query_used": "1186 Budapest Goroszló utca 4."
+  },
+  "1186 Budapest 18. ker. Méta   156140/16": {
+    "lat": 47.4264919,
+    "lon": 19.161476,
+    "query_used": "1186 Budapest Méta"
+  },
+  "1106 Budapest 10. ker. Maglódi út 17.": {
+    "lat": 47.4859148,
+    "lon": 19.1534022,
+    "query_used": "1106 Budapest Maglódi út 17."
+  },
+  "1024 Budapest 02. ker. Lövőház utca 17.": {
+    "lat": 47.5097722,
+    "lon": 19.0250494,
+    "query_used": "1024 Budapest Lövőház utca 17."
+  },
+  "1027 Budapest 02. ker. Csalogány utca 53": {
+    "lat": 47.5083203,
+    "lon": 19.0285727,
+    "query_used": "1027 Budapest Csalogány utca 53"
+  },
+  "1191 Budapest 19. ker. József Attila utca 57-63.": {
+    "lat": 47.4558766,
+    "lon": 19.1422951,
+    "query_used": "1191 Budapest József Attila utca 57-63."
+  },
+  "1148 Budapest, Fogarasi utca 18.": {
+    "lat": 47.4038975,
+    "lon": 19.0850284,
+    "query_used": "1148 Budapest, Fogarasi utca 18."
+  },
+  "1048 Budapest, Óceánárok utca 5.": {
+    "lat": 47.57908,
+    "lon": 19.11458,
+    "query_used": "1048 Budapest, Óceánárok utca 5."
+  },
+  "6723 Szeged Budapesti körút 1.": {
+    "lat": 46.267224,
+    "lon": 20.1677717,
+    "query_used": "6723 Szeged Budapesti körút 1."
+  },
+  "1062 Budapest, Andrássy út 84.": {
+    "lat": 47.5090376,
+    "lon": 19.0684859,
+    "query_used": "1062 Budapest, Andrássy út 84."
+  },
+  "1061 Budapest 06. ker. Anker köz 1-3.": {
+    "lat": 47.4980823,
+    "lon": 19.0550881,
+    "query_used": "1061 Budapest Anker köz 1-3."
+  },
+  "1165 Budapest 16. ker. Jókai Mór utca 2.": {
+    "lat": 47.5105724,
+    "lon": 19.1909321,
+    "query_used": "1165 Budapest Jókai Mór utca 2."
+  },
+  "1157 Budapest 15. ker. Legénybíró utca 2.": {
+    "lat": 47.5405736,
+    "lon": 19.1417147,
+    "query_used": "1157 Budapest Legénybíró utca 2."
+  },
+  "1061 Budapest 06. ker. Király   28.": {
+    "lat": 47.499939,
+    "lon": 19.0590654,
+    "query_used": "1061 Budapest Király 28."
+  },
+  "1138 Budapest, Váci út 134/C.": {
+    "lat": 47.5350365,
+    "lon": 19.0674119,
+    "query_used": "1138 Budapest, Váci út 134/C."
+  },
+  "1137 Budapest, Szent István körút 12.": {
+    "lat": 47.5127135,
+    "lon": 19.0508724,
+    "query_used": "1137 Budapest, Szent István körút 12."
+  },
+  "1118 Budapest 11. ker. Budaörsi út 115.": {
+    "lat": 47.4673564,
+    "lon": 19.0163548,
+    "query_used": "1118 Budapest Budaörsi út 115."
+  },
+  "1071 Budapest 07. ker. Damjanich utca 32.": {
+    "lat": 47.5078954,
+    "lon": 19.0783952,
+    "query_used": "1071 Budapest Damjanich utca 32."
+  },
+  "1146 Budapest 14. ker. Thököly utca 151/c.": {
+    "lat": 47.5218259,
+    "lon": 19.1486506,
+    "query_used": "1146 Budapest Thököly utca 151/c."
+  },
+  "1162 Budapest 16. ker. Budapesti út 119/D": {
+    "lat": 47.5228027,
+    "lon": 19.1855988,
+    "query_used": "1162 Budapest Budapesti út 119/D"
+  },
+  "1162 Budapest 16. ker. Szlovák út 82.": {
+    "lat": 47.5335929,
+    "lon": 19.1845708,
+    "query_used": "1162 Budapest Szlovák út 82."
+  },
+  "1111 Budapest 11. ker. Móricz Zsigmond körtér 2": {
+    "lat": 47.4781101,
+    "lon": 19.0475704,
+    "query_used": "1111 Budapest Móricz Zsigmond körtér 2"
+  },
+  "1111 Budapest 11. ker. Karinthy Frigyes út 4/6": {
+    "lat": 47.4777605,
+    "lon": 19.0488838,
+    "query_used": "1111 Budapest Karinthy Frigyes út 4/6, Hungary"
+  },
+  "1115 Budapest 11. ker. Etele tér 5.": {
+    "lat": 47.4656931,
+    "lon": 19.0229056,
+    "query_used": "1115 Budapest Etele tér 5."
+  },
+  "1191 Budapest 19. ker. M3 metróvonal Kőbánya-Kispest állomás": null,
+  "1042 Budapest 04. ker. Rózsa utca Munkásotthon utca sarok": null,
+  "1077 Budapest, Bethlen Gábor utca 8.": {
+    "lat": 47.5016576,
+    "lon": 19.0809748,
+    "query_used": "1077 Budapest, Bethlen Gábor utca 8."
+  },
+  "1084 Budapest 08. ker. József körút 48.": {
+    "lat": 47.4900255,
+    "lon": 19.0711182,
+    "query_used": "1084 Budapest József körút 48."
+  },
+  "1131 Budapest 13. ker. Szent László utca 152.": {
+    "lat": 47.4223777,
+    "lon": 19.1250795,
+    "query_used": "1131 Budapest Szent László utca 152."
+  },
+  "6723 Szeged, Budapesti körút 38.": {
+    "lat": 46.2728915,
+    "lon": 20.1603547,
+    "query_used": "6723 Szeged, Budapesti körút 38."
+  },
+  "1043 Budapest 04. ker. Berda József utca 50-54.": {
+    "lat": 47.5562054,
+    "lon": 19.0852511,
+    "query_used": "1043 Budapest Berda József utca 50-54."
+  },
+  "1047 Budapest 04. ker. Attila utca 12-18. A épület fszt. 4.": {
+    "lat": 47.5729124,
+    "lon": 19.0947174,
+    "query_used": "1047 Budapest Attila utca"
+  },
+  "1142 Budapest, Erzsébet királyné útja 60. B. ép.": {
+    "lat": 47.5327393,
+    "lon": 19.1107884,
+    "query_used": "1142 Budapest, Erzsébet királyné útja"
+  },
+  "1143 Budapest, Ilka utca 25.": {
+    "lat": 47.5081994,
+    "lon": 19.0984849,
+    "query_used": "1143 Budapest, Ilka utca 25."
+  },
+  "1142 Budapest 14. ker. Nagy Lajos Király 82/B": {
+    "lat": 47.5119623,
+    "lon": 19.1244021,
+    "query_used": "1142 Budapest Nagy Lajos Király 82/B"
+  },
+  "1191 Budapest, Határ út M3 metrómegálló 150. üzlet": null,
+  "1039 Budapest, Rákóczi utca 36.": {
+    "lat": 47.5812271,
+    "lon": 19.0499247,
+    "query_used": "1039 Budapest, Rákóczi utca 36."
+  },
+  "1096 Budapest 09. ker. Viola utca 35. 8/B.": {
+    "lat": 47.4816326,
+    "lon": 19.0761885,
+    "query_used": "1096 Budapest Viola utca"
+  },
+  "1195 Budapest, Városház tér 6.": {
+    "lat": 47.4273877,
+    "lon": 19.0400622,
+    "query_used": "1195 Budapest, Városház tér 6."
+  },
+  "1097 Budapest, 38236/202. hrsz.": {
+    "lat": 47.4978789,
+    "lon": 19.0402383,
+    "query_used": "1097 Budapest, 38236/202."
+  },
+  "1098 Budapest 09. ker. Napfény utca 2.": {
+    "lat": 47.4633741,
+    "lon": 19.1153395,
+    "query_used": "1098 Budapest Napfény utca 2."
+  },
+  "1097 Budapest 09. ker. Mester utca 22.": {
+    "lat": 47.4806769,
+    "lon": 19.070761,
+    "query_used": "1097 Budapest Mester utca 22."
+  },
+  "1097 Budapest, Illatos út 1.": {
+    "lat": 47.4550324,
+    "lon": 19.1010363,
+    "query_used": "1097 Budapest, Illatos út 1."
+  },
+  "1064 Budapest, Vörösmarty utca 63.": {
+    "lat": 47.5097218,
+    "lon": 19.0630381,
+    "query_used": "1064 Budapest, Vörösmarty utca 63."
+  },
+  "1113 Budapest 11. ker. Karolina út 37/a": {
+    "lat": 47.4779559,
+    "lon": 19.031664,
+    "query_used": "1113 Budapest Karolina út 37/a"
+  },
+  "1106 Budapest 10. ker. Kerepesi   73.": {
+    "lat": 47.50469,
+    "lon": 19.15082,
+    "query_used": "1106 Budapest Kerepesi 73."
+  },
+  "1117 Budapest, Hengermalom út 16.": {
+    "lat": 47.4620357,
+    "lon": 19.0472123,
+    "query_used": "1117 Budapest, Hengermalom út 16."
+  },
+  "1116 Budapest, XI.ker 43903/2/A/28. címképzés alatt": {
+    "lat": 47.5093347,
+    "lon": 19.0378502,
+    "query_used": "1116 Budapest, XI.ker"
+  },
+  "1119 Budapest, Etele út 32.": {
+    "lat": 47.4629616,
+    "lon": 19.0357019,
+    "query_used": "1119 Budapest, Etele út 32."
+  },
+  "1032 Budapest, Kiscelli utca 2.": {
+    "lat": 47.5389186,
+    "lon": 19.0390974,
+    "query_used": "1032 Budapest, Kiscelli utca 2."
+  },
+  "1212 Budapest 21. ker. Szebeni utca 2.": {
+    "lat": 47.4203202,
+    "lon": 19.0735118,
+    "query_used": "1212 Budapest Szebeni utca 2."
+  },
+  "1185 Budapest, BUD\n Nemzetközi Repülőtér T 2 A\n 1.106 üzlet (érkezési szint)": null,
+  "1048 Budapest 04. ker. Megyeri út 205. C ép.": {
+    "lat": 47.5939294,
+    "lon": 19.1136692,
+    "query_used": "1048 Budapest Megyeri út"
+  },
+  "1039 Budapest, Csobánka tér 3.": {
+    "lat": 47.59879,
+    "lon": 19.05222,
+    "query_used": "1039 Budapest, Csobánka tér 3."
+  },
+  "1033 Budapest, Zab utca 10.": {
+    "lat": 47.5537621,
+    "lon": 19.0415155,
+    "query_used": "1033 Budapest, Zab utca 10."
+  },
+  "1092 Budapest 09. ker. Bakáts tér 2.": {
+    "lat": 47.4827489,
+    "lon": 19.0660808,
+    "query_used": "1092 Budapest Bakáts tér 2."
+  },
+  "1082 Budapest, Baross utca 70-72.": {
+    "lat": 47.4897054,
+    "lon": 19.0764143,
+    "query_used": "1082 Budapest, Baross utca 70-72."
+  },
+  "1076 Budapest, Garay tér 3-4.": {
+    "lat": 47.503821,
+    "lon": 19.084932,
+    "query_used": "1076 Budapest, Garay tér 3-4."
+  },
+  "1171 Budapest 17. ker. Péceli út 147.": {
+    "lat": 47.4915674,
+    "lon": 19.2957259,
+    "query_used": "1171 Budapest Péceli út 147."
+  },
+  "1154 Budapest 15. ker. Bezerédi Pál utca 136.": null,
+  "1138 Budapest, Váci út 165.": {
+    "lat": 47.551185,
+    "lon": 19.0745154,
+    "query_used": "1138 Budapest, Váci út 165."
+  },
+  "1163 Budapest 16. ker. Veres Péter utca 15/c.": {
+    "lat": 47.5135015,
+    "lon": 19.1994922,
+    "query_used": "1163 Budapest Veres Péter utca"
+  },
+  "1117 Budapest, Völgycsillag utca 2.": {
+    "lat": 47.4677956,
+    "lon": 19.0560959,
+    "query_used": "1117 Budapest, Völgycsillag utca 2."
+  },
+  "1039 Budapest, Szentendrei út 251-253": {
+    "lat": 47.5805435,
+    "lon": 19.0484034,
+    "query_used": "1039 Budapest, Szentendrei út 251-253"
+  },
+  "3104 Salgótarján Budapesti út 6363 hrsz.": {
+    "lat": 48.0644506,
+    "lon": 19.7825358,
+    "query_used": "3104 Salgótarján Budapesti út 6363."
+  },
+  "1144 Budapest, Szentmihályi út 23.": {
+    "lat": 47.5091972,
+    "lon": 19.1492602,
+    "query_used": "1144 Budapest, Szentmihályi út 23."
+  },
+  "1072 Budapest, Akácfa utca 16.": {
+    "lat": 47.4982375,
+    "lon": 19.067641,
+    "query_used": "1072 Budapest, Akácfa utca 16."
+  },
+  "1174 Budapest 17. ker. Baross utca 2.": {
+    "lat": 47.4678676,
+    "lon": 19.2442122,
+    "query_used": "1174 Budapest Baross utca 2."
+  },
+  "1077 Budapest 07. ker. Király utca 91.": {
+    "lat": 47.5056337,
+    "lon": 19.0697456,
+    "query_used": "1077 Budapest Király utca 91."
+  },
+  "1117 Budapest 11. ker. Budafoki út 113.": {
+    "lat": 47.4619522,
+    "lon": 19.0519852,
+    "query_used": "1117 Budapest Budafoki út 113."
+  },
+  "1116 Budapest 11. ker. Fehérvári út 118/A": {
+    "lat": 47.4582753,
+    "lon": 19.0410356,
+    "query_used": "1116 Budapest Fehérvári út 118/A"
+  },
+  "1103 Budapest 10. ker. Sibrik Miklós utca 23.": {
+    "lat": 47.4684737,
+    "lon": 19.1557584,
+    "query_used": "1103 Budapest Sibrik Miklós utca"
+  },
+  "1104 Budapest, Sörgyár utca 75.": {
+    "lat": 47.4788834,
+    "lon": 19.1588043,
+    "query_used": "1104 Budapest, Sörgyár utca 75."
+  },
+  "1118 Budapest 11. ker. Nagyszeben tér 2. Fsz.": {
+    "lat": 47.4662268,
+    "lon": 19.0038315,
+    "query_used": "1118 Budapest Nagyszeben tér 2."
+  },
+  "1165 Budapest 16. ker. Újszász utca 45/B   G épület": {
+    "lat": 47.5052033,
+    "lon": 19.1975464,
+    "query_used": "1165 Budapest Újszász utca 45/B G épület"
+  },
+  "1158 Budapest, Késmárk utca 7/B.": {
+    "lat": 47.536683,
+    "lon": 19.1386541,
+    "query_used": "1158 Budapest, Késmárk utca 7/B."
+  },
+  "1086 Budapest, Karácsony Sándor utca 19. A. lph. fsz.": {
+    "lat": 47.4909038,
+    "lon": 19.0848894,
+    "query_used": "1086 Budapest, Karácsony Sándor utca"
+  },
+  "1043 Budapest 04. ker. Nap   16.": {
+    "lat": 47.5550075,
+    "lon": 19.0948337,
+    "query_used": "1043 Budapest Nap 16."
+  },
+  "1039 Budapest 03. ker. Heltai Jenő tér 2.": {
+    "lat": 47.5976203,
+    "lon": 19.0567728,
+    "query_used": "1039 Budapest Heltai Jenő tér 2."
+  },
+  "1124 Budapest 12. ker. Kiss János altábornagy utca 50/a": {
+    "lat": 47.4920489,
+    "lon": 19.0160993,
+    "query_used": "1124 Budapest Kiss János altábornagy utca 50/a"
+  },
+  "1123 Budapest 12. ker. Alkotás utca 13.": {
+    "lat": 47.498703,
+    "lon": 19.0236145,
+    "query_used": "1123 Budapest Alkotás utca 13."
+  },
+  "1184 Budapest 18. ker. Havanna utca 44": {
+    "lat": 47.4394336,
+    "lon": 19.165275,
+    "query_used": "1184 Budapest Havanna utca 44"
+  },
+  "1123 Budapest 12. ker. Alkotás utca 53.": {
+    "lat": 47.4907769,
+    "lon": 19.0231462,
+    "query_used": "1123 Budapest Alkotás utca 53."
+  },
+  "1181 Budapest 18. ker. Csontváry utca 23.": {
+    "lat": 47.4386006,
+    "lon": 19.1685653,
+    "query_used": "1181 Budapest Csontváry utca 23."
+  },
+  "1213 Budapest, Szent István út 190/A.": {
+    "lat": 47.4003606,
+    "lon": 19.0957691,
+    "query_used": "1213 Budapest, Szent István út 190/A."
+  },
+  "1223 Budapest 22. ker. Közgazdász utca 4.": {
+    "lat": 47.4087276,
+    "lon": 19.0157236,
+    "query_used": "1223 Budapest Közgazdász utca 4."
+  },
+  "1214 Budapest 21. ker. Nyírfa utca 27": {
+    "lat": 47.4145306,
+    "lon": 19.0680135,
+    "query_used": "1214 Budapest Nyírfa utca 27"
+  },
+  "1213 Budapest, Erdősor utca 133.": {
+    "lat": 47.4085844,
+    "lon": 19.0730314,
+    "query_used": "1213 Budapest, Erdősor utca 133."
+  },
+  "1221 Budapest 22. ker. Leányka utca 13.": {
+    "lat": 47.4328549,
+    "lon": 19.0367418,
+    "query_used": "1221 Budapest Leányka utca 13."
+  },
+  "1221 Budapest 22. ker. Arany János utca 55.": {
+    "lat": 47.4296301,
+    "lon": 19.0205562,
+    "query_used": "1221 Budapest Arany János utca 55."
+  },
+  "1183 Budapest 18. ker. Balassa Bálint utca 2-10.": {
+    "lat": 47.4427584,
+    "lon": 19.1842145,
+    "query_used": "1183 Budapest Balassa Bálint utca 2-10."
+  },
+  "1201 Budapest 20. ker. Török Flóris utca 240.": {
+    "lat": 47.4232608,
+    "lon": 19.1240783,
+    "query_used": "1201 Budapest Török Flóris utca 240."
+  },
+  "1204 Budapest 20. ker. Orsolya utca 17.": {
+    "lat": 47.428891,
+    "lon": 19.127252,
+    "query_used": "1204 Budapest Orsolya utca 17."
+  },
+  "1204 Budapest 20. ker. Tátra tér 1.": {
+    "lat": 47.4413283,
+    "lon": 19.1130441,
+    "query_used": "1204 Budapest Tátra tér 1."
+  },
+  "1204 Budapest 20. ker. Nagysándor József utca 59.": {
+    "lat": 47.4357206,
+    "lon": 19.1094274,
+    "query_used": "1204 Budapest Nagysándor József utca 59."
+  },
+  "1118 Budapest 11. ker. Gazdagréti tér 8.": {
+    "lat": 47.4730483,
+    "lon": 18.9931073,
+    "query_used": "1118 Budapest Gazdagréti tér 8."
+  },
+  "1122 Budapest, Krisztina körút 7.": {
+    "lat": 47.5060471,
+    "lon": 19.0228311,
+    "query_used": "1122 Budapest, Krisztina körút 7."
+  },
+  "1088 Budapest, Rákóczi út 25.": {
+    "lat": 47.4953237,
+    "lon": 19.0657471,
+    "query_used": "1088 Budapest, Rákóczi út 25."
+  },
+  "1024 Budapest 02. ker. Margit körút 105.": {
+    "lat": 47.5078221,
+    "lon": 19.0243111,
+    "query_used": "1024 Budapest Margit körút 105."
+  },
+  "1024 Budapest 02. ker. Margit körút 50-52.": {
+    "lat": 47.5107661,
+    "lon": 19.0319511,
+    "query_used": "1024 Budapest Margit körút 50-52."
+  },
+  "1023 Budapest 02. ker. Frankel Leó   21-23.": {
+    "lat": 47.5167244,
+    "lon": 19.0368039,
+    "query_used": "1023 Budapest Frankel Leó 21."
+  },
+  "1184 Budapest 18. ker. Üllői út 346.": {
+    "lat": 47.4478721,
+    "lon": 19.1678536,
+    "query_used": "1184 Budapest Üllői út 346."
+  },
+  "1188 Budapest 18. ker. Alacskai út 3.": {
+    "lat": 47.418921,
+    "lon": 19.2066091,
+    "query_used": "1188 Budapest Alacskai út 3."
+  },
+  "1181 Budapest, Gyömrői út 154444/2. Hrsz.": {
+    "lat": 47.4579273,
+    "lon": 19.1760905,
+    "query_used": "1181 Budapest, Gyömrői út"
+  },
+  "1188 Budapest 18. ker. Nagykőrösi út 73.": {
+    "lat": 47.4123999,
+    "lon": 19.1748003,
+    "query_used": "1188 Budapest Nagykőrösi út 73."
+  },
+  "1124 Budapest 12. ker. Pagony utca 29.": {
+    "lat": 47.4951926,
+    "lon": 19.0038117,
+    "query_used": "1124 Budapest Pagony utca 29."
+  },
+  "1192 Budapest 19. ker. Nádasdy utca 31.": {
+    "lat": 47.4497258,
+    "lon": 19.1299713,
+    "query_used": "1192 Budapest Nádasdy utca 31."
+  },
+  "1112 Budapest 11. ker. Budaörsi út 35.": {
+    "lat": 47.4801762,
+    "lon": 19.0263819,
+    "query_used": "1112 Budapest Budaörsi út 35."
+  },
+  "1115 Budapest 11. ker. Kosztolányi Dezső tér 5.": {
+    "lat": 47.4754473,
+    "lon": 19.0392981,
+    "query_used": "1115 Budapest Kosztolányi Dezső tér 5."
+  },
+  "1117 Budapest 11. ker. Október huszonharmadika utca 21. fsz.": {
+    "lat": 47.4734715,
+    "lon": 19.0501977,
+    "query_used": "1117 Budapest Október huszonharmadika utca 21."
+  },
+  "1174 Budapest 17. ker. Kvasz András utca 27/C. 3.a": {
+    "lat": 47.4707686,
+    "lon": 19.2282012,
+    "query_used": "1174 Budapest Kvasz András utca"
+  },
+  "1173 Budapest 17. ker. Pesti út 16-18": {
+    "lat": 47.4840545,
+    "lon": 19.2361843,
+    "query_used": "1173 Budapest Pesti út 16-18"
+  },
+  "1073 Budapest 07. ker. Erzsébet körút 56.": {
+    "lat": 47.5028969,
+    "lon": 19.0658309,
+    "query_used": "1073 Budapest Erzsébet körút 56."
+  },
+  "1064 Budapest 06. ker. Szondi utca 44/A": {
+    "lat": 47.5114108,
+    "lon": 19.0657354,
+    "query_used": "1064 Budapest Szondi utca 44/A"
+  },
+  "1074 Budapest 07. ker. Király utca 67.": {
+    "lat": 47.5036661,
+    "lon": 19.0664754,
+    "query_used": "1074 Budapest Király utca 67."
+  },
+  "1062 Budapest 06. ker. Oktogon tér 4.": {
+    "lat": 47.505852,
+    "lon": 19.0635609,
+    "query_used": "1062 Budapest Oktogon tér 4."
+  }
+}
