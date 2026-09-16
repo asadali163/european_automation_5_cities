@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .streamlit/secrets.toml
 .~lock.*#
+
+scrap_lat_long_from_map.py
+test.ipynb

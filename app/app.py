@@ -24,6 +24,8 @@ from data_loader import (
 
 st.set_page_config(page_title="EU Cities — Shop Map", page_icon="🗺️", layout="wide")
 
+DEFAULT_FILE = "Budapest/Budapest Official List_copy_scraped.csv"
+
 st.title("EU Cities Project")
 st.caption("Shop mapping dashboard — pick a data file to plot it on the map.")
 
@@ -40,6 +42,8 @@ with st.sidebar:
         preselect = st.session_state.pop("preselect_label", None)
         if preselect and preselect in labels:
             default_idx = labels.index(preselect)
+        elif DEFAULT_FILE in labels:
+            default_idx = labels.index(DEFAULT_FILE)
         else:
             default_idx = next((i for i, l in enumerate(labels) if l.endswith("_geocoded.csv")), 0)
         choice = st.selectbox("CSV or Excel file", labels, index=default_idx)

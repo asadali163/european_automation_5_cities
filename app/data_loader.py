@@ -45,19 +45,24 @@ def load_dataset(path: Path):
       geocode_cache.json when one exists, without any network calls.
     Returns (dataframe, meta) where meta describes coverage.
     """
-    if path.suffix.lower() == ".csv":
-        df = pd.read_csv(path, dtype={"License Number": str})
-        if "Latitude" not in df.columns or "Longitude" not in df.columns:
-            df["Latitude"] = None
-            df["Longitude"] = None
+    is_csv = path.suffix.lower() == ".csv"
+    df = pd.read_csv(path, dtype={"License Number": str, "License number": str}) if is_csv \
+        else pd.read_excel(path, dtype={"License number": str})
+    df = df.rename(columns={
+        "License number": "License Number",
+        "Address of tobacco product sales point (location)": "Address",
+        "Start of validity": "Start of Validity",
+        "End of validity": "End of Validity",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+    })
+    if "Latitude" in df.columns and "Longitude" in df.columns:
+        # Already geocoded (e.g. by build_geocoded_csv.py or the Maps scraper).
+        pass
+    elif is_csv:
+        df["Latitude"] = None
+        df["Longitude"] = None
     else:
-        df = pd.read_excel(path, dtype={"License number": str})
-        df = df.rename(columns={
-            "License number": "License Number",
-            "Address of tobacco product sales point (location)": "Address",
-            "Start of validity": "Start of Validity",
-            "End of validity": "End of Validity",
-        })
         cache = load_cache_for(path)
         lats, lons = [], []
         for addr in df["Address"]:
